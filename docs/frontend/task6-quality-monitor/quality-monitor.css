@@ -1,0 +1,103 @@
+.quality-page {
+  padding: 24px;
+  background: #f6f7fb;
+  color: #172033;
+}
+
+.quality-header,
+.quality-card,
+.editor-panel,
+.feedback-popover {
+  border: 1px solid #e5e7eb;
+  border-radius: 8px;
+  background: #fff;
+  padding: 18px;
+  margin-bottom: 16px;
+}
+
+.quality-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+
+.quality-header nav,
+.editor-panel div,
+.feedback-actions {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+
+button,
+select,
+textarea,
+input {
+  border: 1px solid #cbd5e1;
+  border-radius: 8px;
+  padding: 9px 10px;
+  font: inherit;
+}
+
+button {
+  cursor: pointer;
+  background: #eef2ff;
+  color: #1d4ed8;
+  font-weight: 700;
+}
+
+button.active,
+button.primary {
+  border-color: #2563eb;
+  background: #2563eb;
+  color: #fff;
+}
+
+button.ghost {
+  background: #fff;
+  color: #475569;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th,
+td {
+  border-bottom: 1px solid #e5e7eb;
+  padding: 10px;
+  text-align: left;
+  vertical-align: top;
+}
+
+.editor-panel {
+  display: grid;
+  gap: 10px;
+}
+
+.editor-panel textarea {
+  min-height: 180px;
+  font-family: ui-monospace, SFMono-Regular, Consolas, monospace;
+}
+
+.feedback-widget {
+  position: relative;
+  display: inline-block;
+}
+
+.feedback-popover {
+  position: absolute;
+  right: 0;
+  z-index: 10;
+  display: grid;
+  width: min(360px, 90vw);
+  gap: 10px;
+  box-shadow: 0 20px 40px rgb(15 23 42 / 14%);
+}
+
+.feedback-popover textarea {
+  min-height: 90px;
+}

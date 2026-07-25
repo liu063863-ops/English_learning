@@ -1,0 +1,270 @@
+{
+  "exams": [
+    {
+      "_id": { "$oid": "650000000000000000000001" },
+      "title": "2023年6月大学英语四级考试真题（第一套）",
+      "level": "CET4",
+      "year": 2023,
+      "month": 6,
+      "set_num": 1,
+      "source": "past_exam",
+      "source_meta": {
+        "provider": "GitHub",
+        "repo": "DieDiDi/CET4-6-past-exam-paper",
+        "folder_path": "四六级历年真题汇总/2023年06月英语四六级/2023年06月CET4题+解+听力",
+        "question_pdf_url": "https://raw.githubusercontent.com/DieDiDi/CET4-6-past-exam-paper/main/example-question.pdf",
+        "answer_pdf_url": "https://raw.githubusercontent.com/DieDiDi/CET4-6-past-exam-paper/main/example-answer.pdf"
+      },
+      "status": "published",
+      "created_at": { "$date": "2026-07-23T00:00:00.000Z" },
+      "updated_at": { "$date": "2026-07-23T00:00:00.000Z" }
+    }
+  ],
+  "sections": [
+    {
+      "_id": { "$oid": "650000000000000000000101" },
+      "exam_id": { "$oid": "650000000000000000000001" },
+      "section_type": "listening",
+      "section_name": "听力理解",
+      "order_index": 1,
+      "total_score": 35,
+      "time_limit": 25,
+      "created_at": { "$date": "2026-07-23T00:00:00.000Z" },
+      "updated_at": { "$date": "2026-07-23T00:00:00.000Z" }
+    },
+    {
+      "_id": { "$oid": "650000000000000000000102" },
+      "exam_id": { "$oid": "650000000000000000000001" },
+      "section_type": "reading",
+      "section_name": "阅读理解",
+      "order_index": 2,
+      "total_score": 35,
+      "time_limit": 40,
+      "created_at": { "$date": "2026-07-23T00:00:00.000Z" },
+      "updated_at": { "$date": "2026-07-23T00:00:00.000Z" }
+    },
+    {
+      "_id": { "$oid": "650000000000000000000103" },
+      "exam_id": { "$oid": "650000000000000000000001" },
+      "section_type": "translation",
+      "section_name": "翻译",
+      "order_index": 3,
+      "total_score": 15,
+      "time_limit": 30,
+      "created_at": { "$date": "2026-07-23T00:00:00.000Z" },
+      "updated_at": { "$date": "2026-07-23T00:00:00.000Z" }
+    },
+    {
+      "_id": { "$oid": "650000000000000000000104" },
+      "exam_id": { "$oid": "650000000000000000000001" },
+      "section_type": "writing",
+      "section_name": "写作",
+      "order_index": 4,
+      "total_score": 15,
+      "time_limit": 30,
+      "created_at": { "$date": "2026-07-23T00:00:00.000Z" },
+      "updated_at": { "$date": "2026-07-23T00:00:00.000Z" }
+    }
+  ],
+  "audio_files": [
+    {
+      "_id": { "$oid": "650000000000000000000201" },
+      "exam_id": { "$oid": "650000000000000000000001" },
+      "section_id": { "$oid": "650000000000000000000101" },
+      "file_url": "https://raw.githubusercontent.com/DieDiDi/CET4-6-past-exam-paper/main/example-cet4-2023-06-set1.mp3",
+      "duration": 1500,
+      "transcript_full": "A university library has introduced a new reservation system to help students find seats during exam season...",
+      "source_meta": {
+        "file_name": "2023年06月四级听力第一套.mp3",
+        "github_url": "https://github.com/DieDiDi/CET4-6-past-exam-paper/blob/main/example-cet4-2023-06-set1.mp3",
+        "raw_url": "https://raw.githubusercontent.com/DieDiDi/CET4-6-past-exam-paper/main/example-cet4-2023-06-set1.mp3"
+      },
+      "created_at": { "$date": "2026-07-23T00:00:00.000Z" },
+      "updated_at": { "$date": "2026-07-23T00:00:00.000Z" }
+    }
+  ],
+  "passages": [
+    {
+      "_id": { "$oid": "650000000000000000000301" },
+      "section_id": { "$oid": "650000000000000000000102" },
+      "title": "Digital Learning Habits",
+      "order_index": 1,
+      "passage_text": "Digital learning tools have changed the way college students prepare for exams.\nApps can remind learners to review words, analyze mistakes and manage study time.\nHowever, experts point out that technology works best when students set clear goals and reflect on their performance regularly.",
+      "paragraph_markers": [
+        {
+          "paragraph_id": "P1",
+          "order_index": 1,
+          "start_offset": 0,
+          "end_offset": 86,
+          "text_preview": "Digital learning tools have changed the way..."
+        },
+        {
+          "paragraph_id": "P2",
+          "order_index": 2,
+          "start_offset": 87,
+          "end_offset": 166,
+          "text_preview": "Apps can remind learners to review words..."
+        },
+        {
+          "paragraph_id": "P3",
+          "order_index": 3,
+          "start_offset": 167,
+          "end_offset": 286,
+          "text_preview": "However, experts point out that technology..."
+        }
+      ],
+      "created_at": { "$date": "2026-07-23T00:00:00.000Z" },
+      "updated_at": { "$date": "2026-07-23T00:00:00.000Z" }
+    }
+  ],
+  "questions": [
+    {
+      "_id": { "$oid": "650000000000000000000401" },
+      "section_id": { "$oid": "650000000000000000000101" },
+      "passage_id": null,
+      "audio_file_id": { "$oid": "650000000000000000000201" },
+      "question_type": "single_choice",
+      "order_index": 1,
+      "question_text": {
+        "raw": "What has the university library introduced?",
+        "html": "<p>What has the university library introduced?</p>"
+      },
+      "options": [
+        { "key": "A", "text": "A seat reservation system.", "is_correct": true },
+        { "key": "B", "text": "A new online bookstore.", "is_correct": false },
+        { "key": "C", "text": "A language exchange program.", "is_correct": false },
+        { "key": "D", "text": "A writing competition.", "is_correct": false }
+      ],
+      "correct_answer": "A",
+      "explanation": {
+        "raw": "音频提到 library introduced a new reservation system。",
+        "html": "<p>音频提到 <b>introduced a new reservation system</b>。</p>"
+      },
+      "audio_start_time": 0,
+      "audio_end_time": 195,
+      "transcript": "A university library has introduced a new reservation system...",
+      "passage_ref": { "passage_id": null, "paragraph_ids": [], "evidence_text": "" },
+      "tags": ["listening-detail", "campus-life"],
+      "difficulty": 2,
+      "score": 2.5,
+      "import_meta": { "source_question_no": "L1", "confidence": 0.85, "needs_review": true },
+      "created_at": { "$date": "2026-07-23T00:00:00.000Z" },
+      "updated_at": { "$date": "2026-07-23T00:00:00.000Z" }
+    },
+    {
+      "_id": { "$oid": "650000000000000000000402" },
+      "section_id": { "$oid": "650000000000000000000102" },
+      "passage_id": { "$oid": "650000000000000000000301" },
+      "audio_file_id": null,
+      "question_type": "single_choice",
+      "order_index": 1,
+      "question_text": {
+        "raw": "What is the passage mainly about?",
+        "html": "<p>What is the passage mainly about?</p>"
+      },
+      "options": [
+        { "key": "A", "text": "The cost of college textbooks.", "is_correct": false },
+        { "key": "B", "text": "How digital tools support exam preparation.", "is_correct": true },
+        { "key": "C", "text": "Why students should avoid technology.", "is_correct": false },
+        { "key": "D", "text": "The history of language exams.", "is_correct": false }
+      ],
+      "correct_answer": "B",
+      "explanation": {
+        "raw": "文章主要讨论数字学习工具如何帮助学生备考。",
+        "html": "<p>文章主要讨论数字学习工具如何帮助学生备考。</p>"
+      },
+      "audio_start_time": null,
+      "audio_end_time": null,
+      "transcript": "",
+      "passage_ref": {
+        "passage_id": { "$oid": "650000000000000000000301" },
+        "paragraph_ids": ["P1", "P2"],
+        "evidence_text": "Digital learning tools have changed the way college students prepare for exams."
+      },
+      "tags": ["reading-main-idea", "digital-learning"],
+      "difficulty": 2,
+      "score": 3,
+      "import_meta": { "source_question_no": "R1", "confidence": 0.8, "needs_review": true },
+      "created_at": { "$date": "2026-07-23T00:00:00.000Z" },
+      "updated_at": { "$date": "2026-07-23T00:00:00.000Z" }
+    },
+    {
+      "_id": { "$oid": "650000000000000000000403" },
+      "section_id": { "$oid": "650000000000000000000103" },
+      "passage_id": null,
+      "audio_file_id": null,
+      "question_type": "subjective",
+      "order_index": 1,
+      "question_text": {
+        "raw": "将下面中文翻译成英文：系统性的复盘能帮助学生发现薄弱环节。",
+        "html": "<p>将下面中文翻译成英文：系统性的复盘能帮助学生发现薄弱环节。</p>"
+      },
+      "options": [],
+      "correct_answer": {
+        "reference": "Systematic review can help students identify their weak points.",
+        "rubric": ["信息完整", "语法准确", "表达自然"]
+      },
+      "explanation": {
+        "raw": "主观题需要人工或半自动评分。",
+        "html": "<p>主观题需要人工或半自动评分。</p>"
+      },
+      "audio_start_time": null,
+      "audio_end_time": null,
+      "transcript": "",
+      "passage_ref": { "passage_id": null, "paragraph_ids": [], "evidence_text": "" },
+      "tags": ["translation"],
+      "difficulty": 3,
+      "score": 15,
+      "import_meta": { "source_question_no": "T1", "confidence": 0.75, "needs_review": true },
+      "created_at": { "$date": "2026-07-23T00:00:00.000Z" },
+      "updated_at": { "$date": "2026-07-23T00:00:00.000Z" }
+    },
+    {
+      "_id": { "$oid": "650000000000000000000404" },
+      "section_id": { "$oid": "650000000000000000000104" },
+      "passage_id": null,
+      "audio_file_id": null,
+      "question_type": "subjective",
+      "order_index": 1,
+      "question_text": {
+        "raw": "Write an essay of at least 120 words on the importance of reviewing mistakes.",
+        "html": "<p>Write an essay of at least 120 words on the importance of reviewing mistakes.</p>"
+      },
+      "options": [],
+      "correct_answer": {
+        "reference": "",
+        "rubric": ["切题", "结构清晰", "语言准确", "论证充分"]
+      },
+      "explanation": {
+        "raw": "写作题无唯一标准答案，保留评分规则。",
+        "html": "<p>写作题无唯一标准答案，保留评分规则。</p>"
+      },
+      "audio_start_time": null,
+      "audio_end_time": null,
+      "transcript": "",
+      "passage_ref": { "passage_id": null, "paragraph_ids": [], "evidence_text": "" },
+      "tags": ["writing"],
+      "difficulty": 3,
+      "score": 15,
+      "import_meta": { "source_question_no": "W1", "confidence": 0.75, "needs_review": true },
+      "created_at": { "$date": "2026-07-23T00:00:00.000Z" },
+      "updated_at": { "$date": "2026-07-23T00:00:00.000Z" }
+    }
+  ],
+  "user_answers": [
+    {
+      "_id": { "$oid": "650000000000000000000501" },
+      "user_id": { "$oid": "64f000000000000000000001" },
+      "exam_id": { "$oid": "650000000000000000000001" },
+      "section_id": { "$oid": "650000000000000000000102" },
+      "question_id": { "$oid": "650000000000000000000402" },
+      "session_id": null,
+      "answer": "B",
+      "is_correct": true,
+      "score_awarded": 3,
+      "submitted_at": { "$date": "2026-07-23T00:10:00.000Z" },
+      "created_at": { "$date": "2026-07-23T00:10:00.000Z" },
+      "updated_at": { "$date": "2026-07-23T00:10:00.000Z" }
+    }
+  ]
+}

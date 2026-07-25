@@ -1,0 +1,28 @@
+{
+  "name": "kaoyan-english-lab",
+  "version": "0.1.0",
+  "private": true,
+  "main": "electron/main.js",
+  "description": "A practical MVP study app for Chinese postgraduate English exam preparation.",
+  "workspaces": [
+    "backend",
+    "frontend"
+  ],
+  "scripts": {
+    "install:all": "pnpm install",
+    "dev": "concurrently \"pnpm --dir backend dev\" \"pnpm --dir frontend dev\"",
+    "start": "pnpm --dir backend start",
+    "seed": "pnpm --dir backend seed",
+    "init:data": "node scripts/initAllData.mjs",
+    "electron": "pnpm --dir electron start",
+    "electron:build": "pnpm --dir frontend build && pnpm --dir electron start",
+    "electron:dev": "concurrently \"cmd /c set PORT=3001&& pnpm --dir backend start\" \"powershell -NoProfile -Command Start-Sleep -Seconds 3; cmd /c set ELECTRON_EXTERNAL_BACKEND=1&& set ELECTRON_BACKEND_PORT=3001&& npx electron .\"",
+    "electron:direct": "npx electron .",
+    "package:win": "pnpm --dir frontend build && pnpm --dir electron package:win",
+    "desktop": "pnpm --dir electron start",
+    "desktop:dev": "pnpm --dir electron start"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+}

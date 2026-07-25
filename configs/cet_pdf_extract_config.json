@@ -1,0 +1,45 @@
+{
+  "output_dir": "backend/data/extracted",
+  "local_audio_public_prefix": "/uploads/audio",
+  "noise_patterns": [
+    "^\\s*第\\s*\\d+\\s*页\\s*$",
+    "^\\s*Page\\s+\\d+\\s*$",
+    "^\\s*\\d+\\s*/\\s*\\d+\\s*$",
+    "^\\s*大学英语[四六]级考试.*$",
+    "^\\s*CET[- ]?[46].*$"
+  ],
+  "section_patterns": {
+    "writing": [
+      "Part\\s*I\\s+Writing",
+      "写作"
+    ],
+    "listening": [
+      "Part\\s*II\\s+Listening\\s+Comprehension",
+      "Listening\\s+Comprehension",
+      "听力理解"
+    ],
+    "reading": [
+      "Part\\s*III\\s+Reading\\s+Comprehension",
+      "Reading\\s+Comprehension",
+      "阅读理解"
+    ],
+    "translation": [
+      "Part\\s*IV\\s+Translation",
+      "Translation",
+      "翻译"
+    ]
+  },
+  "answer_patterns": [
+    "(?:答案|Answer|Answers)\\s*[:：]?\\s*([A-D](?:\\s*[,，/]?\\s*[A-D])*)",
+    "^(\\d{1,2})\\s*[.、)]\\s*([A-D](?:\\s*[,，/]?\\s*[A-D])*)\\b"
+  ],
+  "question_start_pattern": "(?m)(^|\\n)\\s*(\\d{1,2})\\s*[.、)]\\s+",
+  "option_pattern": "([A-D])\\s*[.、)]\\s*([^A-D\\n]+?)(?=(?:\\s+[A-D]\\s*[.、)]|\\n|$))",
+  "default_scores": {
+    "single_choice": 2.5,
+    "multiple_choice": 3,
+    "blank": 2,
+    "subjective_translation": 15,
+    "subjective_writing": 15
+  }
+}

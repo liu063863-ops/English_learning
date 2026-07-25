@@ -1,0 +1,74 @@
+.ai-review-page {
+  padding: 24px;
+  background: #f6f7fb;
+  color: #172033;
+}
+
+.ai-review-header,
+.review-note,
+.candidate-card {
+  border: 1px solid #e5e7eb;
+  border-radius: 8px;
+  background: #fff;
+  padding: 18px;
+  margin-bottom: 16px;
+}
+
+.ai-review-header,
+.candidate-actions,
+.candidate-meta {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+select,
+input,
+button {
+  border: 1px solid #cbd5e1;
+  border-radius: 8px;
+  padding: 9px 10px;
+  font: inherit;
+}
+
+input {
+  width: min(680px, 100%);
+}
+
+button {
+  cursor: pointer;
+  background: #eef2ff;
+  color: #1d4ed8;
+  font-weight: 700;
+}
+
+button.primary {
+  border-color: #2563eb;
+  background: #2563eb;
+  color: #fff;
+}
+
+button.danger {
+  border-color: #dc2626;
+  background: #fee2e2;
+  color: #991b1b;
+}
+
+.candidate-card h2 {
+  font-size: 18px;
+}
+
+.candidate-card pre {
+  white-space: pre-wrap;
+  border-radius: 8px;
+  background: #f8fafc;
+  padding: 14px;
+  line-height: 1.65;
+}
+
+.candidate-meta {
+  justify-content: flex-start;
+  color: #475569;
+}

@@ -1,0 +1,225 @@
+{
+  "examType": "CET4",
+  "year": 2023,
+  "month": 6,
+  "paperNo": 1,
+  "title": "2023年6月大学英语四级考试真题（第1套）示例结构",
+  "source": {
+    "provider": "internal-import",
+    "originalUrl": "https://example.com/cet4/2023-06-1",
+    "importedAt": "2026-07-23T00:00:00.000Z"
+  },
+  "totalScore": 100,
+  "durationMinutes": 125,
+  "status": "published",
+  "sections": [
+    {
+      "sectionNo": 1,
+      "type": "listening",
+      "title": "听力理解",
+      "instruction": "播放听力音频，根据每个分段回答对应问题。",
+      "totalScore": 35,
+      "durationMinutes": 25,
+      "audio": {
+        "url": "https://example.com/audio/cet4-2023-06-paper1.mp3",
+        "durationSec": 1500,
+        "format": "mp3"
+      },
+      "listeningSegments": [
+        {
+          "segmentNo": 1,
+          "title": "Part A News Report 1",
+          "startSec": 0,
+          "endSec": 195,
+          "transcript": "A university library has introduced a new reservation system to help students find seats during exam season. The system allows students to check available seats in real time and reserve one for up to two hours.",
+          "questions": [
+            {
+              "questionNo": 1,
+              "questionKey": "cet4-2023-06-1-L1",
+              "type": "single-choice",
+              "prompt": "What has the university library introduced?",
+              "options": [
+                { "key": "A", "text": "A seat reservation system." },
+                { "key": "B", "text": "A new online bookstore." },
+                { "key": "C", "text": "A language exchange program." },
+                { "key": "D", "text": "A writing competition." }
+              ],
+              "correctAnswer": "A",
+              "explanation": "音频中提到 the library has introduced a new reservation system，且后文说明该系统用于预约座位。",
+              "knowledgeTags": ["listening-detail", "campus-life"],
+              "difficulty": 2,
+              "score": 2.5
+            },
+            {
+              "questionNo": 2,
+              "questionKey": "cet4-2023-06-1-L2",
+              "type": "single-choice",
+              "prompt": "How long can a student reserve a seat?",
+              "options": [
+                { "key": "A", "text": "Thirty minutes." },
+                { "key": "B", "text": "One hour." },
+                { "key": "C", "text": "Two hours." },
+                { "key": "D", "text": "One day." }
+              ],
+              "correctAnswer": "C",
+              "explanation": "音频原文出现 reserve one for up to two hours，因此答案为 C。",
+              "knowledgeTags": ["number-detail", "listening-detail"],
+              "difficulty": 1,
+              "score": 2.5
+            },
+            {
+              "questionNo": 3,
+              "questionKey": "cet4-2023-06-1-L3",
+              "type": "single-choice",
+              "prompt": "Why was the system introduced?",
+              "options": [
+                { "key": "A", "text": "To reduce book prices." },
+                { "key": "B", "text": "To help students find seats during exam season." },
+                { "key": "C", "text": "To teach students programming." },
+                { "key": "D", "text": "To collect library fines." }
+              ],
+              "correctAnswer": "B",
+              "explanation": "题干询问目的，原文中 to help students find seats during exam season 是直接目的。",
+              "knowledgeTags": ["purpose", "listening-detail"],
+              "difficulty": 2,
+              "score": 2.5
+            }
+          ]
+        },
+        {
+          "segmentNo": 2,
+          "title": "Part B Long Conversation",
+          "startSec": 196,
+          "endSec": 520,
+          "transcript": "A student talks with a teacher about improving academic writing. The teacher suggests making an outline, checking paragraph logic and revising after receiving feedback.",
+          "questions": [
+            {
+              "questionNo": 4,
+              "questionKey": "cet4-2023-06-1-L4",
+              "type": "multiple-choice",
+              "prompt": "Which suggestions does the teacher give?",
+              "options": [
+                { "key": "A", "text": "Make an outline." },
+                { "key": "B", "text": "Check paragraph logic." },
+                { "key": "C", "text": "Avoid feedback." },
+                { "key": "D", "text": "Revise the paper." }
+              ],
+              "correctAnswer": ["A", "B", "D"],
+              "explanation": "老师建议列提纲、检查段落逻辑、根据反馈修改；C 与原文相反。",
+              "knowledgeTags": ["listening-detail", "academic-writing", "multiple-choice"],
+              "difficulty": 3,
+              "score": 3
+            }
+          ]
+        }
+      ],
+      "readingPassages": [],
+      "questions": []
+    },
+    {
+      "sectionNo": 2,
+      "type": "reading",
+      "title": "阅读理解",
+      "instruction": "阅读文章并回答问题。",
+      "totalScore": 35,
+      "durationMinutes": 40,
+      "audio": { "url": "", "durationSec": 0, "format": "mp3" },
+      "listeningSegments": [],
+      "readingPassages": [
+        {
+          "passageNo": 1,
+          "title": "Digital Learning Habits",
+          "content": "Digital learning tools have changed the way college students prepare for exams. Apps can remind learners to review words, analyze mistakes and manage study time. However, experts point out that technology works best when students set clear goals and reflect on their performance regularly.",
+          "questions": [
+            {
+              "questionNo": 5,
+              "questionKey": "cet4-2023-06-1-R1",
+              "type": "single-choice",
+              "prompt": "What is the passage mainly about?",
+              "options": [
+                { "key": "A", "text": "The cost of college textbooks." },
+                { "key": "B", "text": "How digital tools support exam preparation." },
+                { "key": "C", "text": "Why students should avoid technology." },
+                { "key": "D", "text": "The history of language exams." }
+              ],
+              "correctAnswer": "B",
+              "explanation": "文章围绕 digital learning tools 如何帮助备考展开，包括背词提醒、错题分析和时间管理。",
+              "knowledgeTags": ["main-idea", "digital-learning"],
+              "difficulty": 2,
+              "score": 3
+            },
+            {
+              "questionNo": 6,
+              "questionKey": "cet4-2023-06-1-R2",
+              "type": "blank",
+              "prompt": "According to the passage, technology works best when students set clear ______.",
+              "options": [],
+              "correctAnswer": ["goals"],
+              "explanation": "原文为 technology works best when students set clear goals。",
+              "knowledgeTags": ["detail", "vocabulary-in-context"],
+              "difficulty": 2,
+              "score": 2
+            }
+          ]
+        }
+      ],
+      "questions": []
+    },
+    {
+      "sectionNo": 3,
+      "type": "translation",
+      "title": "翻译",
+      "instruction": "将中文段落翻译成英文。",
+      "totalScore": 15,
+      "durationMinutes": 30,
+      "audio": { "url": "", "durationSec": 0, "format": "mp3" },
+      "listeningSegments": [],
+      "readingPassages": [],
+      "questions": [
+        {
+          "questionNo": 7,
+          "questionKey": "cet4-2023-06-1-T1",
+          "type": "subjective",
+          "prompt": "中国大学生越来越重视英语学习中的长期积累。每天坚持背单词、阅读文章并复盘错题，能够帮助他们在考试中取得更稳定的成绩。",
+          "options": [],
+          "correctAnswer": {
+            "reference": "Chinese college students are paying increasing attention to long-term accumulation in English learning. Reviewing vocabulary, reading articles and revisiting mistakes every day can help them achieve more stable results in exams.",
+            "rubric": ["信息完整", "语法准确", "表达自然", "关键词翻译正确"]
+          },
+          "explanation": "主观题需人工或半自动评分；参考答案用于评分提示，不建议要求逐字一致。",
+          "knowledgeTags": ["translation", "long-term-learning", "sentence-structure"],
+          "difficulty": 3,
+          "score": 15
+        }
+      ]
+    },
+    {
+      "sectionNo": 4,
+      "type": "writing",
+      "title": "写作",
+      "instruction": "按要求完成英文作文。",
+      "totalScore": 15,
+      "durationMinutes": 30,
+      "audio": { "url": "", "durationSec": 0, "format": "mp3" },
+      "listeningSegments": [],
+      "readingPassages": [],
+      "questions": [
+        {
+          "questionNo": 8,
+          "questionKey": "cet4-2023-06-1-W1",
+          "type": "subjective",
+          "prompt": "Directions: Write an essay of at least 120 words on the importance of reviewing mistakes in English learning.",
+          "options": [],
+          "correctAnswer": {
+            "reference": "",
+            "rubric": ["切题", "结构清晰", "语言准确", "论证充分"]
+          },
+          "explanation": "写作题无唯一标准答案，后续可接入人工评分或 AI 辅助评分。",
+          "knowledgeTags": ["writing", "argumentation", "mistake-review"],
+          "difficulty": 3,
+          "score": 15
+        }
+      ]
+    }
+  ]
+}
