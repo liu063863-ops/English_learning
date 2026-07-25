@@ -1216,21 +1216,19 @@ textarea:focus {
 
 .search-input {
   width: 240px;
-  border: 1px solid var(--color-border);
-  border-radius: var(--radius-md);
+  border: 1px solid #e2e8f0;
+  border-radius: 10px;
   padding: 8px 16px 8px 38px;
-  background: var(--color-surface);
+  background: white;
   color: var(--color-text-primary);
   font-size: 14px;
-  transition:
-    border-color var(--transition-fast),
-    box-shadow var(--transition-fast);
+  transition: all 0.2s;
 }
 
 .search-input:focus {
-  border-color: var(--color-primary);
-  box-shadow: 0 0 0 3px color-mix(in srgb, var(--color-primary) 10%, transparent);
   outline: none;
+  border-color: #3b82f6;
+  box-shadow: 0 0 0 3px rgba(59,130,246,0.1);
 }
 
 .level-toggle {
