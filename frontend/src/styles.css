@@ -68,7 +68,7 @@ textarea {
   display: flex;
   align-items: center;
   gap: 12px;
-  border-bottom: 1px solid color-mix(in srgb, var(--color-surface) 5%, transparent);
+  border-bottom: 1px solid rgba(255,255,255,0.05);
   margin: -22px -16px 18px;
   min-height: 76px;
   padding: 20px;
@@ -76,15 +76,15 @@ textarea {
 }
 
 .logo-icon {
-  flex: 0 0 42px;
+  flex-shrink: 0;
   display: flex;
   align-items: center;
   justify-content: center;
   width: 36px;
   height: 36px;
   border-radius: 10px;
-  background: linear-gradient(135deg, var(--color-accent), color-mix(in srgb, var(--color-accent) 72%, var(--color-text-primary)));
-  color: var(--color-surface);
+  background: linear-gradient(135deg, #f59e0b, #d97706);
+  color: white;
   box-shadow: 0 10px 22px color-mix(in srgb, var(--color-accent) 20%, transparent);
   font-size: 18px;
   font-weight: 700;
@@ -106,8 +106,9 @@ textarea {
 .logo-text strong {
   display: block;
   overflow: hidden;
-  color: var(--color-surface);
-  font-weight: 700;
+  color: white;
+  font-size: 15px;
+  font-weight: 600;
   text-overflow: ellipsis;
   white-space: nowrap;
 }
@@ -115,8 +116,8 @@ textarea {
 .logo-subtitle,
 .logo-text span {
   display: block;
-  color: rgba(255, 255, 255, 0.56);
-  font-size: 13px;
+  color: rgba(255,255,255,0.5);
+  font-size: 12px;
   overflow: hidden;
   text-overflow: ellipsis;
   white-space: nowrap;
