@@ -1330,19 +1330,19 @@ textarea:focus {
 
 .exam-card {
   position: relative;
-  display: grid;
-  gap: 14px;
+  display: flex;
+  flex-direction: column;
   min-height: 218px;
-  border: 1px solid var(--color-border);
-  border-radius: var(--radius-lg);
+  border: 1px solid #e2e8f0;
+  border-radius: 16px;
   padding: 24px;
-  background: var(--color-surface);
+  background: white;
   color: var(--color-text-primary);
-  box-shadow: var(--shadow-sm);
+  box-shadow: 0 1px 3px rgba(0,0,0,0.05);
   cursor: pointer;
   overflow: hidden;
   text-align: left;
-  transition: all var(--transition-base);
+  transition: all 0.25s ease;
 }
 
 .exam-card::before {
@@ -1351,16 +1351,15 @@ textarea:focus {
   top: 0;
   left: 0;
   right: 0;
-  height: 4px;
-  background: linear-gradient(90deg, var(--color-primary), var(--color-accent));
+  height: 3px;
+  background: linear-gradient(90deg, #3b82f6, #f59e0b);
   opacity: 0;
-  transition: opacity var(--transition-fast);
+  transition: opacity 0.25s;
 }
 
 .exam-card:hover {
-  border-color: var(--color-primary);
-  box-shadow: var(--shadow-lg);
   transform: translateY(-4px);
+  box-shadow: 0 12px 24px rgba(0,0,0,0.1);
 }
 
 .exam-card:focus-visible {
@@ -1447,7 +1446,8 @@ textarea:focus {
 .exam-meta {
   display: flex;
   gap: 16px;
-  color: var(--color-text-muted);
+  margin: 16px 0;
+  color: #94a3b8;
   font-size: 13px;
   flex-wrap: wrap;
 }
@@ -1464,24 +1464,24 @@ textarea:focus {
   align-items: center;
   justify-content: center;
   gap: 6px;
-  width: fit-content;
-  min-height: 36px;
+  width: 100%;
   margin-top: auto;
-  border-radius: var(--radius-md);
-  padding: 8px 14px;
-  background: linear-gradient(135deg, var(--color-primary), var(--color-primary-hover));
+  border: none;
+  border-radius: 8px;
+  padding: 10px;
+  background: linear-gradient(135deg, #3b82f6, #2563eb);
   color: white;
-  font-size: 13px;
-  font-weight: 700;
-  box-shadow: 0 8px 18px color-mix(in srgb, var(--color-primary) 22%, transparent);
-  transition:
-    transform var(--transition-fast),
-    box-shadow var(--transition-fast);
+  cursor: pointer;
+  font-size: 14px;
+  font-weight: 500;
+  text-align: center;
+  transition: all 0.2s;
 }
 
-.exam-card:hover .exam-action {
+.exam-card:hover .exam-action,
+.exam-action:hover {
   transform: translateY(-1px);
-  box-shadow: 0 12px 24px color-mix(in srgb, var(--color-primary) 28%, transparent);
+  box-shadow: 0 4px 12px rgba(59,130,246,0.4);
 }
 
 .pagination-row {
