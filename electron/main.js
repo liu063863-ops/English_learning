@@ -220,9 +220,9 @@ async function waitForBackend(timeoutMs = 10000) {
   throw new Error(`Backend did not start on port ${backendPort}`);
 }
 
-async function findAvailablePort(startPort) {
+async function findAvailablePort(startPort, reservedPorts = new Set()) {
   let port = startPort;
-  while (await canConnect(port)) port += 1;
+  while (reservedPorts.has(port) || await canConnect(port)) port += 1;
   return port;
 }
 
@@ -274,7 +274,7 @@ app.whenReady().then(async () => {
     console.log(`Frontend dist: ${frontendDist}`);
     const useExternalBackend = process.env.ELECTRON_EXTERNAL_BACKEND === "1";
     if (!useExternalBackend) backendPort = await findAvailablePort(backendPort);
-    appPort = await findAvailablePort(appPort);
+    appPort = await findAvailablePort(appPort, new Set([backendPort]));
     console.log(`Ports: app=${appPort}, backend=${backendPort}`);
     const dataPaths = initDatabase();
     console.log(`SQLite DB: ${dataPaths.dbPath}`);
