@@ -1,0 +1,186 @@
+{
+  "exams": [
+    {
+      "_id": { "$oid": "9f0e20230601000000000001" },
+      "title": "2023年6月CET4第1套",
+      "level": "CET4",
+      "year": 2023,
+      "month": 6,
+      "set_num": 1,
+      "source": "past_exam",
+      "source_meta": {
+        "provider": "local-folder",
+        "repo": "DieDiDi/CET4-6-past-exam-paper",
+        "folder_path": "D:/CET/2023年6月CET4第1套",
+        "question_pdf_url": "D:/CET/2023年6月CET4第1套/真题.pdf",
+        "answer_pdf_url": "D:/CET/2023年6月CET4第1套/答案解析.pdf"
+      },
+      "status": "draft",
+      "created_at": { "$date": "2026-07-23T00:00:00.000Z" },
+      "updated_at": { "$date": "2026-07-23T00:00:00.000Z" }
+    }
+  ],
+  "sections": [
+    {
+      "_id": { "$oid": "9f0e20230601000000000101" },
+      "exam_id": { "$oid": "9f0e20230601000000000001" },
+      "section_type": "listening",
+      "section_name": "听力理解",
+      "order_index": 1,
+      "total_score": 35,
+      "time_limit": 25,
+      "created_at": { "$date": "2026-07-23T00:00:00.000Z" },
+      "updated_at": { "$date": "2026-07-23T00:00:00.000Z" }
+    },
+    {
+      "_id": { "$oid": "9f0e20230601000000000102" },
+      "exam_id": { "$oid": "9f0e20230601000000000001" },
+      "section_type": "reading",
+      "section_name": "阅读理解",
+      "order_index": 2,
+      "total_score": 35,
+      "time_limit": 40,
+      "created_at": { "$date": "2026-07-23T00:00:00.000Z" },
+      "updated_at": { "$date": "2026-07-23T00:00:00.000Z" }
+    },
+    {
+      "_id": { "$oid": "9f0e20230601000000000103" },
+      "exam_id": { "$oid": "9f0e20230601000000000001" },
+      "section_type": "translation",
+      "section_name": "翻译",
+      "order_index": 3,
+      "total_score": 15,
+      "time_limit": 30,
+      "created_at": { "$date": "2026-07-23T00:00:00.000Z" },
+      "updated_at": { "$date": "2026-07-23T00:00:00.000Z" }
+    },
+    {
+      "_id": { "$oid": "9f0e20230601000000000104" },
+      "exam_id": { "$oid": "9f0e20230601000000000001" },
+      "section_type": "writing",
+      "section_name": "写作",
+      "order_index": 4,
+      "total_score": 15,
+      "time_limit": 30,
+      "created_at": { "$date": "2026-07-23T00:00:00.000Z" },
+      "updated_at": { "$date": "2026-07-23T00:00:00.000Z" }
+    }
+  ],
+  "audio_files": [
+    {
+      "_id": { "$oid": "9f0e20230601000000000201" },
+      "exam_id": { "$oid": "9f0e20230601000000000001" },
+      "section_id": { "$oid": "9f0e20230601000000000101" },
+      "file_url": "/uploads/audio/cet4-2023-06-set1.mp3",
+      "duration": 0,
+      "transcript_full": "",
+      "source_meta": {
+        "file_name": "2023年6月CET4第一套听力.mp3",
+        "github_url": "",
+        "raw_url": "/uploads/audio/cet4-2023-06-set1.mp3"
+      },
+      "created_at": { "$date": "2026-07-23T00:00:00.000Z" },
+      "updated_at": { "$date": "2026-07-23T00:00:00.000Z" }
+    }
+  ],
+  "passages": [
+    {
+      "_id": { "$oid": "9f0e20230601000000000301" },
+      "section_id": { "$oid": "9f0e20230601000000000102" },
+      "title": "Reading Passage 1",
+      "order_index": 1,
+      "passage_text": "Digital learning tools have changed the way college students prepare for exams.\nApps can remind learners to review words, analyze mistakes and manage study time.",
+      "paragraph_markers": [
+        {
+          "paragraph_id": "P1",
+          "order_index": 1,
+          "start_offset": 0,
+          "end_offset": 84,
+          "text_preview": "Digital learning tools have changed the way college students prepare for exams."
+        },
+        {
+          "paragraph_id": "P2",
+          "order_index": 2,
+          "start_offset": 85,
+          "end_offset": 163,
+          "text_preview": "Apps can remind learners to review words, analyze mistakes and manage study time."
+        }
+      ],
+      "created_at": { "$date": "2026-07-23T00:00:00.000Z" },
+      "updated_at": { "$date": "2026-07-23T00:00:00.000Z" }
+    }
+  ],
+  "questions": [
+    {
+      "_id": { "$oid": "9f0e20230601000000000401" },
+      "section_id": { "$oid": "9f0e20230601000000000101" },
+      "passage_id": null,
+      "audio_file_id": { "$oid": "9f0e20230601000000000201" },
+      "question_type": "single_choice",
+      "order_index": 1,
+      "question_text": { "raw": "What has the university library introduced?", "html": "" },
+      "options": [
+        { "key": "A", "text": "A seat reservation system.", "is_correct": true },
+        { "key": "B", "text": "A new bookstore.", "is_correct": false },
+        { "key": "C", "text": "A writing contest.", "is_correct": false },
+        { "key": "D", "text": "A language program.", "is_correct": false }
+      ],
+      "correct_answer": "A",
+      "explanation": { "raw": "答案解析 PDF 中识别到 reservation system。", "html": "" },
+      "audio_start_time": null,
+      "audio_end_time": null,
+      "transcript": "",
+      "passage_ref": { "passage_id": null, "paragraph_ids": [], "evidence_text": "" },
+      "tags": [],
+      "difficulty": 3,
+      "score": 2.5,
+      "import_meta": { "source_question_no": "L1", "confidence": 0.65, "needs_review": true },
+      "created_at": { "$date": "2026-07-23T00:00:00.000Z" },
+      "updated_at": { "$date": "2026-07-23T00:00:00.000Z" }
+    },
+    {
+      "_id": { "$oid": "9f0e20230601000000000402" },
+      "section_id": { "$oid": "9f0e20230601000000000102" },
+      "passage_id": { "$oid": "9f0e20230601000000000301" },
+      "audio_file_id": null,
+      "question_type": "single_choice",
+      "order_index": 1,
+      "question_text": { "raw": "What is the passage mainly about?", "html": "" },
+      "options": [
+        { "key": "A", "text": "The cost of textbooks.", "is_correct": false },
+        { "key": "B", "text": "How digital tools support exam preparation.", "is_correct": true },
+        { "key": "C", "text": "The history of exams.", "is_correct": false },
+        { "key": "D", "text": "Why students avoid technology.", "is_correct": false }
+      ],
+      "correct_answer": "B",
+      "explanation": { "raw": "文章主旨围绕 digital learning tools 和 exam preparation。", "html": "" },
+      "audio_start_time": null,
+      "audio_end_time": null,
+      "transcript": "",
+      "passage_ref": {
+        "passage_id": { "$oid": "9f0e20230601000000000301" },
+        "paragraph_ids": [],
+        "evidence_text": ""
+      },
+      "tags": [],
+      "difficulty": 3,
+      "score": 2.5,
+      "import_meta": { "source_question_no": "R1", "confidence": 0.65, "needs_review": true },
+      "created_at": { "$date": "2026-07-23T00:00:00.000Z" },
+      "updated_at": { "$date": "2026-07-23T00:00:00.000Z" }
+    }
+  ],
+  "extract_meta": {
+    "paper_id": "example-cet4-2023-06-set1",
+    "question_pdf": "D:/CET/2023年6月CET4第1套/真题.pdf",
+    "answer_pdf": "D:/CET/2023年6月CET4第1套/答案解析.pdf",
+    "audio_file": "D:/CET/2023年6月CET4第1套/听力.mp3",
+    "section_text_lengths": {
+      "listening": 3200,
+      "reading": 9000,
+      "translation": 500,
+      "writing": 420
+    },
+    "generated_at": "2026-07-23T00:00:00.000Z"
+  }
+}

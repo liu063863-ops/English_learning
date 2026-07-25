@@ -1,0 +1,2476 @@
+{
+  "exams": [
+    {
+      "_id": {
+        "$oid": "8c262d7196d882557d354494"
+      },
+      "title": "2018-6 CET4 Set 1",
+      "level": "CET4",
+      "year": 2018,
+      "month": 6,
+      "set_num": 1,
+      "source": "past_exam",
+      "source_meta": {
+        "provider": "local-folder",
+        "repo": "DieDiDi/CET4-6-past-exam-paper",
+        "folder_path": "C:\\Users\\liujinhao\\Documents\\New project\\kaoyan-english-lab\\backend\\data\\extracted\\robust-import\\_downloads\\cet4-2018-6-2",
+        "question_pdf_url": "C:\\Users\\liujinhao\\Documents\\New project\\kaoyan-english-lab\\backend\\data\\extracted\\robust-import\\_downloads\\cet4-2018-6-2\\question.pdf",
+        "answer_pdf_url": "C:\\Users\\liujinhao\\Documents\\New project\\kaoyan-english-lab\\backend\\data\\extracted\\robust-import\\_downloads\\cet4-2018-6-2\\answer.pdf"
+      },
+      "status": "draft",
+      "created_at": {
+        "$date": "2026-07-24T06:03:10.762536+00:00"
+      },
+      "updated_at": {
+        "$date": "2026-07-24T06:03:10.762536+00:00"
+      }
+    }
+  ],
+  "sections": [
+    {
+      "_id": {
+        "$oid": "74cca3a9d21d8897bd45b7bd"
+      },
+      "exam_id": {
+        "$oid": "8c262d7196d882557d354494"
+      },
+      "section_type": "listening",
+      "section_name": "Listening Comprehension",
+      "order_index": 1,
+      "total_score": 35,
+      "time_limit": 25,
+      "created_at": {
+        "$date": "2026-07-24T06:03:10.762536+00:00"
+      },
+      "updated_at": {
+        "$date": "2026-07-24T06:03:10.762536+00:00"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "374df9010ce0856f220ab34d"
+      },
+      "exam_id": {
+        "$oid": "8c262d7196d882557d354494"
+      },
+      "section_type": "reading",
+      "section_name": "Reading Comprehension",
+      "order_index": 2,
+      "total_score": 35,
+      "time_limit": 40,
+      "created_at": {
+        "$date": "2026-07-24T06:03:10.762536+00:00"
+      },
+      "updated_at": {
+        "$date": "2026-07-24T06:03:10.762536+00:00"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "51f51907404af7a21336c692"
+      },
+      "exam_id": {
+        "$oid": "8c262d7196d882557d354494"
+      },
+      "section_type": "translation",
+      "section_name": "Translation",
+      "order_index": 3,
+      "total_score": 15,
+      "time_limit": 30,
+      "created_at": {
+        "$date": "2026-07-24T06:03:10.762536+00:00"
+      },
+      "updated_at": {
+        "$date": "2026-07-24T06:03:10.762536+00:00"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "e1c2366bb8190331ea85c4a9"
+      },
+      "exam_id": {
+        "$oid": "8c262d7196d882557d354494"
+      },
+      "section_type": "writing",
+      "section_name": "Writing",
+      "order_index": 4,
+      "total_score": 15,
+      "time_limit": 30,
+      "created_at": {
+        "$date": "2026-07-24T06:03:10.762536+00:00"
+      },
+      "updated_at": {
+        "$date": "2026-07-24T06:03:10.762536+00:00"
+      }
+    }
+  ],
+  "audio_files": [
+    {
+      "_id": {
+        "$oid": "3bf65e37f431e2fa9ba8e193"
+      },
+      "exam_id": {
+        "$oid": "8c262d7196d882557d354494"
+      },
+      "section_id": {
+        "$oid": "74cca3a9d21d8897bd45b7bd"
+      },
+      "file_url": "/uploads/audio/cet4-2018-6-1-e6748d0a.mp3",
+      "duration": 0,
+      "transcript_full": "",
+      "source_meta": {
+        "file_name": "audio.mp3",
+        "raw_url": "/uploads/audio/cet4-2018-6-1-e6748d0a.mp3"
+      },
+      "created_at": {
+        "$date": "2026-07-24T06:03:10.762536+00:00"
+      },
+      "updated_at": {
+        "$date": "2026-07-24T06:03:10.762536+00:00"
+      }
+    }
+  ],
+  "passages": [
+    {
+      "_id": {
+        "$oid": "75754e87a0fa7ee35c976f3e"
+      },
+      "section_id": {
+        "$oid": "374df9010ce0856f220ab34d"
+      },
+      "title": "Reading Passage 1",
+      "order_index": 1,
+      "passage_text": "Reading Comprehension (40 minutes)\nSection A\nDirections: In this section, there is a passage with10 blanks. You are required to select one word\nfor each blank from a list of choices given in a word bank following the passage. Read the\npassage through carefully before making your choices. Each choice in the bank is identified\nby a letter. Please mark the corresponding letter for each item on Answer Sheet 2 with a\nsingle line through the centre. You may not use any of the words in the bank more than once.\nSince the 1940s, southern California has had a reputation for smog. Things are not as bad as\nthey once were but, according to the American Lung Association, Los Angeles is still the worst\ncity in the United States for levels of __26__ . Gazing down on the city from the Getty Center, an\nart museum in the Santa Monica Mountains, one would find the view of the Pacific Ocean blurred\nby the haze (霾). Nor is the state's bad air __27__ to its south. Fresno, in the central valley, comes\ntop of the list in America for year-round pollution. Residents' hearts and lungs are affected as a\n__28__ . All of which, combined with California's reputation as the home of technological\n__29__ , makes the place ideal for developing and testing systems designed to monitor pollution\nin __30__ . And that is just what Aclima, a new firm in San Francisco, has been doing over the\npast few months. It has been trying out monitoring stations that are __31__ to yield\nminute-to-minute maps of __32__ air pollution. Such stations will also be able to keep an eye on\nwhat is happening inside buildings, including offices.\nTo this end, Aclima has been __33__ with Google's Street View system. Davida Herzl,\nAclima's boss, says they have revealed pollution highs on days when San Francisco's transit\nworkers went on strike and the city's __34__ were forced to use their cars. Conversely, \"cycle to\nwork\" days have done their job by __35__ pollution lows.\nA) assisted B) collaborating C) consequence D) consumers E) creating\nF) detail G)domestic H) frequently I) inhabitants J) innovation K) intended\nL) outdoor M) pollutants N) restricted O) sum\nSection B\nDirections: In this section, you are going to read a passage with ten statements attached to\nit. Each statement contains information given in one of the paragraphs. Identify the\nparagraph from which the information is derived. You may choose a paragraph more than\nonce. Each paragraph is marked with a letter. Answer the questions by marking the\ncorresponding letter on Answer Sheet 2.\nAs Tourists Crowd Out Locals, Venice Faces 'Endangered' List\nA) On a recent fall morning, a large crowd blocked the steps at one of Venice's main tourist\nsites, the Rialto Bridge. The Rialto Bridge is one of the four bridges spanning the Grand Canal. It\nis the oldest bridge across the canal, and was the dividing line between the districts of San Marco\nand San Polo. But on this day, there was a twist: it was filled with Venetians, not tourists.\n4\n\n--- Page 5 ---\nB) \"People are cheering and holding their carts in the air,\" says Giovanni Giorgio, who\nhelped organize the march with a grass-roots organization called Generazione '90. The carts he\nrefers to are small shopping carts—the symbol of a true Venetian. \"It started as a joke,\" he says\nwith a laugh. \"The idea was to put blades on the wheels! You know? Like Ben Hur. Precisely like\nthat, you just go around and run people down.\"\nC) Venice is one of the hottest tourist destinations in the world. But that's a problem. Up to\n90,000 tourists crowd its streets and canals every day—far outnumbering the 55,000 permanent\nresidents. The tourist increase is one key reason the city's population is down from 175,000 in the\n1950s. The outnumbered Venetians have been steadily fleeing. And those who stick around are\ntired of living in a place where they can't even get to the market without swimming through a sea\nof picture-snapping tourists. Imagine, navigating through 50,000 people while on the way to\nschool or to work.\nD) Laura Chigi, a grandmother at the march, says the local and national governments have\nfailed to do anything about the crowds for decades, because they're only interested in tourism—the\nprimary industry in Venice, worth more than $3 billion in 2015. \"Venice is a cash cow,\" she says,\n\"and everyone wants a piece.\"\nE) Just beyond St. Mark's Square, a cruise ship passes, one of hundreds every year that\nappear over their medieval (中世纪的) surroundings. Their massive wake creates waves at the\nbottom of the sea, weakening the foundations of the centuries-old buildings themselves. \"Every\ntime I see a cruise ship, I feel sad,\" Chigi says. \"You see the mud it drags; the destruction it leaves\nin its wake? That hurts the ancient wooden poles holding up the city underwater. One day we'll see\nVenice break down.\"\nF) For a time, UNESCO, the cultural wing of the United Nations, seemed to agree. Two years\nago, it put Italy on notice, saying the government was not protecting Venice. UNESCO considers\nthe entire city a World Heritage Site, a great honor that means Venice, at the cultural level, belongs\nto all of the world's people. In 2014, UNESCO gave Italy two years to manage Venice's\nflourishing tourism or the city would be placed on another list—World Heritage In Danger, joining\nsuch sites as Aleppo and Palmyra, destroyed by the war in Syria.\nG) Venice's deadline passed with barely a murmur (嘟哝) this summer, just as UNESCO was\nmeeting in Istanbul. Only one representative, Jad Tabet from Lebanon, tried to raise the issue. \"For\nseveral years, the situation of heritage in Venice has been worsening, and it has now reached a\ndramatic situation,\" Tabet told UNESCO. \"We have to act quickly—there is not a moment to\nwaste.\"\nH) But UNESCO didn't even hold a vote. \"It's been postponed until 2017,\" says Anna Somers,\nthe founder and CEO of The Art Newspaper and the former head of Venice in Peril, a group\ndevoted to restoring Venetian art. She says the main reason the U.N. cultural organization didn't\nvote to declare Venice a World Heritage Site In Danger is because UNESCO has become\n5\n\n--- Page 6 ---\n\"intensely politicized. There would have been some back-room negotiations.\"\nI) Italy boasts more UNESCO World Heritage Sites than any other country in the world,\ngranting it considerable power and influence within the organization. The former head of the\nUNESCO World Heritage Centre, which oversees heritage sites, is Francesco Bandarin, a Venetian\nwho now serves as UNESCO's assistant director-general for culture.\nJ) Earlier this year, Italy signed an accord with UNESCO to establish a task force of police\nart detectives and archaeologists (考古学家) to protect cultural heritage from natural disasters and\nterror groups, such as ISIS. The accord underlined Italy's global reputation as a good steward of\nart and culture.\nK) But adding Venice to the UNESCO endangered list—which is dominated by sites in\ndeveloping and conflict-ridden countries—would be an international embarrassment, and could\neven hurt Italy's profitable tourism industry. The Italian Culture Ministry says it is unaware of any\ngovernment efforts to pressure UNESCO. As for the organization itself, it declined a request for an\ninterview.\nL) The city's current mayor, Luigi Brugnaro, has ridiculed UNESCO and told it to mind its\nown business, while continuing to support the cruise ship industry, which employs 5,000 Venice\nresidents.\nM) As for Venetians, they're beyond frustrated and hoping for a solution soon. \"It's a\nnightmare for me. Some situations are really difficult with tourists around,\" says Giorgio as he\nnavigates around a swelling crowd at the Rialto Bridge. \"There are just so many of them. They\nnever know where they are going, and do not walk in an orderly manner. Navigating the streets\ncan be exhausting.\"\nN) Then it hits him: This crowd isn't made up of tourists. They're Venetians. Giorgio says he's\nnever experienced the Rialto Bridge this way in all his 22 years. \"For once, we are the ones who\nare blocking the traffic,\" he says delightedly. \"It feels unreal. It feels like we're some form of\nendangered species. It's just nice. The feeling is just pure.\" But, he worries, if tourism isn't\nmanaged and his fellow locals continue to move to the mainland, his generation might be the last\nwho can call themselves native Venetians.",
+      "paragraph_markers": [
+        {
+          "paragraph_id": "P1",
+          "order_index": 1,
+          "start_offset": 0,
+          "end_offset": 2977,
+          "text_preview": "Reading Comprehension (40 minutes)\nSection A\nDirections: In this section, there "
+        },
+        {
+          "paragraph_id": "P2",
+          "order_index": 2,
+          "start_offset": 2979,
+          "end_offset": 6098,
+          "text_preview": "--- Page 5 ---\nB) \"People are cheering and holding their carts in the air,\" says"
+        },
+        {
+          "paragraph_id": "P3",
+          "order_index": 3,
+          "start_offset": 6100,
+          "end_offset": 8339,
+          "text_preview": "--- Page 6 ---\n\"intensely politicized. There would have been some back-room nego"
+        }
+      ],
+      "created_at": {
+        "$date": "2026-07-24T06:03:10.762536+00:00"
+      },
+      "updated_at": {
+        "$date": "2026-07-24T06:03:10.762536+00:00"
+      }
+    }
+  ],
+  "questions": [
+    {
+      "_id": {
+        "$oid": "5b86e6e4741a66e791c8fcc2"
+      },
+      "section_id": {
+        "$oid": "74cca3a9d21d8897bd45b7bd"
+      },
+      "passage_id": null,
+      "audio_file_id": {
+        "$oid": "3bf65e37f431e2fa9ba8e193"
+      },
+      "question_type": "single_choice",
+      "order_index": 1,
+      "question_text": {
+        "raw": "Question 1",
+        "html": ""
+      },
+      "options": [
+        {
+          "key": "A",
+          "text": "Annoyed.",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "Scared.",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Confused.",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Offended.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": {
+        "raw": "A) Annoyed.\nB) Scared.\nC) Confused.\nD) Offended.",
+        "html": ""
+      },
+      "audio_start_time": null,
+      "audio_end_time": null,
+      "transcript": "",
+      "passage_ref": {
+        "passage_id": null,
+        "paragraph_ids": [],
+        "evidence_text": ""
+      },
+      "tags": [],
+      "difficulty": 3,
+      "score": 2.5,
+      "import_meta": {
+        "source_question_no": "L1",
+        "confidence": 0.7,
+        "needs_review": true
+      },
+      "created_at": {
+        "$date": "2026-07-24T06:03:10.762536+00:00"
+      },
+      "updated_at": {
+        "$date": "2026-07-24T06:03:10.762536+00:00"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "0c968439562bc0e4717c7c9d"
+      },
+      "section_id": {
+        "$oid": "74cca3a9d21d8897bd45b7bd"
+      },
+      "passage_id": null,
+      "audio_file_id": {
+        "$oid": "3bf65e37f431e2fa9ba8e193"
+      },
+      "question_type": "single_choice",
+      "order_index": 2,
+      "question_text": {
+        "raw": "Question 2",
+        "html": ""
+      },
+      "options": [
+        {
+          "key": "A",
+          "text": "It crawled over the woman's hands.",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "It wound up on the steering wheel.",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "It was killed by the police on the spot.",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "It was covered with large scales. Questions 3 and 4 are based on the news report you have just heard.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": {
+        "raw": "A) It crawled over the woman's hands.\nB) It wound up on the steering wheel.\nC) It was killed by the police on the spot.\nD) It was covered with large scales.\nQuestions 3 and 4 are based on the news report you have just heard.",
+        "html": ""
+      },
+      "audio_start_time": null,
+      "audio_end_time": null,
+      "transcript": "",
+      "passage_ref": {
+        "passage_id": null,
+        "paragraph_ids": [],
+        "evidence_text": ""
+      },
+      "tags": [],
+      "difficulty": 3,
+      "score": 2.5,
+      "import_meta": {
+        "source_question_no": "L2",
+        "confidence": 0.7,
+        "needs_review": true
+      },
+      "created_at": {
+        "$date": "2026-07-24T06:03:10.762536+00:00"
+      },
+      "updated_at": {
+        "$date": "2026-07-24T06:03:10.762536+00:00"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "2dec64d97c8be209c41c3fd7"
+      },
+      "section_id": {
+        "$oid": "74cca3a9d21d8897bd45b7bd"
+      },
+      "passage_id": null,
+      "audio_file_id": {
+        "$oid": "3bf65e37f431e2fa9ba8e193"
+      },
+      "question_type": "single_choice",
+      "order_index": 3,
+      "question_text": {
+        "raw": "Question 3",
+        "html": ""
+      },
+      "options": [
+        {
+          "key": "A",
+          "text": "A study of the fast-food service.",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "Fast food customer satisfaction.",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "McDonald's new business strategies.",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Competition in the fast-food industry.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": {
+        "raw": "A) A study of the fast-food service.\nB) Fast food customer satisfaction.\nC) McDonald's new business strategies.\nD) Competition in the fast-food industry.",
+        "html": ""
+      },
+      "audio_start_time": null,
+      "audio_end_time": null,
+      "transcript": "",
+      "passage_ref": {
+        "passage_id": null,
+        "paragraph_ids": [],
+        "evidence_text": ""
+      },
+      "tags": [],
+      "difficulty": 3,
+      "score": 2.5,
+      "import_meta": {
+        "source_question_no": "L3",
+        "confidence": 0.7,
+        "needs_review": true
+      },
+      "created_at": {
+        "$date": "2026-07-24T06:03:10.762536+00:00"
+      },
+      "updated_at": {
+        "$date": "2026-07-24T06:03:10.762536+00:00"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "1bb99938f55fe6618261939c"
+      },
+      "section_id": {
+        "$oid": "74cca3a9d21d8897bd45b7bd"
+      },
+      "passage_id": null,
+      "audio_file_id": {
+        "$oid": "3bf65e37f431e2fa9ba8e193"
+      },
+      "question_type": "single_choice",
+      "order_index": 4,
+      "question_text": {
+        "raw": "Question 4",
+        "html": ""
+      },
+      "options": [
+        {
+          "key": "A",
+          "text": "Customers' higher demands.",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "The inefficiency of employees.",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Increased variety of products.",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "The rising number of customers. Questions 5 to 7 are based on the news report you have just heard.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": {
+        "raw": "A) Customers' higher demands.\nB) The inefficiency of employees.\nC) Increased variety of products.\nD) The rising number of customers.\nQuestions 5 to 7 are based on the news report you have just heard.",
+        "html": ""
+      },
+      "audio_start_time": null,
+      "audio_end_time": null,
+      "transcript": "",
+      "passage_ref": {
+        "passage_id": null,
+        "paragraph_ids": [],
+        "evidence_text": ""
+      },
+      "tags": [],
+      "difficulty": 3,
+      "score": 2.5,
+      "import_meta": {
+        "source_question_no": "L4",
+        "confidence": 0.7,
+        "needs_review": true
+      },
+      "created_at": {
+        "$date": "2026-07-24T06:03:10.762536+00:00"
+      },
+      "updated_at": {
+        "$date": "2026-07-24T06:03:10.762536+00:00"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "dee8f9f84182dbe920326814"
+      },
+      "section_id": {
+        "$oid": "74cca3a9d21d8897bd45b7bd"
+      },
+      "passage_id": null,
+      "audio_file_id": {
+        "$oid": "3bf65e37f431e2fa9ba8e193"
+      },
+      "question_type": "single_choice",
+      "order_index": 5,
+      "question_text": {
+        "raw": "Question 5",
+        "html": ""
+      },
+      "options": [
+        {
+          "key": "A",
+          "text": "International treaties regarding space travel programs.",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "Legal issues involved in commercial space exploration.",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "U.S. government's approval of private space missions.",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Competition among public and private space companies.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": {
+        "raw": "A) International treaties regarding space travel programs.\nB) Legal issues involved in commercial space exploration.\nC) U.S. government's approval of private space missions.\nD) Competition among public and private space companies.",
+        "html": ""
+      },
+      "audio_start_time": null,
+      "audio_end_time": null,
+      "transcript": "",
+      "passage_ref": {
+        "passage_id": null,
+        "paragraph_ids": [],
+        "evidence_text": ""
+      },
+      "tags": [],
+      "difficulty": 3,
+      "score": 2.5,
+      "import_meta": {
+        "source_question_no": "L5",
+        "confidence": 0.7,
+        "needs_review": true
+      },
+      "created_at": {
+        "$date": "2026-07-24T06:03:10.762536+00:00"
+      },
+      "updated_at": {
+        "$date": "2026-07-24T06:03:10.762536+00:00"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6c801e0424a9fe847f24c60f"
+      },
+      "section_id": {
+        "$oid": "74cca3a9d21d8897bd45b7bd"
+      },
+      "passage_id": null,
+      "audio_file_id": {
+        "$oid": "3bf65e37f431e2fa9ba8e193"
+      },
+      "question_type": "single_choice",
+      "order_index": 6,
+      "question_text": {
+        "raw": "Question 6",
+        "html": ""
+      },
+      "options": [
+        {
+          "key": "A",
+          "text": "Deliver scientific equipment to the moon.",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "Approve a new mission to travel into outer space. 1 --- Page 2 ---",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Work with federal agencies on space programs.",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Launch a manned spacecraft to Mars.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": {
+        "raw": "A) Deliver scientific equipment to the moon.\nB) Approve a new mission to travel into outer space.\n1\n--- Page 2 ---\nC) Work with federal agencies on space programs.\nD) Launch a manned spacecraft to Mars.",
+        "html": ""
+      },
+      "audio_start_time": null,
+      "audio_end_time": null,
+      "transcript": "",
+      "passage_ref": {
+        "passage_id": null,
+        "paragraph_ids": [],
+        "evidence_text": ""
+      },
+      "tags": [],
+      "difficulty": 3,
+      "score": 2.5,
+      "import_meta": {
+        "source_question_no": "L6",
+        "confidence": 0.7,
+        "needs_review": true
+      },
+      "created_at": {
+        "$date": "2026-07-24T06:03:10.762536+00:00"
+      },
+      "updated_at": {
+        "$date": "2026-07-24T06:03:10.762536+00:00"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "3a39d967f9cbc7101913acf5"
+      },
+      "section_id": {
+        "$oid": "74cca3a9d21d8897bd45b7bd"
+      },
+      "passage_id": null,
+      "audio_file_id": {
+        "$oid": "3bf65e37f431e2fa9ba8e193"
+      },
+      "question_type": "single_choice",
+      "order_index": 7,
+      "question_text": {
+        "raw": "Question 7",
+        "html": ""
+      },
+      "options": [
+        {
+          "key": "A",
+          "text": "It is significant.",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "It is promising.",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "It is unpredictable.",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "It is unprofitable. Section B Directions: In this section, you will hear two long conversations. At the end of each conversation, you will hear four questions. Both the conversation and the questions will bespoken only once. After you hear a question, you must choose the best answer from the four choices marked",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": {
+        "raw": "A) It is significant.\nB) It is promising.\nC) It is unpredictable.\nD) It is unprofitable.\nSection B\nDirections: In this section, you will hear two long conversations. At the end of each",
+        "html": ""
+      },
+      "audio_start_time": null,
+      "audio_end_time": null,
+      "transcript": "",
+      "passage_ref": {
+        "passage_id": null,
+        "paragraph_ids": [],
+        "evidence_text": ""
+      },
+      "tags": [],
+      "difficulty": 3,
+      "score": 2.5,
+      "import_meta": {
+        "source_question_no": "L7",
+        "confidence": 0.7,
+        "needs_review": true
+      },
+      "created_at": {
+        "$date": "2026-07-24T06:03:10.762536+00:00"
+      },
+      "updated_at": {
+        "$date": "2026-07-24T06:03:10.762536+00:00"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "9b24ea89b7084102cc909c8e"
+      },
+      "section_id": {
+        "$oid": "74cca3a9d21d8897bd45b7bd"
+      },
+      "passage_id": null,
+      "audio_file_id": {
+        "$oid": "3bf65e37f431e2fa9ba8e193"
+      },
+      "question_type": "single_choice",
+      "order_index": 8,
+      "question_text": {
+        "raw": "Question 8",
+        "html": ""
+      },
+      "options": [
+        {
+          "key": "A",
+          "text": "Visiting her family in Thailand.",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "Showing friends around Phuket.",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Swimming around a Thai island.",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Lying in the sun on a Thai beach.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": {
+        "raw": "A) Visiting her family in Thailand.\nB) Showing friends around Phuket.\nC) Swimming around a Thai island.\nD) Lying in the sun on a Thai beach.",
+        "html": ""
+      },
+      "audio_start_time": null,
+      "audio_end_time": null,
+      "transcript": "",
+      "passage_ref": {
+        "passage_id": null,
+        "paragraph_ids": [],
+        "evidence_text": ""
+      },
+      "tags": [],
+      "difficulty": 3,
+      "score": 2.5,
+      "import_meta": {
+        "source_question_no": "L8",
+        "confidence": 0.7,
+        "needs_review": true
+      },
+      "created_at": {
+        "$date": "2026-07-24T06:03:10.762536+00:00"
+      },
+      "updated_at": {
+        "$date": "2026-07-24T06:03:10.762536+00:00"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "5410a541817de8c1599572d2"
+      },
+      "section_id": {
+        "$oid": "74cca3a9d21d8897bd45b7bd"
+      },
+      "passage_id": null,
+      "audio_file_id": {
+        "$oid": "3bf65e37f431e2fa9ba8e193"
+      },
+      "question_type": "single_choice",
+      "order_index": 9,
+      "question_text": {
+        "raw": "Question 9",
+        "html": ""
+      },
+      "options": [
+        {
+          "key": "A",
+          "text": "She visited a Thai orphanage.",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "She met a Thai girl's parents.",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "She learned some Thai words.",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "She sunbathed on a Thai beach.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": {
+        "raw": "A) She visited a Thai orphanage.\nB) She met a Thai girl's parents.\nC) She learned some Thai words.\nD) She sunbathed on a Thai beach.",
+        "html": ""
+      },
+      "audio_start_time": null,
+      "audio_end_time": null,
+      "transcript": "",
+      "passage_ref": {
+        "passage_id": null,
+        "paragraph_ids": [],
+        "evidence_text": ""
+      },
+      "tags": [],
+      "difficulty": 3,
+      "score": 2.5,
+      "import_meta": {
+        "source_question_no": "L9",
+        "confidence": 0.7,
+        "needs_review": true
+      },
+      "created_at": {
+        "$date": "2026-07-24T06:03:10.762536+00:00"
+      },
+      "updated_at": {
+        "$date": "2026-07-24T06:03:10.762536+00:00"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "2a2211c22c0d33f792c86b52"
+      },
+      "section_id": {
+        "$oid": "74cca3a9d21d8897bd45b7bd"
+      },
+      "passage_id": null,
+      "audio_file_id": {
+        "$oid": "3bf65e37f431e2fa9ba8e193"
+      },
+      "question_type": "single_choice",
+      "order_index": 10,
+      "question_text": {
+        "raw": "Question 10",
+        "html": ""
+      },
+      "options": [
+        {
+          "key": "A",
+          "text": "His class will start in a minute.",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "He has got an incoming phone call.",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Someone is knocking at his door.",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "His phone is running out of power.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": {
+        "raw": "A) His class will start in a minute.\nB) He has got an incoming phone call.\nC) Someone is knocking at his door.\nD) His phone is running out of power.",
+        "html": ""
+      },
+      "audio_start_time": null,
+      "audio_end_time": null,
+      "transcript": "",
+      "passage_ref": {
+        "passage_id": null,
+        "paragraph_ids": [],
+        "evidence_text": ""
+      },
+      "tags": [],
+      "difficulty": 3,
+      "score": 2.5,
+      "import_meta": {
+        "source_question_no": "L10",
+        "confidence": 0.7,
+        "needs_review": true
+      },
+      "created_at": {
+        "$date": "2026-07-24T06:03:10.762536+00:00"
+      },
+      "updated_at": {
+        "$date": "2026-07-24T06:03:10.762536+00:00"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "70d99eb5b5b3ce06d3f7e0a6"
+      },
+      "section_id": {
+        "$oid": "74cca3a9d21d8897bd45b7bd"
+      },
+      "passage_id": null,
+      "audio_file_id": {
+        "$oid": "3bf65e37f431e2fa9ba8e193"
+      },
+      "question_type": "single_choice",
+      "order_index": 11,
+      "question_text": {
+        "raw": "Question 11",
+        "html": ""
+      },
+      "options": [
+        {
+          "key": "A",
+          "text": "He is interested in Thai artworks.",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "He is going to open a souvenir shop.",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "He collects things from different countries.",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "He wants to know more about Thai culture. Questions 12 to 15 are based on the conversation you have just heard.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": {
+        "raw": "A) He is interested in Thai artworks.\nB) He is going to open a souvenir shop.\nC) He collects things from different countries.\nD) He wants to know more about Thai culture.\nQuestions 12 to 15 are based on the conversation you have just heard.",
+        "html": ""
+      },
+      "audio_start_time": null,
+      "audio_end_time": null,
+      "transcript": "",
+      "passage_ref": {
+        "passage_id": null,
+        "paragraph_ids": [],
+        "evidence_text": ""
+      },
+      "tags": [],
+      "difficulty": 3,
+      "score": 2.5,
+      "import_meta": {
+        "source_question_no": "L11",
+        "confidence": 0.7,
+        "needs_review": true
+      },
+      "created_at": {
+        "$date": "2026-07-24T06:03:10.762536+00:00"
+      },
+      "updated_at": {
+        "$date": "2026-07-24T06:03:10.762536+00:00"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6ca356782dc6bbb05dc53ce5"
+      },
+      "section_id": {
+        "$oid": "74cca3a9d21d8897bd45b7bd"
+      },
+      "passage_id": null,
+      "audio_file_id": {
+        "$oid": "3bf65e37f431e2fa9ba8e193"
+      },
+      "question_type": "single_choice",
+      "order_index": 12,
+      "question_text": {
+        "raw": "Question 12",
+        "html": ""
+      },
+      "options": [
+        {
+          "key": "A",
+          "text": "Buying some fitness equipment for the new gym.",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "Opening a gym and becoming personal trainers.",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Signing up for a weight-loss course.",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Trying out a new gym in town.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": {
+        "raw": "A) Buying some fitness equipment for the new gym.\nB) Opening a gym and becoming personal trainers.\nC) Signing up for a weight-loss course.\nD) Trying out a new gym in town.",
+        "html": ""
+      },
+      "audio_start_time": null,
+      "audio_end_time": null,
+      "transcript": "",
+      "passage_ref": {
+        "passage_id": null,
+        "paragraph_ids": [],
+        "evidence_text": ""
+      },
+      "tags": [],
+      "difficulty": 3,
+      "score": 2.5,
+      "import_meta": {
+        "source_question_no": "L12",
+        "confidence": 0.7,
+        "needs_review": true
+      },
+      "created_at": {
+        "$date": "2026-07-24T06:03:10.762536+00:00"
+      },
+      "updated_at": {
+        "$date": "2026-07-24T06:03:10.762536+00:00"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "335731952e9070a61c8086b0"
+      },
+      "section_id": {
+        "$oid": "74cca3a9d21d8897bd45b7bd"
+      },
+      "passage_id": null,
+      "audio_file_id": {
+        "$oid": "3bf65e37f431e2fa9ba8e193"
+      },
+      "question_type": "single_choice",
+      "order_index": 13,
+      "question_text": {
+        "raw": "Question 13",
+        "html": ""
+      },
+      "options": [
+        {
+          "key": "A",
+          "text": "Professional personal training.",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "Free exercise for the first week.",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "A discount for a half-year membership.",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Additional benefits for young couples.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": {
+        "raw": "A) Professional personal training.\nB) Free exercise for the first week.\nC) A discount for a half-year membership.\nD) Additional benefits for young couples.",
+        "html": ""
+      },
+      "audio_start_time": null,
+      "audio_end_time": null,
+      "transcript": "",
+      "passage_ref": {
+        "passage_id": null,
+        "paragraph_ids": [],
+        "evidence_text": ""
+      },
+      "tags": [],
+      "difficulty": 3,
+      "score": 2.5,
+      "import_meta": {
+        "source_question_no": "L13",
+        "confidence": 0.7,
+        "needs_review": true
+      },
+      "created_at": {
+        "$date": "2026-07-24T06:03:10.762536+00:00"
+      },
+      "updated_at": {
+        "$date": "2026-07-24T06:03:10.762536+00:00"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "f98b6ca142b15bdd64c0c547"
+      },
+      "section_id": {
+        "$oid": "74cca3a9d21d8897bd45b7bd"
+      },
+      "passage_id": null,
+      "audio_file_id": {
+        "$oid": "3bf65e37f431e2fa9ba8e193"
+      },
+      "question_type": "single_choice",
+      "order_index": 14,
+      "question_text": {
+        "raw": "Question 14",
+        "html": ""
+      },
+      "options": [
+        {
+          "key": "A",
+          "text": "The safety of weight-lifting.",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "The high membership fee.",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "The renewal of his membership.",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "The operation of fitness equipment.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": {
+        "raw": "A) The safety of weight-lifting.\nB) The high membership fee.\nC) The renewal of his membership.\nD) The operation of fitness equipment.",
+        "html": ""
+      },
+      "audio_start_time": null,
+      "audio_end_time": null,
+      "transcript": "",
+      "passage_ref": {
+        "passage_id": null,
+        "paragraph_ids": [],
+        "evidence_text": ""
+      },
+      "tags": [],
+      "difficulty": 3,
+      "score": 2.5,
+      "import_meta": {
+        "source_question_no": "L14",
+        "confidence": 0.7,
+        "needs_review": true
+      },
+      "created_at": {
+        "$date": "2026-07-24T06:03:10.762536+00:00"
+      },
+      "updated_at": {
+        "$date": "2026-07-24T06:03:10.762536+00:00"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "a94bfa8bd78c1ecfe4e4931f"
+      },
+      "section_id": {
+        "$oid": "74cca3a9d21d8897bd45b7bd"
+      },
+      "passage_id": null,
+      "audio_file_id": {
+        "$oid": "3bf65e37f431e2fa9ba8e193"
+      },
+      "question_type": "single_choice",
+      "order_index": 15,
+      "question_text": {
+        "raw": "Question 15",
+        "html": ""
+      },
+      "options": [
+        {
+          "key": "A",
+          "text": "She wants her invitation renewed.",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "She used to do 200 sit-ups every day. 2 --- Page 3 ---",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "She knows the basics of weight-lifting.",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "She used to be the gym's personal trainer. Section C Directions: In this section, you will hear three passages. At the end of each passage, you will hear three or four questions. Both the passage and the questions will be spoken only once.After yo u hear a question, you must choose the best answer from the four choices marked",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": {
+        "raw": "A) She wants her invitation renewed.\nB) She used to do 200 sit-ups every day.\n2\n--- Page 3 ---\nC) She knows the basics of weight-lifting.\nD) She used to be the gym's personal trainer.",
+        "html": ""
+      },
+      "audio_start_time": null,
+      "audio_end_time": null,
+      "transcript": "",
+      "passage_ref": {
+        "passage_id": null,
+        "paragraph_ids": [],
+        "evidence_text": ""
+      },
+      "tags": [],
+      "difficulty": 3,
+      "score": 2.5,
+      "import_meta": {
+        "source_question_no": "L15",
+        "confidence": 0.7,
+        "needs_review": true
+      },
+      "created_at": {
+        "$date": "2026-07-24T06:03:10.762536+00:00"
+      },
+      "updated_at": {
+        "$date": "2026-07-24T06:03:10.762536+00:00"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "fa3a24b351b83cf878178faf"
+      },
+      "section_id": {
+        "$oid": "74cca3a9d21d8897bd45b7bd"
+      },
+      "passage_id": null,
+      "audio_file_id": {
+        "$oid": "3bf65e37f431e2fa9ba8e193"
+      },
+      "question_type": "single_choice",
+      "order_index": 16,
+      "question_text": {
+        "raw": "Question 16",
+        "html": ""
+      },
+      "options": [
+        {
+          "key": "A",
+          "text": "They tend to be nervous during interviews.",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "They often apply for a number of positions.",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "They worry about the results of their applications.",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "They search extensively for employers' information.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": {
+        "raw": "A) They tend to be nervous during interviews.\nB) They often apply for a number of positions.\nC) They worry about the results of their applications.\nD) They search extensively for employers' information.",
+        "html": ""
+      },
+      "audio_start_time": null,
+      "audio_end_time": null,
+      "transcript": "",
+      "passage_ref": {
+        "passage_id": null,
+        "paragraph_ids": [],
+        "evidence_text": ""
+      },
+      "tags": [],
+      "difficulty": 3,
+      "score": 2.5,
+      "import_meta": {
+        "source_question_no": "L16",
+        "confidence": 0.7,
+        "needs_review": true
+      },
+      "created_at": {
+        "$date": "2026-07-24T06:03:10.762536+00:00"
+      },
+      "updated_at": {
+        "$date": "2026-07-24T06:03:10.762536+00:00"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "34b9fc3a4ad29dc54c9527f0"
+      },
+      "section_id": {
+        "$oid": "74cca3a9d21d8897bd45b7bd"
+      },
+      "passage_id": null,
+      "audio_file_id": {
+        "$oid": "3bf65e37f431e2fa9ba8e193"
+      },
+      "question_type": "single_choice",
+      "order_index": 17,
+      "question_text": {
+        "raw": "Question 17",
+        "html": ""
+      },
+      "options": [
+        {
+          "key": "A",
+          "text": "Get better organized.",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "Edit their references.",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Find better-paid jobs.",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Analyze the searching process.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": {
+        "raw": "A) Get better organized.\nB) Edit their references.\nC) Find better-paid jobs.\nD) Analyze the searching process.",
+        "html": ""
+      },
+      "audio_start_time": null,
+      "audio_end_time": null,
+      "transcript": "",
+      "passage_ref": {
+        "passage_id": null,
+        "paragraph_ids": [],
+        "evidence_text": ""
+      },
+      "tags": [],
+      "difficulty": 3,
+      "score": 2.5,
+      "import_meta": {
+        "source_question_no": "L17",
+        "confidence": 0.7,
+        "needs_review": true
+      },
+      "created_at": {
+        "$date": "2026-07-24T06:03:10.762536+00:00"
+      },
+      "updated_at": {
+        "$date": "2026-07-24T06:03:10.762536+00:00"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "638aeca005e7483d50fcfc4c"
+      },
+      "section_id": {
+        "$oid": "74cca3a9d21d8897bd45b7bd"
+      },
+      "passage_id": null,
+      "audio_file_id": {
+        "$oid": "3bf65e37f431e2fa9ba8e193"
+      },
+      "question_type": "single_choice",
+      "order_index": 18,
+      "question_text": {
+        "raw": "Question 18",
+        "html": ""
+      },
+      "options": [
+        {
+          "key": "A",
+          "text": "Provide their data in detail.",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "Personalize each application.",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Make use of better search engines.",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Apply for more promising positions. Questions 19 to 21 are based on the passage you have just heard.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": {
+        "raw": "A) Provide their data in detail.\nB) Personalize each application.\nC) Make use of better search engines.\nD) Apply for more promising positions.\nQuestions 19 to 21 are based on the passage you have just heard.",
+        "html": ""
+      },
+      "audio_start_time": null,
+      "audio_end_time": null,
+      "transcript": "",
+      "passage_ref": {
+        "passage_id": null,
+        "paragraph_ids": [],
+        "evidence_text": ""
+      },
+      "tags": [],
+      "difficulty": 3,
+      "score": 2.5,
+      "import_meta": {
+        "source_question_no": "L18",
+        "confidence": 0.7,
+        "needs_review": true
+      },
+      "created_at": {
+        "$date": "2026-07-24T06:03:10.762536+00:00"
+      },
+      "updated_at": {
+        "$date": "2026-07-24T06:03:10.762536+00:00"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "b1d1e8502f77c55efc5d2531"
+      },
+      "section_id": {
+        "$oid": "74cca3a9d21d8897bd45b7bd"
+      },
+      "passage_id": null,
+      "audio_file_id": {
+        "$oid": "3bf65e37f431e2fa9ba8e193"
+      },
+      "question_type": "single_choice",
+      "order_index": 19,
+      "question_text": {
+        "raw": "Question 19",
+        "html": ""
+      },
+      "options": [
+        {
+          "key": "A",
+          "text": "If kids did not like school, real learning would not take place.",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "If not forced to go to school, kids would be out in the streets.",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "If schools stayed the way they are, parents were sure to protest.",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "If teaching failed to improve, kids would stay away from school.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": {
+        "raw": "A) If kids did not like school, real learning would not take place.\nB) If not forced to go to school, kids would be out in the streets.\nC) If schools stayed the way they are, parents were sure to protest.\nD) If teaching failed to improve, kids would stay away from school.",
+        "html": ""
+      },
+      "audio_start_time": null,
+      "audio_end_time": null,
+      "transcript": "",
+      "passage_ref": {
+        "passage_id": null,
+        "paragraph_ids": [],
+        "evidence_text": ""
+      },
+      "tags": [],
+      "difficulty": 3,
+      "score": 2.5,
+      "import_meta": {
+        "source_question_no": "L19",
+        "confidence": 0.7,
+        "needs_review": true
+      },
+      "created_at": {
+        "$date": "2026-07-24T06:03:10.762536+00:00"
+      },
+      "updated_at": {
+        "$date": "2026-07-24T06:03:10.762536+00:00"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "987438a68b5a89ff1bfd657f"
+      },
+      "section_id": {
+        "$oid": "74cca3a9d21d8897bd45b7bd"
+      },
+      "passage_id": null,
+      "audio_file_id": {
+        "$oid": "3bf65e37f431e2fa9ba8e193"
+      },
+      "question_type": "single_choice",
+      "order_index": 20,
+      "question_text": {
+        "raw": "Question 20",
+        "html": ""
+      },
+      "options": [
+        {
+          "key": "A",
+          "text": "Allow them to play interesting games in class.",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "Try to stir up their interest in lab experiments.",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Let them stay home and learn from their parents.",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Design activities they now enjoy doing on holidays.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": {
+        "raw": "A) Allow them to play interesting games in class.\nB) Try to stir up their interest in lab experiments.\nC) Let them stay home and learn from their parents.\nD) Design activities they now enjoy doing on holidays.",
+        "html": ""
+      },
+      "audio_start_time": null,
+      "audio_end_time": null,
+      "transcript": "",
+      "passage_ref": {
+        "passage_id": null,
+        "paragraph_ids": [],
+        "evidence_text": ""
+      },
+      "tags": [],
+      "difficulty": 3,
+      "score": 2.5,
+      "import_meta": {
+        "source_question_no": "L20",
+        "confidence": 0.7,
+        "needs_review": true
+      },
+      "created_at": {
+        "$date": "2026-07-24T06:03:10.762536+00:00"
+      },
+      "updated_at": {
+        "$date": "2026-07-24T06:03:10.762536+00:00"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "8650b250e05d7d046083589e"
+      },
+      "section_id": {
+        "$oid": "74cca3a9d21d8897bd45b7bd"
+      },
+      "passage_id": null,
+      "audio_file_id": {
+        "$oid": "3bf65e37f431e2fa9ba8e193"
+      },
+      "question_type": "single_choice",
+      "order_index": 21,
+      "question_text": {
+        "raw": "Question 21",
+        "html": ""
+      },
+      "options": [
+        {
+          "key": "A",
+          "text": "Allow kids to learn at their own pace.",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "Encourage kids to learn from each other.",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Organize kids into various interest groups.",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Take kids out of school to learn at first hand. Questions 22 to 25 are based on the passage you have just heard.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": {
+        "raw": "A) Allow kids to learn at their own pace.\nB) Encourage kids to learn from each other.\nC) Organize kids into various interest groups.\nD) Take kids out of school to learn at first hand.\nQuestions 22 to 25 are based on the passage you have just heard.",
+        "html": ""
+      },
+      "audio_start_time": null,
+      "audio_end_time": null,
+      "transcript": "",
+      "passage_ref": {
+        "passage_id": null,
+        "paragraph_ids": [],
+        "evidence_text": ""
+      },
+      "tags": [],
+      "difficulty": 3,
+      "score": 2.5,
+      "import_meta": {
+        "source_question_no": "L21",
+        "confidence": 0.7,
+        "needs_review": true
+      },
+      "created_at": {
+        "$date": "2026-07-24T06:03:10.762536+00:00"
+      },
+      "updated_at": {
+        "$date": "2026-07-24T06:03:10.762536+00:00"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "4bab7c6ad855d4bc4bba03cf"
+      },
+      "section_id": {
+        "$oid": "74cca3a9d21d8897bd45b7bd"
+      },
+      "passage_id": null,
+      "audio_file_id": {
+        "$oid": "3bf65e37f431e2fa9ba8e193"
+      },
+      "question_type": "single_choice",
+      "order_index": 22,
+      "question_text": {
+        "raw": "Question 22",
+        "html": ""
+      },
+      "options": [
+        {
+          "key": "A",
+          "text": "It is especially popular in Florida and Alaska.",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "It is a major social activity among the young.",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "It is seen almost anywhere and on any occasion.",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "It is even more expressive than the written word.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": {
+        "raw": "A) It is especially popular in Florida and Alaska.\nB) It is a major social activity among the young.\nC) It is seen almost anywhere and on any occasion.\nD) It is even more expressive than the written word.",
+        "html": ""
+      },
+      "audio_start_time": null,
+      "audio_end_time": null,
+      "transcript": "",
+      "passage_ref": {
+        "passage_id": null,
+        "paragraph_ids": [],
+        "evidence_text": ""
+      },
+      "tags": [],
+      "difficulty": 3,
+      "score": 2.5,
+      "import_meta": {
+        "source_question_no": "L22",
+        "confidence": 0.7,
+        "needs_review": true
+      },
+      "created_at": {
+        "$date": "2026-07-24T06:03:10.762536+00:00"
+      },
+      "updated_at": {
+        "$date": "2026-07-24T06:03:10.762536+00:00"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "dc62b5ecdeae9475f294c37e"
+      },
+      "section_id": {
+        "$oid": "74cca3a9d21d8897bd45b7bd"
+      },
+      "passage_id": null,
+      "audio_file_id": {
+        "$oid": "3bf65e37f431e2fa9ba8e193"
+      },
+      "question_type": "single_choice",
+      "order_index": 23,
+      "question_text": {
+        "raw": "Question 23",
+        "html": ""
+      },
+      "options": [
+        {
+          "key": "A",
+          "text": "It is located in a big city in Iowa.",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "It is really marvelous to look at.",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "It offers free dance classes to seniors.",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "It offers people a chance to socialize.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": {
+        "raw": "A) It is located in a big city in Iowa.\nB) It is really marvelous to look at.\nC) It offers free dance classes to seniors.\nD) It offers people a chance to socialize.",
+        "html": ""
+      },
+      "audio_start_time": null,
+      "audio_end_time": null,
+      "transcript": "",
+      "passage_ref": {
+        "passage_id": null,
+        "paragraph_ids": [],
+        "evidence_text": ""
+      },
+      "tags": [],
+      "difficulty": 3,
+      "score": 2.5,
+      "import_meta": {
+        "source_question_no": "L23",
+        "confidence": 0.7,
+        "needs_review": true
+      },
+      "created_at": {
+        "$date": "2026-07-24T06:03:10.762536+00:00"
+      },
+      "updated_at": {
+        "$date": "2026-07-24T06:03:10.762536+00:00"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "5b25cf4aeb661bfb8b40fd42"
+      },
+      "section_id": {
+        "$oid": "74cca3a9d21d8897bd45b7bd"
+      },
+      "passage_id": null,
+      "audio_file_id": {
+        "$oid": "3bf65e37f431e2fa9ba8e193"
+      },
+      "question_type": "single_choice",
+      "order_index": 24,
+      "question_text": {
+        "raw": "Question 24",
+        "html": ""
+      },
+      "options": [
+        {
+          "key": "A",
+          "text": "Their state of mind improved.",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "They became better dancers. 3 --- Page 4 ---",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "They enjoyed better health.",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Their relationship strengthened.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": {
+        "raw": "A) Their state of mind improved.\nB) They became better dancers.\n3\n--- Page 4 ---\nC) They enjoyed better health.\nD) Their relationship strengthened.",
+        "html": ""
+      },
+      "audio_start_time": null,
+      "audio_end_time": null,
+      "transcript": "",
+      "passage_ref": {
+        "passage_id": null,
+        "paragraph_ids": [],
+        "evidence_text": ""
+      },
+      "tags": [],
+      "difficulty": 3,
+      "score": 2.5,
+      "import_meta": {
+        "source_question_no": "L24",
+        "confidence": 0.7,
+        "needs_review": true
+      },
+      "created_at": {
+        "$date": "2026-07-24T06:03:10.762536+00:00"
+      },
+      "updated_at": {
+        "$date": "2026-07-24T06:03:10.762536+00:00"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "de11d82bbd0d994494d87e34"
+      },
+      "section_id": {
+        "$oid": "74cca3a9d21d8897bd45b7bd"
+      },
+      "passage_id": null,
+      "audio_file_id": {
+        "$oid": "3bf65e37f431e2fa9ba8e193"
+      },
+      "question_type": "single_choice",
+      "order_index": 25,
+      "question_text": {
+        "raw": "Question 25",
+        "html": ""
+      },
+      "options": [
+        {
+          "key": "A",
+          "text": "It is fun.",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "It is life.",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "It is exhausting.",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "It is rhythmical. Part Ⅲ",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": {
+        "raw": "A) It is fun.\nB) It is life.\nC) It is exhausting.\nD) It is rhythmical.\nPart Ⅲ Reading Comprehension (40 minutes)\nSection A",
+        "html": ""
+      },
+      "audio_start_time": null,
+      "audio_end_time": null,
+      "transcript": "",
+      "passage_ref": {
+        "passage_id": null,
+        "paragraph_ids": [],
+        "evidence_text": ""
+      },
+      "tags": [],
+      "difficulty": 3,
+      "score": 2.5,
+      "import_meta": {
+        "source_question_no": "L25",
+        "confidence": 0.7,
+        "needs_review": true
+      },
+      "created_at": {
+        "$date": "2026-07-24T06:03:10.762536+00:00"
+      },
+      "updated_at": {
+        "$date": "2026-07-24T06:03:10.762536+00:00"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "54b6533c75d5f3b770ee2f6a"
+      },
+      "section_id": {
+        "$oid": "374df9010ce0856f220ab34d"
+      },
+      "passage_id": {
+        "$oid": "75754e87a0fa7ee35c976f3e"
+      },
+      "audio_file_id": null,
+      "question_type": "single_choice",
+      "order_index": 1,
+      "question_text": {
+        "raw": "The passing cruise ships will undermine the foundations of the ancient buildings in Venice.",
+        "html": ""
+      },
+      "options": [],
+      "correct_answer": null,
+      "explanation": {
+        "raw": "The passing cruise ships will undermine the foundations of the ancient buildings in\nVenice.",
+        "html": ""
+      },
+      "audio_start_time": null,
+      "audio_end_time": null,
+      "transcript": "",
+      "passage_ref": {
+        "passage_id": {
+          "$oid": "75754e87a0fa7ee35c976f3e"
+        },
+        "paragraph_ids": [],
+        "evidence_text": ""
+      },
+      "tags": [],
+      "difficulty": 3,
+      "score": 2.5,
+      "import_meta": {
+        "source_question_no": "R36",
+        "confidence": 0.35,
+        "needs_review": true
+      },
+      "created_at": {
+        "$date": "2026-07-24T06:03:10.762536+00:00"
+      },
+      "updated_at": {
+        "$date": "2026-07-24T06:03:10.762536+00:00"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "15e3daebfb6edc674f9f5f9a"
+      },
+      "section_id": {
+        "$oid": "374df9010ce0856f220ab34d"
+      },
+      "passage_id": {
+        "$oid": "75754e87a0fa7ee35c976f3e"
+      },
+      "audio_file_id": null,
+      "question_type": "single_choice",
+      "order_index": 2,
+      "question_text": {
+        "raw": "The Italian government has just reached an agreement with UNESCO to take measures to protect its cultural heritage.",
+        "html": ""
+      },
+      "options": [],
+      "correct_answer": null,
+      "explanation": {
+        "raw": "The Italian government has just reached an agreement with UNESCO to take measures to\nprotect its cultural heritage.",
+        "html": ""
+      },
+      "audio_start_time": null,
+      "audio_end_time": null,
+      "transcript": "",
+      "passage_ref": {
+        "passage_id": {
+          "$oid": "75754e87a0fa7ee35c976f3e"
+        },
+        "paragraph_ids": [],
+        "evidence_text": ""
+      },
+      "tags": [],
+      "difficulty": 3,
+      "score": 2.5,
+      "import_meta": {
+        "source_question_no": "R37",
+        "confidence": 0.35,
+        "needs_review": true
+      },
+      "created_at": {
+        "$date": "2026-07-24T06:03:10.762536+00:00"
+      },
+      "updated_at": {
+        "$date": "2026-07-24T06:03:10.762536+00:00"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6e53f59e8a028c4750e87b9a"
+      },
+      "section_id": {
+        "$oid": "374df9010ce0856f220ab34d"
+      },
+      "passage_id": {
+        "$oid": "75754e87a0fa7ee35c976f3e"
+      },
+      "audio_file_id": null,
+      "question_type": "single_choice",
+      "order_index": 3,
+      "question_text": {
+        "raw": "The heritage situation in Venice has been deteriorating in the past few years.",
+        "html": ""
+      },
+      "options": [],
+      "correct_answer": null,
+      "explanation": {
+        "raw": "The heritage situation in Venice has been deteriorating in the past few years.",
+        "html": ""
+      },
+      "audio_start_time": null,
+      "audio_end_time": null,
+      "transcript": "",
+      "passage_ref": {
+        "passage_id": {
+          "$oid": "75754e87a0fa7ee35c976f3e"
+        },
+        "paragraph_ids": [],
+        "evidence_text": ""
+      },
+      "tags": [],
+      "difficulty": 3,
+      "score": 2.5,
+      "import_meta": {
+        "source_question_no": "R38",
+        "confidence": 0.35,
+        "needs_review": true
+      },
+      "created_at": {
+        "$date": "2026-07-24T06:03:10.762536+00:00"
+      },
+      "updated_at": {
+        "$date": "2026-07-24T06:03:10.762536+00:00"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6a21be0b714a99d1dc7f9515"
+      },
+      "section_id": {
+        "$oid": "374df9010ce0856f220ab34d"
+      },
+      "passage_id": {
+        "$oid": "75754e87a0fa7ee35c976f3e"
+      },
+      "audio_file_id": null,
+      "question_type": "single_choice",
+      "order_index": 4,
+      "question_text": {
+        "raw": "The decrease in the number of permanent residents in Venice is mainly due to the increase of tourists.",
+        "html": ""
+      },
+      "options": [],
+      "correct_answer": null,
+      "explanation": {
+        "raw": "The decrease in the number of permanent residents in Venice is mainly due to the increase\nof tourists.",
+        "html": ""
+      },
+      "audio_start_time": null,
+      "audio_end_time": null,
+      "transcript": "",
+      "passage_ref": {
+        "passage_id": {
+          "$oid": "75754e87a0fa7ee35c976f3e"
+        },
+        "paragraph_ids": [],
+        "evidence_text": ""
+      },
+      "tags": [],
+      "difficulty": 3,
+      "score": 2.5,
+      "import_meta": {
+        "source_question_no": "R39",
+        "confidence": 0.35,
+        "needs_review": true
+      },
+      "created_at": {
+        "$date": "2026-07-24T06:03:10.762536+00:00"
+      },
+      "updated_at": {
+        "$date": "2026-07-24T06:03:10.762536+00:00"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "e8bb245fcc66b97e542cdbca"
+      },
+      "section_id": {
+        "$oid": "374df9010ce0856f220ab34d"
+      },
+      "passage_id": {
+        "$oid": "75754e87a0fa7ee35c976f3e"
+      },
+      "audio_file_id": null,
+      "question_type": "single_choice",
+      "order_index": 5,
+      "question_text": {
+        "raw": "If tourism gets out of control, native Venetians may desert the city altogether one day.",
+        "html": ""
+      },
+      "options": [],
+      "correct_answer": null,
+      "explanation": {
+        "raw": "If tourism gets out of control, native Venetians may desert the city altogether one day.",
+        "html": ""
+      },
+      "audio_start_time": null,
+      "audio_end_time": null,
+      "transcript": "",
+      "passage_ref": {
+        "passage_id": {
+          "$oid": "75754e87a0fa7ee35c976f3e"
+        },
+        "paragraph_ids": [],
+        "evidence_text": ""
+      },
+      "tags": [],
+      "difficulty": 3,
+      "score": 2.5,
+      "import_meta": {
+        "source_question_no": "R40",
+        "confidence": 0.35,
+        "needs_review": true
+      },
+      "created_at": {
+        "$date": "2026-07-24T06:03:10.762536+00:00"
+      },
+      "updated_at": {
+        "$date": "2026-07-24T06:03:10.762536+00:00"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "bba9282a415ad9d8706b4800"
+      },
+      "section_id": {
+        "$oid": "374df9010ce0856f220ab34d"
+      },
+      "passage_id": {
+        "$oid": "75754e87a0fa7ee35c976f3e"
+      },
+      "audio_file_id": null,
+      "question_type": "single_choice",
+      "order_index": 6,
+      "question_text": {
+        "raw": "UNESCO urged the Italian government to undertake its responsibility to protect Venice. 6 --- Page 7 ---",
+        "html": ""
+      },
+      "options": [],
+      "correct_answer": null,
+      "explanation": {
+        "raw": "UNESCO urged the Italian government to undertake its responsibility to protect Venice.\n6\n--- Page 7 ---",
+        "html": ""
+      },
+      "audio_start_time": null,
+      "audio_end_time": null,
+      "transcript": "",
+      "passage_ref": {
+        "passage_id": {
+          "$oid": "75754e87a0fa7ee35c976f3e"
+        },
+        "paragraph_ids": [],
+        "evidence_text": ""
+      },
+      "tags": [],
+      "difficulty": 3,
+      "score": 2.5,
+      "import_meta": {
+        "source_question_no": "R41",
+        "confidence": 0.35,
+        "needs_review": true
+      },
+      "created_at": {
+        "$date": "2026-07-24T06:03:10.762536+00:00"
+      },
+      "updated_at": {
+        "$date": "2026-07-24T06:03:10.762536+00:00"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "f1b8d5ff144c05f591fcdb36"
+      },
+      "section_id": {
+        "$oid": "374df9010ce0856f220ab34d"
+      },
+      "passage_id": {
+        "$oid": "75754e87a0fa7ee35c976f3e"
+      },
+      "audio_file_id": null,
+      "question_type": "single_choice",
+      "order_index": 7,
+      "question_text": {
+        "raw": "The participants in the Venetian march used shopping carts to show they were 100% local residents.",
+        "html": ""
+      },
+      "options": [],
+      "correct_answer": null,
+      "explanation": {
+        "raw": "The participants in the Venetian march used shopping carts to show they were 100% local\nresidents.",
+        "html": ""
+      },
+      "audio_start_time": null,
+      "audio_end_time": null,
+      "transcript": "",
+      "passage_ref": {
+        "passage_id": {
+          "$oid": "75754e87a0fa7ee35c976f3e"
+        },
+        "paragraph_ids": [],
+        "evidence_text": ""
+      },
+      "tags": [],
+      "difficulty": 3,
+      "score": 2.5,
+      "import_meta": {
+        "source_question_no": "R42",
+        "confidence": 0.35,
+        "needs_review": true
+      },
+      "created_at": {
+        "$date": "2026-07-24T06:03:10.762536+00:00"
+      },
+      "updated_at": {
+        "$date": "2026-07-24T06:03:10.762536+00:00"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "b4682a654c7e75728b15b77b"
+      },
+      "section_id": {
+        "$oid": "374df9010ce0856f220ab34d"
+      },
+      "passage_id": {
+        "$oid": "75754e87a0fa7ee35c976f3e"
+      },
+      "audio_file_id": null,
+      "question_type": "single_choice",
+      "order_index": 8,
+      "question_text": {
+        "raw": "Ignoring UNESCO's warning, the mayor of Venice maintains his support of the city's tourism industry.",
+        "html": ""
+      },
+      "options": [],
+      "correct_answer": null,
+      "explanation": {
+        "raw": "Ignoring UNESCO's warning, the mayor of Venice maintains his support of the city's\ntourism industry.",
+        "html": ""
+      },
+      "audio_start_time": null,
+      "audio_end_time": null,
+      "transcript": "",
+      "passage_ref": {
+        "passage_id": {
+          "$oid": "75754e87a0fa7ee35c976f3e"
+        },
+        "paragraph_ids": [],
+        "evidence_text": ""
+      },
+      "tags": [],
+      "difficulty": 3,
+      "score": 2.5,
+      "import_meta": {
+        "source_question_no": "R43",
+        "confidence": 0.35,
+        "needs_review": true
+      },
+      "created_at": {
+        "$date": "2026-07-24T06:03:10.762536+00:00"
+      },
+      "updated_at": {
+        "$date": "2026-07-24T06:03:10.762536+00:00"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "a0f164393030041047f560b2"
+      },
+      "section_id": {
+        "$oid": "374df9010ce0856f220ab34d"
+      },
+      "passage_id": {
+        "$oid": "75754e87a0fa7ee35c976f3e"
+      },
+      "audio_file_id": null,
+      "question_type": "single_choice",
+      "order_index": 9,
+      "question_text": {
+        "raw": "One woman says that for decades the Italian government and local authorities have only focused on the revenues from tourism.",
+        "html": ""
+      },
+      "options": [],
+      "correct_answer": null,
+      "explanation": {
+        "raw": "One woman says that for decades the Italian government and local authorities have only\nfocused on the revenues from tourism.",
+        "html": ""
+      },
+      "audio_start_time": null,
+      "audio_end_time": null,
+      "transcript": "",
+      "passage_ref": {
+        "passage_id": {
+          "$oid": "75754e87a0fa7ee35c976f3e"
+        },
+        "paragraph_ids": [],
+        "evidence_text": ""
+      },
+      "tags": [],
+      "difficulty": 3,
+      "score": 2.5,
+      "import_meta": {
+        "source_question_no": "R44",
+        "confidence": 0.35,
+        "needs_review": true
+      },
+      "created_at": {
+        "$date": "2026-07-24T06:03:10.762536+00:00"
+      },
+      "updated_at": {
+        "$date": "2026-07-24T06:03:10.762536+00:00"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "f936a2ce1103c4a802addd06"
+      },
+      "section_id": {
+        "$oid": "374df9010ce0856f220ab34d"
+      },
+      "passage_id": {
+        "$oid": "75754e87a0fa7ee35c976f3e"
+      },
+      "audio_file_id": null,
+      "question_type": "single_choice",
+      "order_index": 10,
+      "question_text": {
+        "raw": "UNESCO has not yet decided to put Venice on the list of World Heritage Sites In Danger. Section C Directions: There are 2 passages in this section. Each passage is followed by some questions or unfinished statements. For each of them there are four choices marked",
+        "html": ""
+      },
+      "options": [
+        {
+          "key": "A",
+          "text": ",",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": ",",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "and",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": ". You should decide on the best choice and mark the corresponding letter on Answer Sheet2 with a single line through the centre. Passage One Questions 46 and 50 are based on the following passage. Passage One Questions 46 to 50 are based on the following passage. Living in an urban area with green spaces has a long-lasting positive impact on people's mental well-being, a study has suggested. UK researchers found moving to a green space had a sustained positive effect, unlike pay rises or promotions, which only provided a short-term boost. Co-author Mathew White, from the University of Exeter, UK, explained that the study showed people living in greener urban areas were displaying fewer signs of depression or anxiety. \"There could be a number of reasons,\" he said, \"for example, people do many things to make themselves happier: they strive for promotion or pay rises, or they get married. But the trouble with those things is that within six months to a year, people are back to their original baseline levels of well-being. So, these things are not sustainable; they don't make us happy in the long term. We found that for some lottery (彩票) winners who had won more than ￡500,000 the positive effect was definitely there, but after six months to a year, they were back to the baseline.\" Dr. White said his team wanted to see whether living in greener urban areas had a lasting positive effect on people's sense of well-being or whether the effect also disappeared after a period of time. To do this, the team used data from the British Household Panel Survey compiled by the University of Essex. Explaining what the data revealed, he said: \"What you see is that even after three years, mental health is still better, which is unlike many other things that we think will make us happy.\" He observed that people living in green spaces were less stressed, and less stressed people made more sensible decisions and communicated better. With a growing body of evidence establishing a link between urban green spaces and a positive impact on human well-being, Dr. White said, \"There's growing interest among public policy officials, but the trouble is who funds it. What we really need at a policy level is to decide where the money will come from to help support good quality local green spaces.\" 7 --- Page 8 --- 46.According to one study, what do green spaces do to people?",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": null,
+      "explanation": {
+        "raw": "UNESCO has not yet decided to put Venice on the list of World Heritage Sites In Danger.\nSection C\nDirections: There are 2 passages in this section. Each passage is followed by some questions\nor unfinished statements. For each of them there are four choices marked A), B), C) and\nD). You should decide on the best choice and mark the corresponding letter on Answer Sheet2 with\na single line through the centre.",
+        "html": ""
+      },
+      "audio_start_time": null,
+      "audio_end_time": null,
+      "transcript": "",
+      "passage_ref": {
+        "passage_id": {
+          "$oid": "75754e87a0fa7ee35c976f3e"
+        },
+        "paragraph_ids": [],
+        "evidence_text": ""
+      },
+      "tags": [],
+      "difficulty": 3,
+      "score": 2.5,
+      "import_meta": {
+        "source_question_no": "R45",
+        "confidence": 0.35,
+        "needs_review": true
+      },
+      "created_at": {
+        "$date": "2026-07-24T06:03:10.762536+00:00"
+      },
+      "updated_at": {
+        "$date": "2026-07-24T06:03:10.762536+00:00"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "086b7ea4406d7982fb024646"
+      },
+      "section_id": {
+        "$oid": "51f51907404af7a21336c692"
+      },
+      "passage_id": null,
+      "audio_file_id": null,
+      "question_type": "subjective",
+      "order_index": 1,
+      "question_text": {
+        "raw": "Part IV Translation (30 minutes) Directions: For this part, you are allowed 30minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2. 公交车曾是中国人出行的主要交通 工具。近年来，由于私家车数量不断增多，城市的交通 问题越来越严重。许多城市为了鼓励更多人乘坐公交车出行，一直在努力改善公交车的服务 质量。车辆的设施不断更新，车速也有了显著提高。然而，公交车的票价却依然相当低廉。 现在，在大多数城市，许多当地老年市民都可以免费乘坐公交车。 10",
+        "html": ""
+      },
+      "options": [],
+      "correct_answer": {
+        "reference": "",
+        "rubric": []
+      },
+      "explanation": {
+        "raw": "",
+        "html": ""
+      },
+      "audio_start_time": null,
+      "audio_end_time": null,
+      "transcript": "",
+      "passage_ref": {
+        "passage_id": null,
+        "paragraph_ids": [],
+        "evidence_text": ""
+      },
+      "tags": [],
+      "difficulty": 3,
+      "score": 15,
+      "import_meta": {
+        "source_question_no": "T1",
+        "confidence": 0.45,
+        "needs_review": true
+      },
+      "created_at": {
+        "$date": "2026-07-24T06:03:10.762536+00:00"
+      },
+      "updated_at": {
+        "$date": "2026-07-24T06:03:10.762536+00:00"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "9f1635c28f461bc3f495eca6"
+      },
+      "section_id": {
+        "$oid": "e1c2366bb8190331ea85c4a9"
+      },
+      "passage_id": null,
+      "audio_file_id": null,
+      "question_type": "subjective",
+      "order_index": 1,
+      "question_text": {
+        "raw": "Part I Writing （30 minutes） Directions: For this part, you are allowed 30minutes to write a short essay on the importance of writing ability and how to develop it. You should write at least 120 words but no more than 180 words. ________________________________________________________________________ ________________________________________________________________________ ________________________________________________________________________",
+        "html": ""
+      },
+      "options": [],
+      "correct_answer": {
+        "reference": "",
+        "rubric": []
+      },
+      "explanation": {
+        "raw": "",
+        "html": ""
+      },
+      "audio_start_time": null,
+      "audio_end_time": null,
+      "transcript": "",
+      "passage_ref": {
+        "passage_id": null,
+        "paragraph_ids": [],
+        "evidence_text": ""
+      },
+      "tags": [],
+      "difficulty": 3,
+      "score": 15,
+      "import_meta": {
+        "source_question_no": "W1",
+        "confidence": 0.45,
+        "needs_review": true
+      },
+      "created_at": {
+        "$date": "2026-07-24T06:03:10.762536+00:00"
+      },
+      "updated_at": {
+        "$date": "2026-07-24T06:03:10.762536+00:00"
+      }
+    }
+  ],
+  "extract_meta": {
+    "paper_id": "cet4-2018-6-1-e6748d0a",
+    "question_pdf": "C:\\Users\\liujinhao\\Documents\\New project\\kaoyan-english-lab\\backend\\data\\extracted\\robust-import\\_downloads\\cet4-2018-6-2\\question.pdf",
+    "answer_pdf": "C:\\Users\\liujinhao\\Documents\\New project\\kaoyan-english-lab\\backend\\data\\extracted\\robust-import\\_downloads\\cet4-2018-6-2\\answer.pdf",
+    "audio_file": "C:\\Users\\liujinhao\\Documents\\New project\\kaoyan-english-lab\\backend\\data\\extracted\\robust-import\\_downloads\\cet4-2018-6-2\\audio.mp3",
+    "section_text_lengths": {
+      "writing": 446,
+      "listening": 5858,
+      "reading": 16274,
+      "translation": 339
+    },
+    "warnings": [],
+    "generated_at": "2026-07-24T06:03:10.762536+00:00",
+    "question_extract": {
+      "method": "pdfplumber",
+      "page_count": 10,
+      "elapsed_seconds": 0.675,
+      "errors": []
+    },
+    "answer_extract": {
+      "method": "pdfplumber",
+      "page_count": 10,
+      "elapsed_seconds": 0.707,
+      "errors": []
+    },
+    "answer_count": 45,
+    "elapsed_seconds": 1.407,
+    "parser_version": "safe-python-v2"
+  }
+}

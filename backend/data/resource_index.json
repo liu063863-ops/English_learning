@@ -1,0 +1,1681 @@
+[
+  {
+    "id": "cettong-cet-library",
+    "examTypes": [
+      "CET-4",
+      "CET-6"
+    ],
+    "url": "https://www.cettong.cn/library",
+    "fetchedAt": "2026-07-23T06:16:54.546Z",
+    "status": "failed",
+    "error": "fetch failed",
+    "links": []
+  },
+  {
+    "id": "eduego-kaoyan-english",
+    "examTypes": [
+      "KAOYAN"
+    ],
+    "url": "https://www.eduego.com/fqrz/zhenti/0-233/",
+    "fetchedAt": "2026-07-23T06:16:54.934Z",
+    "status": 200,
+    "links": [
+      {
+        "title": "全国",
+        "url": "https://www.eduego.com/diqu.html",
+        "resourceType": "page"
+      },
+      {
+        "title": "北京",
+        "url": "https://www.eduego.com/beijing.html",
+        "resourceType": "page"
+      },
+      {
+        "title": "上海",
+        "url": "https://www.eduego.com/shanghai.html",
+        "resourceType": "page"
+      },
+      {
+        "title": "广东",
+        "url": "https://www.eduego.com/guangdong.html",
+        "resourceType": "page"
+      },
+      {
+        "title": "浙江",
+        "url": "https://www.eduego.com/zhejiang.html",
+        "resourceType": "page"
+      },
+      {
+        "title": "江苏",
+        "url": "https://www.eduego.com/jiangsu.html",
+        "resourceType": "page"
+      },
+      {
+        "title": "山东",
+        "url": "https://www.eduego.com/shandong.html",
+        "resourceType": "page"
+      },
+      {
+        "title": "天津",
+        "url": "https://www.eduego.com/tianjin.html",
+        "resourceType": "page"
+      },
+      {
+        "title": "河北",
+        "url": "https://www.eduego.com/hebei.html",
+        "resourceType": "page"
+      },
+      {
+        "title": "山西",
+        "url": "https://www.eduego.com/shanxi.html",
+        "resourceType": "page"
+      },
+      {
+        "title": "内蒙古",
+        "url": "https://www.eduego.com/neimenggu.html",
+        "resourceType": "page"
+      },
+      {
+        "title": "安徽",
+        "url": "https://www.eduego.com/anhui.html",
+        "resourceType": "page"
+      },
+      {
+        "title": "福建",
+        "url": "https://www.eduego.com/fujian.html",
+        "resourceType": "page"
+      },
+      {
+        "title": "江西",
+        "url": "https://www.eduego.com/jiangxi.html",
+        "resourceType": "page"
+      },
+      {
+        "title": "河南",
+        "url": "https://www.eduego.com/henan.html",
+        "resourceType": "page"
+      },
+      {
+        "title": "湖北",
+        "url": "https://www.eduego.com/hubei.html",
+        "resourceType": "page"
+      },
+      {
+        "title": "湖南",
+        "url": "https://www.eduego.com/hunan.html",
+        "resourceType": "page"
+      },
+      {
+        "title": "广西",
+        "url": "https://www.eduego.com/guangxi.html",
+        "resourceType": "page"
+      },
+      {
+        "title": "海南",
+        "url": "https://www.eduego.com/hainan.html",
+        "resourceType": "page"
+      },
+      {
+        "title": "黑龙江",
+        "url": "https://www.eduego.com/heilongjiang.html",
+        "resourceType": "page"
+      },
+      {
+        "title": "吉林",
+        "url": "https://www.eduego.com/jilin.html",
+        "resourceType": "page"
+      },
+      {
+        "title": "辽宁",
+        "url": "https://www.eduego.com/liaoning.html",
+        "resourceType": "page"
+      },
+      {
+        "title": "重庆",
+        "url": "https://www.eduego.com/chongqing.html",
+        "resourceType": "page"
+      },
+      {
+        "title": "四川",
+        "url": "https://www.eduego.com/sichuan.html",
+        "resourceType": "page"
+      },
+      {
+        "title": "贵州",
+        "url": "https://www.eduego.com/guizhou.html",
+        "resourceType": "page"
+      },
+      {
+        "title": "云南",
+        "url": "https://www.eduego.com/yunnan.html",
+        "resourceType": "page"
+      },
+      {
+        "title": "西藏",
+        "url": "https://www.eduego.com/xizang.html",
+        "resourceType": "page"
+      },
+      {
+        "title": "陕西",
+        "url": "https://www.eduego.com/shanxi2.html",
+        "resourceType": "page"
+      },
+      {
+        "title": "甘肃",
+        "url": "https://www.eduego.com/gansu.html",
+        "resourceType": "page"
+      },
+      {
+        "title": "青海",
+        "url": "https://www.eduego.com/qinghai.html",
+        "resourceType": "page"
+      },
+      {
+        "title": "宁夏",
+        "url": "https://www.eduego.com/ningxia.html",
+        "resourceType": "page"
+      },
+      {
+        "title": "新疆",
+        "url": "https://www.eduego.com/xinjiang.html",
+        "resourceType": "page"
+      },
+      {
+        "title": "西藏",
+        "url": "https://www.eduego.com/xizang.html",
+        "resourceType": "page"
+      },
+      {
+        "title": "陕西",
+        "url": "https://www.eduego.com/shanxi2.html",
+        "resourceType": "page"
+      },
+      {
+        "title": "甘肃",
+        "url": "https://www.eduego.com/gansu.html",
+        "resourceType": "page"
+      },
+      {
+        "title": "青海",
+        "url": "https://www.eduego.com/qinghai.html",
+        "resourceType": "page"
+      },
+      {
+        "title": "宁夏",
+        "url": "https://www.eduego.com/ningxia.html",
+        "resourceType": "page"
+      },
+      {
+        "title": "新疆",
+        "url": "https://www.eduego.com/xinjiang.html",
+        "resourceType": "page"
+      },
+      {
+        "title": "北京",
+        "url": "https://www.eduego.com/search.html?tit=%E5%8C%97%E4%BA%AC",
+        "resourceType": "page"
+      },
+      {
+        "title": "北京大学",
+        "url": "https://www.eduego.com/search.html?tit=%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6",
+        "resourceType": "page"
+      },
+      {
+        "title": "深圳大学",
+        "url": "https://www.eduego.com/search.html?tit=%E6%B7%B1%E5%9C%B3%E5%A4%A7%E5%AD%A6",
+        "resourceType": "page"
+      },
+      {
+        "title": "报考",
+        "url": "https://www.eduego.com/search.html?tit=%E6%8A%A5%E8%80%83",
+        "resourceType": "page"
+      },
+      {
+        "title": "哲学",
+        "url": "https://www.eduego.com/search.html?tit=%E5%93%B2%E5%AD%A6",
+        "resourceType": "page"
+      },
+      {
+        "title": "学科教学（数学）",
+        "url": "https://www.eduego.com/search.html?tit=%E5%AD%A6%E7%A7%91%E6%95%99%E5%AD%A6%EF%BC%88%E6%95%B0%E5%AD%A6%EF%BC%89",
+        "resourceType": "page"
+      },
+      {
+        "title": "1 农业管理非全日制研究生含金量高吗？有必要考吗？ 热",
+        "url": "https://www.eduego.com/major372/wenti/119879.html",
+        "resourceType": "page"
+      },
+      {
+        "title": "2 广西民族大学与首尔科大中外合办硕士博士2026年9月入学招生日程公布 官方",
+        "url": "https://www.eduego.com/zhaosheng/61860.html",
+        "resourceType": "page"
+      },
+      {
+        "title": "3 2027年南京信息工程大学工商管理硕士(MBA)非全日制研究生招生简章发布! 新 官方",
+        "url": "https://www.eduego.com/zhaosheng/61867.html",
+        "resourceType": "page"
+      },
+      {
+        "title": "4 历年考研人数和录取人数统计汇总",
+        "url": "https://www.eduego.com/wenti/110007.html",
+        "resourceType": "page"
+      },
+      {
+        "title": "5 2026年非全日制硕士学费一览表 官方",
+        "url": "https://www.eduego.com/fqrz/zhaosheng/58212.html",
+        "resourceType": "page"
+      },
+      {
+        "title": "6 2026年在职博士招生简章：含院校专业及报读攻略",
+        "url": "https://www.eduego.com/gnbs/zhaosheng/58803.html",
+        "resourceType": "page"
+      },
+      {
+        "title": "7 2025年全国研究生教育统计：博士招生首破20万，毕业硕士首破百万",
+        "url": "https://www.eduego.com/zixun/61848.html",
+        "resourceType": "page"
+      },
+      {
+        "title": "首页",
+        "url": "https://www.eduego.com/",
+        "resourceType": "page"
+      },
+      {
+        "title": "院校库",
+        "url": "https://www.eduego.com/school/",
+        "resourceType": "page"
+      },
+      {
+        "title": "专业库",
+        "url": "https://www.eduego.com/major/",
+        "resourceType": "page"
+      },
+      {
+        "title": "简章库",
+        "url": "https://www.eduego.com/jianzhang/",
+        "resourceType": "page"
+      },
+      {
+        "title": "资讯",
+        "url": "https://www.eduego.com/news/hot/",
+        "resourceType": "page"
+      },
+      {
+        "title": "专题",
+        "url": "https://www.eduego.com/zt/hot/",
+        "resourceType": "page"
+      },
+      {
+        "title": "视频",
+        "url": "https://www.eduego.com/video/hot/",
+        "resourceType": "page"
+      },
+      {
+        "title": "研友圈",
+        "url": "https://www.eduego.com/yanyouquan/",
+        "resourceType": "page"
+      },
+      {
+        "title": "排行榜",
+        "url": "https://www.eduego.com/top/school/",
+        "resourceType": "page"
+      },
+      {
+        "title": "简章对比",
+        "url": "https://www.eduego.com/compare.html",
+        "resourceType": "page"
+      },
+      {
+        "title": "类型对比",
+        "url": "https://www.eduego.com/zzss.html",
+        "resourceType": "page"
+      },
+      {
+        "title": "同等学力 免试入学、先读后考、单证硕士",
+        "url": "https://www.eduego.com/tdxl/",
+        "resourceType": "page"
+      },
+      {
+        "title": "非全日制 统考入学、在职攻读、可获双证",
+        "url": "https://www.eduego.com/fqrz/",
+        "resourceType": "page"
+      },
+      {
+        "title": "国际硕士 免联考、出国短居、获外方学位",
+        "url": "https://www.eduego.com/gjss/",
+        "resourceType": "page"
+      },
+      {
+        "title": "中外合办 国内学习、不出国门、双校资源",
+        "url": "https://www.eduego.com/zwhb/",
+        "resourceType": "page"
+      },
+      {
+        "title": "类型对比",
+        "url": "https://www.eduego.com/bsdb.html",
+        "resourceType": "page"
+      },
+      {
+        "title": "国内博士 申请考核、在职就读、学术深造",
+        "url": "https://www.eduego.com/gnbs/",
+        "resourceType": "page"
+      },
+      {
+        "title": "国际博士 申请入学、全球视野、海归身份",
+        "url": "https://www.eduego.com/gjbs/",
+        "resourceType": "page"
+      },
+      {
+        "title": "类型对比",
+        "url": "https://www.eduego.com/pxdb.html",
+        "resourceType": "page"
+      },
+      {
+        "title": "院校研修 名校光环、短期充电、扩展人脉",
+        "url": "https://www.eduego.com/yxyx/",
+        "resourceType": "page"
+      },
+      {
+        "title": "商业研修 实战导向、案例教学、赋能管理",
+        "url": "https://www.eduego.com/syyx/",
+        "resourceType": "page"
+      },
+      {
+        "title": "简章对比",
+        "url": "https://www.eduego.com/compare.html",
+        "resourceType": "page"
+      },
+      {
+        "title": "在职研究生招生信息网（学晋网）",
+        "url": "https://www.eduego.com/",
+        "resourceType": "page"
+      },
+      {
+        "title": "非全日制研究生",
+        "url": "https://www.eduego.com/fqrz/",
+        "resourceType": "page"
+      },
+      {
+        "title": "非全日制",
+        "url": "https://www.eduego.com/fqrz/",
+        "resourceType": "page"
+      },
+      {
+        "title": "&nbsp;资格测试",
+        "url": "https://www.eduego.com/fqrz/baoming.html",
+        "resourceType": "page"
+      },
+      {
+        "title": "类型首页",
+        "url": "https://www.eduego.com/fqrz/",
+        "resourceType": "page"
+      },
+      {
+        "title": "学校库热",
+        "url": "https://www.eduego.com/fqrz/school/",
+        "resourceType": "page"
+      },
+      {
+        "title": "专业库",
+        "url": "https://www.eduego.com/fqrz/major/",
+        "resourceType": "page"
+      },
+      {
+        "title": "招生简章",
+        "url": "https://www.eduego.com/fqrz/jianzhang/",
+        "resourceType": "page"
+      },
+      {
+        "title": "招生资讯",
+        "url": "https://www.eduego.com/fqrz/news/hot/",
+        "resourceType": "page"
+      },
+      {
+        "title": "考试信息",
+        "url": "https://www.eduego.com/fqrz/zhenti.html",
+        "resourceType": "page"
+      },
+      {
+        "title": "(论坛)",
+        "url": "https://www.eduego.com/yanyouquan/44/",
+        "resourceType": "page"
+      },
+      {
+        "title": "视频",
+        "url": "https://www.eduego.com/fqrz/video/hot/",
+        "resourceType": "page"
+      },
+      {
+        "title": "图集",
+        "url": "https://www.eduego.com/fqrz/tuji/",
+        "resourceType": "page"
+      },
+      {
+        "title": "问答",
+        "url": "https://www.eduego.com/yanyouquan/44/wenda/",
+        "resourceType": "page"
+      },
+      {
+        "title": "专题",
+        "url": "https://www.eduego.com/fqrz/zt/hot/",
+        "resourceType": "page"
+      },
+      {
+        "title": "排行榜",
+        "url": "https://www.eduego.com/top/school/fqrz/",
+        "resourceType": "page"
+      },
+      {
+        "title": "网上报名",
+        "url": "https://www.eduego.com/fqrz/baoming.html",
+        "resourceType": "page"
+      },
+      {
+        "title": "视频",
+        "url": "https://www.eduego.com/fqrz/video/hot/",
+        "resourceType": "page"
+      },
+      {
+        "title": "图片",
+        "url": "https://www.eduego.com/fqrz/tuji/",
+        "resourceType": "page"
+      },
+      {
+        "title": "问答",
+        "url": "https://www.eduego.com/yanyouquan/44/wenda/",
+        "resourceType": "page"
+      },
+      {
+        "title": "专题",
+        "url": "https://www.eduego.com/fqrz/zt/hot/",
+        "resourceType": "page"
+      },
+      {
+        "title": "排行榜",
+        "url": "https://www.eduego.com/top/school/fqrz/",
+        "resourceType": "page"
+      },
+      {
+        "title": "网上报名",
+        "url": "https://www.eduego.com/fqrz/baoming.html",
+        "resourceType": "page"
+      },
+      {
+        "title": "历年真题",
+        "url": "https://www.eduego.com/fqrz/zhenti.html",
+        "resourceType": "paper"
+      },
+      {
+        "title": "复习指导",
+        "url": "https://www.eduego.com/fqrz/fuxi/",
+        "resourceType": "page"
+      },
+      {
+        "title": "考试大纲",
+        "url": "https://www.eduego.com/fqrz/dagang.html",
+        "resourceType": "page"
+      },
+      {
+        "title": "大纲解析",
+        "url": "https://www.eduego.com/fqrz/dagangjiexi/",
+        "resourceType": "paper"
+      },
+      {
+        "title": "分数线",
+        "url": "https://www.eduego.com/fqrz/fsx.html",
+        "resourceType": "page"
+      },
+      {
+        "title": "成绩查询",
+        "url": "https://www.eduego.com/fqrz/chengji.html",
+        "resourceType": "page"
+      },
+      {
+        "title": "复试信息",
+        "url": "https://www.eduego.com/fqrz/mianshi.html",
+        "resourceType": "page"
+      },
+      {
+        "title": "调剂信息",
+        "url": "https://www.eduego.com/fqrz/tiaoji.html",
+        "resourceType": "page"
+      },
+      {
+        "title": "推荐",
+        "url": "https://www.eduego.com/fqrz/zhenti.html",
+        "resourceType": "page"
+      },
+      {
+        "title": "筛选",
+        "url": "https://www.eduego.com/fqrz/zhenti/",
+        "resourceType": "page"
+      },
+      {
+        "title": "不限",
+        "url": "https://www.eduego.com/fqrz/zhenti/0-233/",
+        "resourceType": "page"
+      },
+      {
+        "title": "2026",
+        "url": "https://www.eduego.com/fqrz/zhenti/2026-233/",
+        "resourceType": "page"
+      },
+      {
+        "title": "2025",
+        "url": "https://www.eduego.com/fqrz/zhenti/2025-233/",
+        "resourceType": "page"
+      },
+      {
+        "title": "2024",
+        "url": "https://www.eduego.com/fqrz/zhenti/2024-233/",
+        "resourceType": "page"
+      },
+      {
+        "title": "2023",
+        "url": "https://www.eduego.com/fqrz/zhenti/2023-233/",
+        "resourceType": "page"
+      },
+      {
+        "title": "2022",
+        "url": "https://www.eduego.com/fqrz/zhenti/2022-233/",
+        "resourceType": "page"
+      },
+      {
+        "title": "2021",
+        "url": "https://www.eduego.com/fqrz/zhenti/2021-233/",
+        "resourceType": "page"
+      },
+      {
+        "title": "2020",
+        "url": "https://www.eduego.com/fqrz/zhenti/2020-233/",
+        "resourceType": "page"
+      },
+      {
+        "title": "2019",
+        "url": "https://www.eduego.com/fqrz/zhenti/2019-233/",
+        "resourceType": "page"
+      },
+      {
+        "title": "2018",
+        "url": "https://www.eduego.com/fqrz/zhenti/2018-233/",
+        "resourceType": "page"
+      },
+      {
+        "title": "2017",
+        "url": "https://www.eduego.com/fqrz/zhenti/2017-233/",
+        "resourceType": "page"
+      },
+      {
+        "title": "2016",
+        "url": "https://www.eduego.com/fqrz/zhenti/2016-233/",
+        "resourceType": "page"
+      },
+      {
+        "title": "2015",
+        "url": "https://www.eduego.com/fqrz/zhenti/2015-233/",
+        "resourceType": "page"
+      },
+      {
+        "title": "2014",
+        "url": "https://www.eduego.com/fqrz/zhenti/2014-233/",
+        "resourceType": "page"
+      },
+      {
+        "title": "2013",
+        "url": "https://www.eduego.com/fqrz/zhenti/2013-233/",
+        "resourceType": "page"
+      },
+      {
+        "title": "2012",
+        "url": "https://www.eduego.com/fqrz/zhenti/2012-233/",
+        "resourceType": "page"
+      },
+      {
+        "title": "2011",
+        "url": "https://www.eduego.com/fqrz/zhenti/2011-233/",
+        "resourceType": "page"
+      },
+      {
+        "title": "2010",
+        "url": "https://www.eduego.com/fqrz/zhenti/2010-233/",
+        "resourceType": "page"
+      },
+      {
+        "title": "2009",
+        "url": "https://www.eduego.com/fqrz/zhenti/2009-233/",
+        "resourceType": "page"
+      },
+      {
+        "title": "2008",
+        "url": "https://www.eduego.com/fqrz/zhenti/2008-233/",
+        "resourceType": "page"
+      },
+      {
+        "title": "2007",
+        "url": "https://www.eduego.com/fqrz/zhenti/2007-233/",
+        "resourceType": "page"
+      },
+      {
+        "title": "2006",
+        "url": "https://www.eduego.com/fqrz/zhenti/2006-233/",
+        "resourceType": "page"
+      },
+      {
+        "title": "2005",
+        "url": "https://www.eduego.com/fqrz/zhenti/2005-233/",
+        "resourceType": "page"
+      },
+      {
+        "title": "2004",
+        "url": "https://www.eduego.com/fqrz/zhenti/2004-233/",
+        "resourceType": "page"
+      },
+      {
+        "title": "2003",
+        "url": "https://www.eduego.com/fqrz/zhenti/2003-233/",
+        "resourceType": "page"
+      },
+      {
+        "title": "2001",
+        "url": "https://www.eduego.com/fqrz/zhenti/2001-233/",
+        "resourceType": "page"
+      },
+      {
+        "title": "2000",
+        "url": "https://www.eduego.com/fqrz/zhenti/2000-233/",
+        "resourceType": "page"
+      },
+      {
+        "title": "不限",
+        "url": "https://www.eduego.com/fqrz/zhenti/",
+        "resourceType": "page"
+      },
+      {
+        "title": "英语",
+        "url": "https://www.eduego.com/fqrz/zhenti/0-233/",
+        "resourceType": "page"
+      },
+      {
+        "title": "俄语",
+        "url": "https://www.eduego.com/fqrz/zhenti/0-234/",
+        "resourceType": "page"
+      },
+      {
+        "title": "日语",
+        "url": "https://www.eduego.com/fqrz/zhenti/0-235/",
+        "resourceType": "page"
+      },
+      {
+        "title": "数学",
+        "url": "https://www.eduego.com/fqrz/zhenti/0-236/",
+        "resourceType": "page"
+      },
+      {
+        "title": "政治",
+        "url": "https://www.eduego.com/fqrz/zhenti/0-237/",
+        "resourceType": "page"
+      },
+      {
+        "title": "金融",
+        "url": "https://www.eduego.com/fqrz/zhenti/0-238/",
+        "resourceType": "page"
+      },
+      {
+        "title": "税务",
+        "url": "https://www.eduego.com/fqrz/zhenti/0-239/",
+        "resourceType": "page"
+      },
+      {
+        "title": "保险",
+        "url": "https://www.eduego.com/fqrz/zhenti/0-240/",
+        "resourceType": "page"
+      },
+      {
+        "title": "教育",
+        "url": "https://www.eduego.com/fqrz/zhenti/0-241/",
+        "resourceType": "page"
+      },
+      {
+        "title": "翻译",
+        "url": "https://www.eduego.com/fqrz/zhenti/0-242/",
+        "resourceType": "page"
+      },
+      {
+        "title": "农业",
+        "url": "https://www.eduego.com/fqrz/zhenti/0-243/",
+        "resourceType": "page"
+      },
+      {
+        "title": "林业",
+        "url": "https://www.eduego.com/fqrz/zhenti/0-244/",
+        "resourceType": "page"
+      },
+      {
+        "title": "风景园林",
+        "url": "https://www.eduego.com/fqrz/zhenti/0-245/",
+        "resourceType": "page"
+      },
+      {
+        "title": "艺术",
+        "url": "https://www.eduego.com/fqrz/zhenti/0-246/",
+        "resourceType": "page"
+      },
+      {
+        "title": "出版",
+        "url": "https://www.eduego.com/fqrz/zhenti/0-247/",
+        "resourceType": "page"
+      },
+      {
+        "title": "工程",
+        "url": "https://www.eduego.com/fqrz/zhenti/0-248/",
+        "resourceType": "page"
+      },
+      {
+        "title": "体育",
+        "url": "https://www.eduego.com/fqrz/zhenti/0-249/",
+        "resourceType": "page"
+      },
+      {
+        "title": "警务",
+        "url": "https://www.eduego.com/fqrz/zhenti/0-250/",
+        "resourceType": "page"
+      },
+      {
+        "title": "军事",
+        "url": "https://www.eduego.com/fqrz/zhenti/0-251/",
+        "resourceType": "page"
+      },
+      {
+        "title": "兽医",
+        "url": "https://www.eduego.com/fqrz/zhenti/0-252/",
+        "resourceType": "page"
+      },
+      {
+        "title": "药学",
+        "url": "https://www.eduego.com/fqrz/zhenti/0-253/",
+        "resourceType": "page"
+      },
+      {
+        "title": "护理",
+        "url": "https://www.eduego.com/fqrz/zhenti/0-254/",
+        "resourceType": "page"
+      },
+      {
+        "title": "中医",
+        "url": "https://www.eduego.com/fqrz/zhenti/0-255/",
+        "resourceType": "page"
+      },
+      {
+        "title": "中药学",
+        "url": "https://www.eduego.com/fqrz/zhenti/0-256/",
+        "resourceType": "page"
+      },
+      {
+        "title": "临床医学",
+        "url": "https://www.eduego.com/fqrz/zhenti/0-257/",
+        "resourceType": "page"
+      },
+      {
+        "title": "口腔医学",
+        "url": "https://www.eduego.com/fqrz/zhenti/0-258/",
+        "resourceType": "page"
+      },
+      {
+        "title": "公共卫生",
+        "url": "https://www.eduego.com/fqrz/zhenti/0-259/",
+        "resourceType": "page"
+      },
+      {
+        "title": "建筑学",
+        "url": "https://www.eduego.com/fqrz/zhenti/0-260/",
+        "resourceType": "page"
+      },
+      {
+        "title": "应用心理",
+        "url": "https://www.eduego.com/fqrz/zhenti/0-261/",
+        "resourceType": "page"
+      },
+      {
+        "title": "城市规划",
+        "url": "https://www.eduego.com/fqrz/zhenti/0-262/",
+        "resourceType": "page"
+      },
+      {
+        "title": "法律",
+        "url": "https://www.eduego.com/fqrz/zhenti/0-263/",
+        "resourceType": "page"
+      },
+      {
+        "title": "审计",
+        "url": "https://www.eduego.com/fqrz/zhenti/0-264/",
+        "resourceType": "page"
+      },
+      {
+        "title": "工商管理(MBA)",
+        "url": "https://www.eduego.com/fqrz/zhenti/0-265/",
+        "resourceType": "page"
+      },
+      {
+        "title": "公共管理(MPA)",
+        "url": "https://www.eduego.com/fqrz/zhenti/0-266/",
+        "resourceType": "page"
+      },
+      {
+        "title": "会计(MPACC)",
+        "url": "https://www.eduego.com/fqrz/zhenti/0-267/",
+        "resourceType": "page"
+      },
+      {
+        "title": "旅游管理",
+        "url": "https://www.eduego.com/fqrz/zhenti/0-268/",
+        "resourceType": "page"
+      },
+      {
+        "title": "图书情报",
+        "url": "https://www.eduego.com/fqrz/zhenti/0-269/",
+        "resourceType": "page"
+      },
+      {
+        "title": "工程管理",
+        "url": "https://www.eduego.com/fqrz/zhenti/0-270/",
+        "resourceType": "page"
+      },
+      {
+        "title": "国际商务",
+        "url": "https://www.eduego.com/fqrz/zhenti/0-271/",
+        "resourceType": "page"
+      },
+      {
+        "title": "应用统计",
+        "url": "https://www.eduego.com/fqrz/zhenti/0-272/",
+        "resourceType": "page"
+      },
+      {
+        "title": "资产评估",
+        "url": "https://www.eduego.com/fqrz/zhenti/0-273/",
+        "resourceType": "page"
+      },
+      {
+        "title": "社会工作",
+        "url": "https://www.eduego.com/fqrz/zhenti/0-274/",
+        "resourceType": "page"
+      },
+      {
+        "title": "新闻与传播",
+        "url": "https://www.eduego.com/fqrz/zhenti/0-275/",
+        "resourceType": "page"
+      },
+      {
+        "title": "文物与博物馆",
+        "url": "https://www.eduego.com/fqrz/zhenti/0-276/",
+        "resourceType": "page"
+      },
+      {
+        "title": "汉语国际教育",
+        "url": "https://www.eduego.com/fqrz/zhenti/0-277/",
+        "resourceType": "page"
+      },
+      {
+        "title": "2026年全国研究生招生考试《英语二》真题及答案解析（完整版） 试题中心 1208次阅读 2026-01-12 13:27:17",
+        "url": "https://www.eduego.com/shiti/7764.html",
+        "resourceType": "paper"
+      },
+      {
+        "title": "2026年全国研究生招生考试《英语一》真题及答案解析（完整版） 试题中心 1078次阅读 2026-01-12 13:27:17",
+        "url": "https://www.eduego.com/shiti/7765.html",
+        "resourceType": "paper"
+      },
+      {
+        "title": "2026年全国硕士研究生招生考试英语（二）真题及答案 试题中心 890次阅读 2025-12-22 09:55:47",
+        "url": "https://www.eduego.com/fqrz/shiti/7744.html",
+        "resourceType": "paper"
+      },
+      {
+        "title": "2026年全国硕士研究生招生考试英语（一）真题及答案 试题中心 812次阅读 2025-12-22 09:46:05",
+        "url": "https://www.eduego.com/fqrz/shiti/7743.html",
+        "resourceType": "paper"
+      },
+      {
+        "title": "2025年全国硕士研究生考试英语（二）真题答案及解析（完整版） 试题中心 1749次阅读 2025-04-08 15:37:00",
+        "url": "https://www.eduego.com/shiti/7640.html",
+        "resourceType": "paper"
+      },
+      {
+        "title": "2025年全国硕士研究生考试英语（一）真题答案及解析（完整版） 试题中心 1319次阅读 2025-04-08 15:34:42",
+        "url": "https://www.eduego.com/shiti/7639.html",
+        "resourceType": "paper"
+      },
+      {
+        "title": "2025年全国硕士研究生招生考试英语(一)真题 试题中心 1387次阅读 2024-12-24 15:50:49",
+        "url": "https://www.eduego.com/fqrz/shiti/7585.html",
+        "resourceType": "paper"
+      },
+      {
+        "title": "2025年全国硕士研究生招生考试英语(二)真题 试题中心 1196次阅读 2024-12-24 15:49:41",
+        "url": "https://www.eduego.com/fqrz/shiti/7586.html",
+        "resourceType": "paper"
+      },
+      {
+        "title": "2024年全国硕士研究生招生考试英语(二)真题及答案(完整版) 试题中心 3134次阅读 2023-12-29 16:51:47",
+        "url": "https://www.eduego.com/shiti/5412.html",
+        "resourceType": "paper"
+      },
+      {
+        "title": "2024年全国硕士研究生招生考试英语(一)真题及答案(完整版) 试题中心 2159次阅读 2023-12-29 16:47:49",
+        "url": "https://www.eduego.com/shiti/5411.html",
+        "resourceType": "paper"
+      },
+      {
+        "title": "2020年全国硕士研究生英语(一)真题 试题中心 434次阅读 2023-12-26 19:59:15",
+        "url": "https://www.eduego.com/fqrz/shiti/6918.html",
+        "resourceType": "paper"
+      },
+      {
+        "title": "2020年全国硕士研究生英语(二)真题 试题中心 574次阅读 2023-12-26 19:59:11",
+        "url": "https://www.eduego.com/fqrz/shiti/6919.html",
+        "resourceType": "paper"
+      },
+      {
+        "title": "2023年全国硕士研究生考试英语（二）真题及答案解析（完整版） 试题中心 3485次阅读 2022-12-29 10:26:43",
+        "url": "https://www.eduego.com/shiti/3244.html",
+        "resourceType": "paper"
+      },
+      {
+        "title": "2023年全国硕士研究生考试英语（一）真题及答案解析（完整版） 试题中心 2382次阅读 2022-12-29 10:22:16",
+        "url": "https://www.eduego.com/shiti/3243.html",
+        "resourceType": "paper"
+      },
+      {
+        "title": "2023年全国硕士研究生英语二真题答案及解析（完整版） 试题中心 3973次阅读 2022-12-26 15:19:03",
+        "url": "https://www.eduego.com/shiti/3227.html",
+        "resourceType": "paper"
+      },
+      {
+        "title": "2023年全国硕士研究生英语一真题答案及解析（三） 试题中心 1448次阅读 2022-12-26 15:13:44",
+        "url": "https://www.eduego.com/shiti/3226.html",
+        "resourceType": "paper"
+      },
+      {
+        "title": "2023年全国硕士研究生英语一真题答案及解析（二） 试题中心 1153次阅读 2022-12-26 15:06:13",
+        "url": "https://www.eduego.com/shiti/3225.html",
+        "resourceType": "paper"
+      },
+      {
+        "title": "2023年全国硕士研究生英语一真题答案及解析（一） 试题中心 1662次阅读 2022-12-26 14:54:17",
+        "url": "https://www.eduego.com/shiti/3224.html",
+        "resourceType": "paper"
+      },
+      {
+        "title": "2022年全国硕士研究生入学统一考试英语（一）真题及答案解析（完整版） 试题中心 2881次阅读 2022-01-11 18:17:04",
+        "url": "https://www.eduego.com/shiti/3161.html",
+        "resourceType": "paper"
+      },
+      {
+        "title": "2022年考研英语（二）真题原文及答案解析（完整版） 试题中心 3228次阅读 2022-01-11 18:07:45",
+        "url": "https://www.eduego.com/shiti/3156.html",
+        "resourceType": "paper"
+      },
+      {
+        "title": "《隐私政策》",
+        "url": "https://www.eduego.com/statement.html",
+        "resourceType": "page"
+      }
+    ]
+  },
+  {
+    "id": "chinakaoyan-download",
+    "examTypes": [
+      "KAOYAN"
+    ],
+    "url": "https://download.chinakaoyan.com/list.html?act=search&keywords=%E8%80%83%E7%A0%94%E8%8B%B1%E8%AF%AD&page=1",
+    "fetchedAt": "2026-07-23T06:16:55.778Z",
+    "status": 200,
+    "links": [
+      {
+        "title": "考研网",
+        "url": "http://www.chinakaoyan.com/",
+        "resourceType": "page"
+      },
+      {
+        "title": "考研信息",
+        "url": "http://www.chinakaoyan.com/info/",
+        "resourceType": "page"
+      },
+      {
+        "title": "招生院校",
+        "url": "http://www.chinakaoyan.com/graduate/",
+        "resourceType": "page"
+      },
+      {
+        "title": "研招信息",
+        "url": "http://www.chinakaoyan.com/admissions/",
+        "resourceType": "page"
+      },
+      {
+        "title": "考研报名",
+        "url": "http://www.chinakaoyan.com/baoming/",
+        "resourceType": "page"
+      },
+      {
+        "title": "考研成绩查询",
+        "url": "http://www.chinakaoyan.com/chengji/",
+        "resourceType": "page"
+      },
+      {
+        "title": "考研国家线",
+        "url": "http://www.chinakaoyan.com/guojiaxian/",
+        "resourceType": "page"
+      },
+      {
+        "title": "考研调剂",
+        "url": "http://www.chinakaoyan.com/tiaoji/",
+        "resourceType": "page"
+      },
+      {
+        "title": "网络课堂",
+        "url": "http://www.chinakaoyan.com/xindongfang/",
+        "resourceType": "page"
+      },
+      {
+        "title": "考研资料",
+        "url": "http://www.chinakaoyan.com/note/",
+        "resourceType": "page"
+      },
+      {
+        "title": "高级搜索",
+        "url": "https://download.chinakaoyan.com/list-search.html",
+        "resourceType": "page"
+      },
+      {
+        "title": "热门标签",
+        "url": "https://download.chinakaoyan.com/list-label.html",
+        "resourceType": "page"
+      },
+      {
+        "title": "省份",
+        "url": "https://download.chinakaoyan.com/list-province.html",
+        "resourceType": "page"
+      },
+      {
+        "title": "北京",
+        "url": "https://download.chinakaoyan.com/list-province-157.html",
+        "resourceType": "page"
+      },
+      {
+        "title": "浙江",
+        "url": "https://download.chinakaoyan.com/list-province-2176.html",
+        "resourceType": "page"
+      },
+      {
+        "title": "福建",
+        "url": "https://download.chinakaoyan.com/list-province-166.html",
+        "resourceType": "page"
+      },
+      {
+        "title": "甘肃",
+        "url": "https://download.chinakaoyan.com/list-province-234.html",
+        "resourceType": "page"
+      },
+      {
+        "title": "广东",
+        "url": "https://download.chinakaoyan.com/list-province-316.html",
+        "resourceType": "page"
+      },
+      {
+        "title": "广西",
+        "url": "https://download.chinakaoyan.com/list-province-414.html",
+        "resourceType": "page"
+      },
+      {
+        "title": "贵州",
+        "url": "https://download.chinakaoyan.com/list-province-502.html",
+        "resourceType": "page"
+      },
+      {
+        "title": "海南",
+        "url": "https://download.chinakaoyan.com/list-province-583.html",
+        "resourceType": "page"
+      },
+      {
+        "title": "河北",
+        "url": "https://download.chinakaoyan.com/list-province-603.html",
+        "resourceType": "page"
+      },
+      {
+        "title": "河南",
+        "url": "https://download.chinakaoyan.com/list-province-748.html",
+        "resourceType": "page"
+      },
+      {
+        "title": "科目",
+        "url": "https://download.chinakaoyan.com/list-subject.html",
+        "resourceType": "page"
+      },
+      {
+        "title": "考研政治",
+        "url": "https://download.chinakaoyan.com/list-subject-1.html",
+        "resourceType": "page"
+      },
+      {
+        "title": "考研英语",
+        "url": "https://download.chinakaoyan.com/list-subject-2.html",
+        "resourceType": "page"
+      },
+      {
+        "title": "考研数学",
+        "url": "https://download.chinakaoyan.com/list-subject-3.html",
+        "resourceType": "page"
+      },
+      {
+        "title": "教育学",
+        "url": "https://download.chinakaoyan.com/list-subject-4.html",
+        "resourceType": "page"
+      },
+      {
+        "title": "心理学",
+        "url": "https://download.chinakaoyan.com/list-subject-5.html",
+        "resourceType": "page"
+      },
+      {
+        "title": "历史学",
+        "url": "https://download.chinakaoyan.com/list-subject-6.html",
+        "resourceType": "page"
+      },
+      {
+        "title": "计算机",
+        "url": "https://download.chinakaoyan.com/list-subject-7.html",
+        "resourceType": "page"
+      },
+      {
+        "title": "高校",
+        "url": "https://download.chinakaoyan.com/list-school.html",
+        "resourceType": "page"
+      },
+      {
+        "title": "复旦大学",
+        "url": "https://download.chinakaoyan.com/list-school-2.html",
+        "resourceType": "page"
+      },
+      {
+        "title": "同济大学",
+        "url": "https://download.chinakaoyan.com/list-school-3.html",
+        "resourceType": "page"
+      },
+      {
+        "title": "上海交通大学",
+        "url": "https://download.chinakaoyan.com/list-school-4.html",
+        "resourceType": "page"
+      },
+      {
+        "title": "北京理工大学",
+        "url": "https://download.chinakaoyan.com/list-school-88.html",
+        "resourceType": "page"
+      },
+      {
+        "title": "北京大学",
+        "url": "https://download.chinakaoyan.com/list-school-82.html",
+        "resourceType": "page"
+      },
+      {
+        "title": "最新",
+        "url": "https://download.chinakaoyan.com/list-class-1.html",
+        "resourceType": "page"
+      },
+      {
+        "title": "考研真题",
+        "url": "https://download.chinakaoyan.com/list-class-2.html",
+        "resourceType": "paper"
+      },
+      {
+        "title": "考研大纲",
+        "url": "https://download.chinakaoyan.com/list-class-3.html",
+        "resourceType": "page"
+      },
+      {
+        "title": "笔记资料",
+        "url": "https://download.chinakaoyan.com/list-class-4.html",
+        "resourceType": "page"
+      },
+      {
+        "title": "综合指导",
+        "url": "https://download.chinakaoyan.com/list-class-5.html",
+        "resourceType": "page"
+      },
+      {
+        "title": "考研网",
+        "url": "http://www.chinakaoyan.com/",
+        "resourceType": "page"
+      },
+      {
+        "title": "下载中心",
+        "url": "http://download.chinakaoyan.com/",
+        "resourceType": "page"
+      },
+      {
+        "title": "站内检索",
+        "url": "https://download.chinakaoyan.com/list-search.html",
+        "resourceType": "page"
+      },
+      {
+        "title": "2024考研英语二真题及答案",
+        "url": "https://download.chinakaoyan.com/list-show-218517.html",
+        "resourceType": "paper"
+      },
+      {
+        "title": "[下载]",
+        "url": "https://download.chinakaoyan.com/list-show-218517.html",
+        "resourceType": "page"
+      },
+      {
+        "title": "2024考研英语一真题及答案",
+        "url": "https://download.chinakaoyan.com/list-show-218515.html",
+        "resourceType": "paper"
+      },
+      {
+        "title": "[下载]",
+        "url": "https://download.chinakaoyan.com/list-show-218515.html",
+        "resourceType": "page"
+      },
+      {
+        "title": "2023考研英语二真题及答案",
+        "url": "https://download.chinakaoyan.com/list-show-218513.html",
+        "resourceType": "paper"
+      },
+      {
+        "title": "[下载]",
+        "url": "https://download.chinakaoyan.com/list-show-218513.html",
+        "resourceType": "page"
+      },
+      {
+        "title": "2023考研英语一真题解析",
+        "url": "https://download.chinakaoyan.com/list-show-218511.html",
+        "resourceType": "paper"
+      },
+      {
+        "title": "[下载]",
+        "url": "https://download.chinakaoyan.com/list-show-218511.html",
+        "resourceType": "page"
+      },
+      {
+        "title": "2023考研英语一真题",
+        "url": "https://download.chinakaoyan.com/list-show-218509.html",
+        "resourceType": "paper"
+      },
+      {
+        "title": "[下载]",
+        "url": "https://download.chinakaoyan.com/list-show-218509.html",
+        "resourceType": "page"
+      },
+      {
+        "title": "2022考研英语二真题及答案",
+        "url": "https://download.chinakaoyan.com/list-show-210791.html",
+        "resourceType": "paper"
+      },
+      {
+        "title": "[下载]",
+        "url": "https://download.chinakaoyan.com/list-show-210791.html",
+        "resourceType": "page"
+      },
+      {
+        "title": "2022考研英语一真题及答案",
+        "url": "https://download.chinakaoyan.com/list-show-210789.html",
+        "resourceType": "paper"
+      },
+      {
+        "title": "[下载]",
+        "url": "https://download.chinakaoyan.com/list-show-210789.html",
+        "resourceType": "page"
+      },
+      {
+        "title": "2021考研英语（二）真题原文及答案解析（完整版）",
+        "url": "https://download.chinakaoyan.com/list-show-210767.html",
+        "resourceType": "paper"
+      },
+      {
+        "title": "[下载]",
+        "url": "https://download.chinakaoyan.com/list-show-210767.html",
+        "resourceType": "page"
+      },
+      {
+        "title": "2021考研英语（一）真题及答案解析",
+        "url": "https://download.chinakaoyan.com/list-show-210765.html",
+        "resourceType": "paper"
+      },
+      {
+        "title": "[下载]",
+        "url": "https://download.chinakaoyan.com/list-show-210765.html",
+        "resourceType": "page"
+      },
+      {
+        "title": "2020年考研英语一真题及答案",
+        "url": "https://download.chinakaoyan.com/list-show-210739.html",
+        "resourceType": "paper"
+      },
+      {
+        "title": "[下载]",
+        "url": "https://download.chinakaoyan.com/list-show-210739.html",
+        "resourceType": "page"
+      },
+      {
+        "title": "2016年考研英语二真题及答案",
+        "url": "https://download.chinakaoyan.com/list-show-107885.html",
+        "resourceType": "paper"
+      },
+      {
+        "title": "[下载]",
+        "url": "https://download.chinakaoyan.com/list-show-107885.html",
+        "resourceType": "page"
+      },
+      {
+        "title": "2018年考研英语二真题及答案",
+        "url": "https://download.chinakaoyan.com/list-show-107883.html",
+        "resourceType": "paper"
+      },
+      {
+        "title": "[下载]",
+        "url": "https://download.chinakaoyan.com/list-show-107883.html",
+        "resourceType": "page"
+      },
+      {
+        "title": "2019年考研英语二真题及答案解析",
+        "url": "https://download.chinakaoyan.com/list-show-107867.html",
+        "resourceType": "paper"
+      },
+      {
+        "title": "[下载]",
+        "url": "https://download.chinakaoyan.com/list-show-107867.html",
+        "resourceType": "page"
+      },
+      {
+        "title": "2019年考研英语一真题及答案解析",
+        "url": "https://download.chinakaoyan.com/list-show-107865.html",
+        "resourceType": "paper"
+      },
+      {
+        "title": "[下载]",
+        "url": "https://download.chinakaoyan.com/list-show-107865.html",
+        "resourceType": "page"
+      },
+      {
+        "title": "考研英语：比较结构的四类翻译方法",
+        "url": "https://download.chinakaoyan.com/list-show-77263.html",
+        "resourceType": "page"
+      },
+      {
+        "title": "[下载]",
+        "url": "https://download.chinakaoyan.com/list-show-77263.html",
+        "resourceType": "page"
+      },
+      {
+        "title": "考研英语：被动语态常用的几种翻译技巧",
+        "url": "https://download.chinakaoyan.com/list-show-77261.html",
+        "resourceType": "page"
+      },
+      {
+        "title": "[下载]",
+        "url": "https://download.chinakaoyan.com/list-show-77261.html",
+        "resourceType": "page"
+      },
+      {
+        "title": "考研英语：50个英语作文加分短句",
+        "url": "https://download.chinakaoyan.com/list-show-77259.html",
+        "resourceType": "page"
+      },
+      {
+        "title": "[下载]",
+        "url": "https://download.chinakaoyan.com/list-show-77259.html",
+        "resourceType": "page"
+      },
+      {
+        "title": "2016年考研英语一真题及答案解析",
+        "url": "https://download.chinakaoyan.com/list-show-77159.html",
+        "resourceType": "paper"
+      },
+      {
+        "title": "[下载]",
+        "url": "https://download.chinakaoyan.com/list-show-77159.html",
+        "resourceType": "page"
+      },
+      {
+        "title": "2015年考研英语二真题及答案解析",
+        "url": "https://download.chinakaoyan.com/list-show-77157.html",
+        "resourceType": "paper"
+      },
+      {
+        "title": "[下载]",
+        "url": "https://download.chinakaoyan.com/list-show-77157.html",
+        "resourceType": "page"
+      },
+      {
+        "title": "2017年考研英语二真题及答案解析",
+        "url": "https://download.chinakaoyan.com/list-show-77155.html",
+        "resourceType": "paper"
+      },
+      {
+        "title": "[下载]",
+        "url": "https://download.chinakaoyan.com/list-show-77155.html",
+        "resourceType": "page"
+      },
+      {
+        "title": "2018年考研英语一真题答案解析下载",
+        "url": "https://download.chinakaoyan.com/list-show-77139.html",
+        "resourceType": "paper"
+      },
+      {
+        "title": "[下载]",
+        "url": "https://download.chinakaoyan.com/list-show-77139.html",
+        "resourceType": "page"
+      },
+      {
+        "title": "2018年考研英语二真题答案解析下载",
+        "url": "https://download.chinakaoyan.com/list-show-77137.html",
+        "resourceType": "paper"
+      },
+      {
+        "title": "[下载]",
+        "url": "https://download.chinakaoyan.com/list-show-77137.html",
+        "resourceType": "page"
+      },
+      {
+        "title": "下一页",
+        "url": "http://download.chinakaoyan.com/list.html?act=search&keywords=%E8%80%83%E7%A0%94%E8%8B%B1%E8%AF%AD&page=2",
+        "resourceType": "page"
+      },
+      {
+        "title": "尾页",
+        "url": "http://download.chinakaoyan.com/list.html?act=search&keywords=%E8%80%83%E7%A0%94%E8%8B%B1%E8%AF%AD&page=3",
+        "resourceType": "page"
+      },
+      {
+        "title": "北京外国语大学",
+        "url": "https://download.chinakaoyan.com/list.html?act=search&keywords=%E5%8C%97%E4%BA%AC%E5%A4%96%E5%9B%BD%E8%AF%AD%E5%A4%A7%E5%AD%A6",
+        "resourceType": "page"
+      },
+      {
+        "title": "电子科技大学",
+        "url": "https://download.chinakaoyan.com/list.html?act=search&keywords=%E7%94%B5%E5%AD%90%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6",
+        "resourceType": "page"
+      },
+      {
+        "title": "北京航空航天大学",
+        "url": "https://download.chinakaoyan.com/list.html?act=search&keywords=%E5%8C%97%E4%BA%AC%E8%88%AA%E7%A9%BA%E8%88%AA%E5%A4%A9%E5%A4%A7%E5%AD%A6",
+        "resourceType": "page"
+      },
+      {
+        "title": "北京邮电大学",
+        "url": "https://download.chinakaoyan.com/list.html?act=search&keywords=%E5%8C%97%E4%BA%AC%E9%82%AE%E7%94%B5%E5%A4%A7%E5%AD%A6",
+        "resourceType": "page"
+      },
+      {
+        "title": "2019年考研",
+        "url": "https://download.chinakaoyan.com/list.html?act=search&keywords=2019%E5%B9%B4%E8%80%83%E7%A0%94",
+        "resourceType": "page"
+      },
+      {
+        "title": "2020年考研",
+        "url": "https://download.chinakaoyan.com/list.html?act=search&keywords=2020%E5%B9%B4%E8%80%83%E7%A0%94",
+        "resourceType": "page"
+      },
+      {
+        "title": "南开大学",
+        "url": "https://download.chinakaoyan.com/list.html?act=search&keywords=%E5%8D%97%E5%BC%80%E5%A4%A7%E5%AD%A6",
+        "resourceType": "page"
+      },
+      {
+        "title": "复旦大学",
+        "url": "https://download.chinakaoyan.com/list.html?act=search&keywords=%E5%A4%8D%E6%97%A6%E5%A4%A7%E5%AD%A6",
+        "resourceType": "page"
+      },
+      {
+        "title": "上海交通大学",
+        "url": "https://download.chinakaoyan.com/list.html?act=search&keywords=%E4%B8%8A%E6%B5%B7%E4%BA%A4%E9%80%9A%E5%A4%A7%E5%AD%A6",
+        "resourceType": "page"
+      },
+      {
+        "title": "南京大学",
+        "url": "https://download.chinakaoyan.com/list.html?act=search&keywords=%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6",
+        "resourceType": "page"
+      },
+      {
+        "title": "重庆大学",
+        "url": "https://download.chinakaoyan.com/list.html?act=search&keywords=%E9%87%8D%E5%BA%86%E5%A4%A7%E5%AD%A6",
+        "resourceType": "page"
+      },
+      {
+        "title": "四川大学",
+        "url": "https://download.chinakaoyan.com/list.html?act=search&keywords=%E5%9B%9B%E5%B7%9D%E5%A4%A7%E5%AD%A6",
+        "resourceType": "page"
+      },
+      {
+        "title": "湖南大学",
+        "url": "https://download.chinakaoyan.com/list.html?act=search&keywords=%E6%B9%96%E5%8D%97%E5%A4%A7%E5%AD%A6",
+        "resourceType": "page"
+      },
+      {
+        "title": "中山大学",
+        "url": "https://download.chinakaoyan.com/list.html?act=search&keywords=%E4%B8%AD%E5%B1%B1%E5%A4%A7%E5%AD%A6",
+        "resourceType": "page"
+      },
+      {
+        "title": "2027考研英语全程班 早鸟1班",
+        "url": "http://www.chinakaoyan.com/xindongfang/detail/3567.shtml",
+        "resourceType": "page"
+      },
+      {
+        "title": "2027考研政治全程班 早鸟1班",
+        "url": "http://www.chinakaoyan.com/xindongfang/detail/3565.shtml",
+        "resourceType": "page"
+      },
+      {
+        "title": "2027考研数学全程班 早鸟1班",
+        "url": "http://www.chinakaoyan.com/xindongfang/detail/3563.shtml",
+        "resourceType": "page"
+      },
+      {
+        "title": "2027考研英语直通车",
+        "url": "http://www.chinakaoyan.com/xindongfang/detail/3551.shtml",
+        "resourceType": "page"
+      },
+      {
+        "title": "2027考研政治直通车",
+        "url": "http://www.chinakaoyan.com/xindongfang/detail/3547.shtml",
+        "resourceType": "page"
+      },
+      {
+        "title": "2027考研数学直通车",
+        "url": "http://www.chinakaoyan.com/xindongfang/detail/3543.shtml",
+        "resourceType": "page"
+      },
+      {
+        "title": "2027考研英语定制一对一21h版",
+        "url": "http://www.chinakaoyan.com/xindongfang/detail/3865.shtml",
+        "resourceType": "page"
+      },
+      {
+        "title": "2027考研政治定制一对一21h版",
+        "url": "http://www.chinakaoyan.com/xindongfang/detail/3863.shtml",
+        "resourceType": "page"
+      },
+      {
+        "title": "2027考研数学定制一对一21h版",
+        "url": "http://www.chinakaoyan.com/xindongfang/detail/3861.shtml",
+        "resourceType": "page"
+      },
+      {
+        "title": "更多课程> >",
+        "url": "http://www.chinakaoyan.com/xindongfang/",
+        "resourceType": "page"
+      },
+      {
+        "title": "2027考研计算机全程班",
+        "url": "http://www.chinakaoyan.com/xindongfang/detail/3459.shtml",
+        "resourceType": "page"
+      },
+      {
+        "title": "2027考研护理（护综308）全程班",
+        "url": "http://www.chinakaoyan.com/xindongfang/detail/3495.shtml",
+        "resourceType": "page"
+      },
+      {
+        "title": "2027考研西医学硕全程班",
+        "url": "http://www.chinakaoyan.com/xindongfang/detail/3505.shtml",
+        "resourceType": "page"
+      },
+      {
+        "title": "2027考研数字经济（西经）全程班",
+        "url": "http://www.chinakaoyan.com/xindongfang/detail/3853.shtml",
+        "resourceType": "page"
+      },
+      {
+        "title": "2027考研数字经济（数经）全程班",
+        "url": "http://www.chinakaoyan.com/xindongfang/detail/3851.shtml",
+        "resourceType": "page"
+      },
+      {
+        "title": "2027考研法律硕士（非法学）全程班",
+        "url": "http://www.chinakaoyan.com/xindongfang/detail/3491.shtml",
+        "resourceType": "page"
+      },
+      {
+        "title": "2027考研法律硕士（法学）全程班",
+        "url": "http://www.chinakaoyan.com/xindongfang/detail/3485.shtml",
+        "resourceType": "page"
+      },
+      {
+        "title": "2027考研教育硕士（333）全程班",
+        "url": "http://www.chinakaoyan.com/xindongfang/detail/3477.shtml",
+        "resourceType": "page"
+      },
+      {
+        "title": "更多课程> >",
+        "url": "http://www.chinakaoyan.com/xindongfang/",
+        "resourceType": "page"
+      },
+      {
+        "title": "网站介绍",
+        "url": "http://www.chinakaoyan.com/about/main/id/3.shtml",
+        "resourceType": "page"
+      },
+      {
+        "title": "关于我们",
+        "url": "http://www.chinakaoyan.com/about/main/id/5.shtml",
+        "resourceType": "page"
+      },
+      {
+        "title": "联系方式",
+        "url": "http://www.chinakaoyan.com/about/main/id/6.shtml",
+        "resourceType": "page"
+      },
+      {
+        "title": "广告业务",
+        "url": "http://www.chinakaoyan.com/about/main/id/10.shtml",
+        "resourceType": "page"
+      },
+      {
+        "title": "帮助信息",
+        "url": "http://www.chinakaoyan.com/about/main/id/7.shtml",
+        "resourceType": "page"
+      }
+    ]
+  }
+]

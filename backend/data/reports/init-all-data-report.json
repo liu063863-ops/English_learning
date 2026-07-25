@@ -1,0 +1,72 @@
+{
+  "generatedAt": "2026-07-24T13:54:29.852Z",
+  "database": "C:\\Users\\liujinhao\\Documents\\New project\\kaoyan-english-lab\\backend\\data\\english_exam.db",
+  "python": "C:/Users/liujinhao/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/python.exe",
+  "steps": [
+    {
+      "name": "检查运行环境",
+      "ok": true,
+      "ms": 2
+    },
+    {
+      "name": "初始化词库表和默认词库",
+      "ok": true,
+      "ms": 74
+    },
+    {
+      "name": "检查考试核心结构",
+      "ok": true,
+      "ms": 61
+    },
+    {
+      "name": "检查占位符残留",
+      "ok": true,
+      "ms": 81
+    },
+    {
+      "name": "检查阅读练习数据源",
+      "ok": true,
+      "ms": 127
+    }
+  ],
+  "checks": {
+    "vocabulary": {
+      "byCategory": [
+        {
+          "category": "CET4",
+          "count": 10
+        },
+        {
+          "category": "CET6",
+          "count": 10
+        },
+        {
+          "category": "考研",
+          "count": 10
+        }
+      ],
+      "reviewed": 6,
+      "total": 30
+    },
+    "examStructure": {
+      "exams": 67,
+      "listening_sections": 67,
+      "reading_sections": 67,
+      "translation_sections": 67,
+      "writing_sections": 67,
+      "reading_questions": 2010,
+      "reading_passages": 201,
+      "audio_files": 67,
+      "words_table_exists": 1
+    },
+    "placeholders": {
+      "question_placeholder_hits": 0,
+      "passage_placeholder_hits": 0
+    },
+    "readingPractice": {
+      "available": 1,
+      "total": 201
+    }
+  },
+  "verdict": "pass"
+}

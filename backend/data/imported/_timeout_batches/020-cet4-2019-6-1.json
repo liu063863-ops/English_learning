@@ -1,0 +1,122 @@
+[
+  {
+    "paperId": "cet4-2019-6-1",
+    "examType": "CET4",
+    "level": "CET4",
+    "year": 2019,
+    "month": 6,
+    "paperNo": 1,
+    "set_num": 1,
+    "sourceFolders": [
+      "四六级历年真题汇总/2019年6月英语四六级/2019年6月英语四级真题及答案"
+    ],
+    "paperAssets": {
+      "questionPdf": {
+        "path": "四六级历年真题汇总/2019年6月英语四六级/2019年6月英语四级真题及答案/2019年6月份四级（第一套）答案解析.pdf",
+        "fileName": "2019年6月份四级（第一套）答案解析.pdf",
+        "ext": "pdf",
+        "size": 9753720,
+        "year": 2019,
+        "month": 6,
+        "examType": "CET4",
+        "paperNo": 1,
+        "yearMonthText": "2019年6月英语四六级",
+        "assetType": "questionPdf",
+        "rawUrl": "https://raw.githubusercontent.com/DieDiDi/CET4-6-past-exam-paper/main/%E5%9B%9B%E5%85%AD%E7%BA%A7%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%98%E6%B1%87%E6%80%BB/2019%E5%B9%B46%E6%9C%88%E8%8B%B1%E8%AF%AD%E5%9B%9B%E5%85%AD%E7%BA%A7/2019%E5%B9%B46%E6%9C%88%E8%8B%B1%E8%AF%AD%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%E5%8F%8A%E7%AD%94%E6%A1%88/2019%E5%B9%B46%E6%9C%88%E4%BB%BD%E5%9B%9B%E7%BA%A7%EF%BC%88%E7%AC%AC%E4%B8%80%E5%A5%97%EF%BC%89%E7%AD%94%E6%A1%88%E8%A7%A3%E6%9E%90.pdf",
+        "githubUrl": "https://github.com/DieDiDi/CET4-6-past-exam-paper/blob/main/%E5%9B%9B%E5%85%AD%E7%BA%A7%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%98%E6%B1%87%E6%80%BB/2019%E5%B9%B46%E6%9C%88%E8%8B%B1%E8%AF%AD%E5%9B%9B%E5%85%AD%E7%BA%A7/2019%E5%B9%B46%E6%9C%88%E8%8B%B1%E8%AF%AD%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%E5%8F%8A%E7%AD%94%E6%A1%88/2019%E5%B9%B46%E6%9C%88%E4%BB%BD%E5%9B%9B%E7%BA%A7%EF%BC%88%E7%AC%AC%E4%B8%80%E5%A5%97%EF%BC%89%E7%AD%94%E6%A1%88%E8%A7%A3%E6%9E%90.pdf",
+        "level": "CET4",
+        "set_num": 1,
+        "confidence": 0.96,
+        "normalizedText": "四六级历年真题汇总/2019年6月英语四六级/2019年6月英语四级真题及答案/2019年6月份四级 第一套 答案解析.pdf 2019年6月份四级 第一套 答案解析.pdf https://github.com/DieDiDi/CET4-6-past-exam-paper/blob/main/%E5%9B%9B%E5%85%AD%E7%BA%A7%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%98%E6%B1%87%E6%80%BB/2019%E5%B9%B46%E6%9C%88%E8%8B%B1%E8%AF%AD%E5%9B%9B%E5%85%AD%E7%BA%A7/2019%E5%B9%B46%E6%9C%88%E8%8B%B1%E8%AF%AD%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%E5%8F%8A%E7%AD%94%E6%A1%88/2019%E5%B9%B46%E6%9C%88%E4%BB%BD%E5%9B%9B%E7%BA%A7%EF%BC%88%E7%AC%AC%E4%B8%80%E5%A5%97%EF%BC%89%",
+        "sharedRole": "question_and_answer"
+      },
+      "questionDoc": null,
+      "answerAnalysisPdf": {
+        "path": "四六级历年真题汇总/2019年6月英语四六级/2019年6月英语四级真题及答案/2019年6月份四级（第一套）答案解析.pdf",
+        "fileName": "2019年6月份四级（第一套）答案解析.pdf",
+        "ext": "pdf",
+        "size": 9753720,
+        "year": 2019,
+        "month": 6,
+        "examType": "CET4",
+        "paperNo": 1,
+        "yearMonthText": "2019年6月英语四六级",
+        "assetType": "answerAnalysisPdf",
+        "rawUrl": "https://raw.githubusercontent.com/DieDiDi/CET4-6-past-exam-paper/main/%E5%9B%9B%E5%85%AD%E7%BA%A7%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%98%E6%B1%87%E6%80%BB/2019%E5%B9%B46%E6%9C%88%E8%8B%B1%E8%AF%AD%E5%9B%9B%E5%85%AD%E7%BA%A7/2019%E5%B9%B46%E6%9C%88%E8%8B%B1%E8%AF%AD%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%E5%8F%8A%E7%AD%94%E6%A1%88/2019%E5%B9%B46%E6%9C%88%E4%BB%BD%E5%9B%9B%E7%BA%A7%EF%BC%88%E7%AC%AC%E4%B8%80%E5%A5%97%EF%BC%89%E7%AD%94%E6%A1%88%E8%A7%A3%E6%9E%90.pdf",
+        "githubUrl": "https://github.com/DieDiDi/CET4-6-past-exam-paper/blob/main/%E5%9B%9B%E5%85%AD%E7%BA%A7%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%98%E6%B1%87%E6%80%BB/2019%E5%B9%B46%E6%9C%88%E8%8B%B1%E8%AF%AD%E5%9B%9B%E5%85%AD%E7%BA%A7/2019%E5%B9%B46%E6%9C%88%E8%8B%B1%E8%AF%AD%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%E5%8F%8A%E7%AD%94%E6%A1%88/2019%E5%B9%B46%E6%9C%88%E4%BB%BD%E5%9B%9B%E7%BA%A7%EF%BC%88%E7%AC%AC%E4%B8%80%E5%A5%97%EF%BC%89%E7%AD%94%E6%A1%88%E8%A7%A3%E6%9E%90.pdf",
+        "level": "CET4",
+        "set_num": 1,
+        "confidence": 0.96,
+        "normalizedText": "四六级历年真题汇总/2019年6月英语四六级/2019年6月英语四级真题及答案/2019年6月份四级 第一套 答案解析.pdf 2019年6月份四级 第一套 答案解析.pdf https://github.com/DieDiDi/CET4-6-past-exam-paper/blob/main/%E5%9B%9B%E5%85%AD%E7%BA%A7%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%98%E6%B1%87%E6%80%BB/2019%E5%B9%B46%E6%9C%88%E8%8B%B1%E8%AF%AD%E5%9B%9B%E5%85%AD%E7%BA%A7/2019%E5%B9%B46%E6%9C%88%E8%8B%B1%E8%AF%AD%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%E5%8F%8A%E7%AD%94%E6%A1%88/2019%E5%B9%B46%E6%9C%88%E4%BB%BD%E5%9B%9B%E7%BA%A7%EF%BC%88%E7%AC%AC%E4%B8%80%E5%A5%97%EF%BC%89%"
+      },
+      "audioMp3": {
+        "path": "四六级历年真题汇总/2019年12月英语四六级/2019年12月英语四级真题及答案/2019年12月四级第一套.mp3",
+        "fileName": "2019年12月四级第一套.mp3",
+        "ext": "mp3",
+        "size": 17662481,
+        "year": 2019,
+        "month": 12,
+        "examType": "CET4",
+        "paperNo": 1,
+        "yearMonthText": "2019年12月英语四六级",
+        "assetType": "audioMp3",
+        "rawUrl": "https://raw.githubusercontent.com/DieDiDi/CET4-6-past-exam-paper/main/%E5%9B%9B%E5%85%AD%E7%BA%A7%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%98%E6%B1%87%E6%80%BB/2019%E5%B9%B412%E6%9C%88%E8%8B%B1%E8%AF%AD%E5%9B%9B%E5%85%AD%E7%BA%A7/2019%E5%B9%B412%E6%9C%88%E8%8B%B1%E8%AF%AD%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%E5%8F%8A%E7%AD%94%E6%A1%88/2019%E5%B9%B412%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%AC%AC%E4%B8%80%E5%A5%97.mp3",
+        "githubUrl": "https://github.com/DieDiDi/CET4-6-past-exam-paper/blob/main/%E5%9B%9B%E5%85%AD%E7%BA%A7%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%98%E6%B1%87%E6%80%BB/2019%E5%B9%B412%E6%9C%88%E8%8B%B1%E8%AF%AD%E5%9B%9B%E5%85%AD%E7%BA%A7/2019%E5%B9%B412%E6%9C%88%E8%8B%B1%E8%AF%AD%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%E5%8F%8A%E7%AD%94%E6%A1%88/2019%E5%B9%B412%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%AC%AC%E4%B8%80%E5%A5%97.mp3",
+        "level": "CET4",
+        "set_num": 1,
+        "confidence": 0.96,
+        "normalizedText": "四六级历年真题汇总/2019年12月英语四六级/2019年12月英语四级真题及答案/2019年12月四级第一套.mp3 2019年12月四级第一套.mp3 https://github.com/DieDiDi/CET4-6-past-exam-paper/blob/main/%E5%9B%9B%E5%85%AD%E7%BA%A7%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%98%E6%B1%87%E6%80%BB/2019%E5%B9%B412%E6%9C%88%E8%8B%B1%E8%AF%AD%E5%9B%9B%E5%85%AD%E7%BA%A7/2019%E5%B9%B412%E6%9C%88%E8%8B%B1%E8%AF%AD%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%E5%8F%8A%E7%AD%94%E6%A1%88/2019%E5%B9%B412%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%AC%AC%E4%B8%80%E5%A5%97.mp3 https://raw.githubusercontent.",
+        "fallbackAudio": true,
+        "fallbackReason": "nearest_audio_same_level_year:cet4-2019-12-1"
+      },
+      "notes": []
+    },
+    "rawAssets": [
+      {
+        "path": "四六级历年真题汇总/2019年6月英语四六级/2019年6月英语四级真题及答案/2019年6月份四级（第一套）答案解析.pdf",
+        "fileName": "2019年6月份四级（第一套）答案解析.pdf",
+        "ext": "pdf",
+        "size": 9753720,
+        "year": 2019,
+        "month": 6,
+        "examType": "CET4",
+        "paperNo": 1,
+        "yearMonthText": "2019年6月英语四六级",
+        "assetType": "answerAnalysisPdf",
+        "rawUrl": "https://raw.githubusercontent.com/DieDiDi/CET4-6-past-exam-paper/main/%E5%9B%9B%E5%85%AD%E7%BA%A7%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%98%E6%B1%87%E6%80%BB/2019%E5%B9%B46%E6%9C%88%E8%8B%B1%E8%AF%AD%E5%9B%9B%E5%85%AD%E7%BA%A7/2019%E5%B9%B46%E6%9C%88%E8%8B%B1%E8%AF%AD%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%E5%8F%8A%E7%AD%94%E6%A1%88/2019%E5%B9%B46%E6%9C%88%E4%BB%BD%E5%9B%9B%E7%BA%A7%EF%BC%88%E7%AC%AC%E4%B8%80%E5%A5%97%EF%BC%89%E7%AD%94%E6%A1%88%E8%A7%A3%E6%9E%90.pdf",
+        "githubUrl": "https://github.com/DieDiDi/CET4-6-past-exam-paper/blob/main/%E5%9B%9B%E5%85%AD%E7%BA%A7%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%98%E6%B1%87%E6%80%BB/2019%E5%B9%B46%E6%9C%88%E8%8B%B1%E8%AF%AD%E5%9B%9B%E5%85%AD%E7%BA%A7/2019%E5%B9%B46%E6%9C%88%E8%8B%B1%E8%AF%AD%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%E5%8F%8A%E7%AD%94%E6%A1%88/2019%E5%B9%B46%E6%9C%88%E4%BB%BD%E5%9B%9B%E7%BA%A7%EF%BC%88%E7%AC%AC%E4%B8%80%E5%A5%97%EF%BC%89%E7%AD%94%E6%A1%88%E8%A7%A3%E6%9E%90.pdf",
+        "level": "CET4",
+        "set_num": 1,
+        "confidence": 0.96,
+        "normalizedText": "四六级历年真题汇总/2019年6月英语四六级/2019年6月英语四级真题及答案/2019年6月份四级 第一套 答案解析.pdf 2019年6月份四级 第一套 答案解析.pdf https://github.com/DieDiDi/CET4-6-past-exam-paper/blob/main/%E5%9B%9B%E5%85%AD%E7%BA%A7%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%98%E6%B1%87%E6%80%BB/2019%E5%B9%B46%E6%9C%88%E8%8B%B1%E8%AF%AD%E5%9B%9B%E5%85%AD%E7%BA%A7/2019%E5%B9%B46%E6%9C%88%E8%8B%B1%E8%AF%AD%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%E5%8F%8A%E7%AD%94%E6%A1%88/2019%E5%B9%B46%E6%9C%88%E4%BB%BD%E5%9B%9B%E7%BA%A7%EF%BC%88%E7%AC%AC%E4%B8%80%E5%A5%97%EF%BC%89%"
+      },
+      {
+        "path": "四六级历年真题汇总/2019年6月英语四六级/2019年6月英语四级真题及答案/2019年6月份四级（第一套）试题.pdf",
+        "fileName": "2019年6月份四级（第一套）试题.pdf",
+        "ext": "pdf",
+        "size": 451631,
+        "year": 2019,
+        "month": 6,
+        "examType": "CET4",
+        "paperNo": 1,
+        "yearMonthText": "2019年6月英语四六级",
+        "assetType": "answerAnalysisPdf",
+        "rawUrl": "https://raw.githubusercontent.com/DieDiDi/CET4-6-past-exam-paper/main/%E5%9B%9B%E5%85%AD%E7%BA%A7%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%98%E6%B1%87%E6%80%BB/2019%E5%B9%B46%E6%9C%88%E8%8B%B1%E8%AF%AD%E5%9B%9B%E5%85%AD%E7%BA%A7/2019%E5%B9%B46%E6%9C%88%E8%8B%B1%E8%AF%AD%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%E5%8F%8A%E7%AD%94%E6%A1%88/2019%E5%B9%B46%E6%9C%88%E4%BB%BD%E5%9B%9B%E7%BA%A7%EF%BC%88%E7%AC%AC%E4%B8%80%E5%A5%97%EF%BC%89%E8%AF%95%E9%A2%98.pdf",
+        "githubUrl": "https://github.com/DieDiDi/CET4-6-past-exam-paper/blob/main/%E5%9B%9B%E5%85%AD%E7%BA%A7%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%98%E6%B1%87%E6%80%BB/2019%E5%B9%B46%E6%9C%88%E8%8B%B1%E8%AF%AD%E5%9B%9B%E5%85%AD%E7%BA%A7/2019%E5%B9%B46%E6%9C%88%E8%8B%B1%E8%AF%AD%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%E5%8F%8A%E7%AD%94%E6%A1%88/2019%E5%B9%B46%E6%9C%88%E4%BB%BD%E5%9B%9B%E7%BA%A7%EF%BC%88%E7%AC%AC%E4%B8%80%E5%A5%97%EF%BC%89%E8%AF%95%E9%A2%98.pdf",
+        "level": "CET4",
+        "set_num": 1,
+        "confidence": 0.96,
+        "normalizedText": "四六级历年真题汇总/2019年6月英语四六级/2019年6月英语四级真题及答案/2019年6月份四级 第一套 试题.pdf 2019年6月份四级 第一套 试题.pdf https://github.com/DieDiDi/CET4-6-past-exam-paper/blob/main/%E5%9B%9B%E5%85%AD%E7%BA%A7%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%98%E6%B1%87%E6%80%BB/2019%E5%B9%B46%E6%9C%88%E8%8B%B1%E8%AF%AD%E5%9B%9B%E5%85%AD%E7%BA%A7/2019%E5%B9%B46%E6%9C%88%E8%8B%B1%E8%AF%AD%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%E5%8F%8A%E7%AD%94%E6%A1%88/2019%E5%B9%B46%E6%9C%88%E4%BB%BD%E5%9B%9B%E7%BA%A7%EF%BC%88%E7%AC%AC%E4%B8%80%E5%A5%97%EF%BC%89%E8%A"
+      }
+    ],
+    "warnings": [
+      "audio_fallback_needs_review"
+    ],
+    "completeness": {
+      "hasQuestion": true,
+      "hasAnswer": true,
+      "hasAudio": true,
+      "score": 100
+    }
+  }
+]

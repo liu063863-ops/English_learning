@@ -1,0 +1,2542 @@
+[
+  {
+    "id": "cet4-2025-06-set1",
+    "examType": "CET-4",
+    "year": 2025,
+    "month": 6,
+    "setNo": 1,
+    "title": "CET-4 2025年6月第1套真题资源候选",
+    "resourceKind": "paper-audio",
+    "source": "cettong-url-pattern",
+    "pageUrl": "https://www.cettong.cn/library/cet4/2025_06_1",
+    "expectedAssets": [
+      "paper pdf",
+      "answer pdf",
+      "listening mp3"
+    ],
+    "importStatus": "candidate-needs-verification",
+    "licenseStatus": "third-party-link; verify before importing files"
+  },
+  {
+    "id": "cet4-2025-06-set2",
+    "examType": "CET-4",
+    "year": 2025,
+    "month": 6,
+    "setNo": 2,
+    "title": "CET-4 2025年6月第2套真题资源候选",
+    "resourceKind": "paper-audio",
+    "source": "cettong-url-pattern",
+    "pageUrl": "https://www.cettong.cn/library/cet4/2025_06_2",
+    "expectedAssets": [
+      "paper pdf",
+      "answer pdf",
+      "listening mp3"
+    ],
+    "importStatus": "candidate-needs-verification",
+    "licenseStatus": "third-party-link; verify before importing files"
+  },
+  {
+    "id": "cet4-2025-06-set3",
+    "examType": "CET-4",
+    "year": 2025,
+    "month": 6,
+    "setNo": 3,
+    "title": "CET-4 2025年6月第3套真题资源候选",
+    "resourceKind": "paper-audio",
+    "source": "cettong-url-pattern",
+    "pageUrl": "https://www.cettong.cn/library/cet4/2025_06_3",
+    "expectedAssets": [
+      "paper pdf",
+      "answer pdf",
+      "listening mp3"
+    ],
+    "importStatus": "candidate-needs-verification",
+    "licenseStatus": "third-party-link; verify before importing files"
+  },
+  {
+    "id": "cet4-2025-12-set1",
+    "examType": "CET-4",
+    "year": 2025,
+    "month": 12,
+    "setNo": 1,
+    "title": "CET-4 2025年12月第1套真题资源候选",
+    "resourceKind": "paper-audio",
+    "source": "cettong-url-pattern",
+    "pageUrl": "https://www.cettong.cn/library/cet4/2025_12_1",
+    "expectedAssets": [
+      "paper pdf",
+      "answer pdf",
+      "listening mp3"
+    ],
+    "importStatus": "candidate-needs-verification",
+    "licenseStatus": "third-party-link; verify before importing files"
+  },
+  {
+    "id": "cet4-2025-12-set2",
+    "examType": "CET-4",
+    "year": 2025,
+    "month": 12,
+    "setNo": 2,
+    "title": "CET-4 2025年12月第2套真题资源候选",
+    "resourceKind": "paper-audio",
+    "source": "cettong-url-pattern",
+    "pageUrl": "https://www.cettong.cn/library/cet4/2025_12_2",
+    "expectedAssets": [
+      "paper pdf",
+      "answer pdf",
+      "listening mp3"
+    ],
+    "importStatus": "candidate-needs-verification",
+    "licenseStatus": "third-party-link; verify before importing files"
+  },
+  {
+    "id": "cet4-2025-12-set3",
+    "examType": "CET-4",
+    "year": 2025,
+    "month": 12,
+    "setNo": 3,
+    "title": "CET-4 2025年12月第3套真题资源候选",
+    "resourceKind": "paper-audio",
+    "source": "cettong-url-pattern",
+    "pageUrl": "https://www.cettong.cn/library/cet4/2025_12_3",
+    "expectedAssets": [
+      "paper pdf",
+      "answer pdf",
+      "listening mp3"
+    ],
+    "importStatus": "candidate-needs-verification",
+    "licenseStatus": "third-party-link; verify before importing files"
+  },
+  {
+    "id": "cet4-2024-06-set1",
+    "examType": "CET-4",
+    "year": 2024,
+    "month": 6,
+    "setNo": 1,
+    "title": "CET-4 2024年6月第1套真题资源候选",
+    "resourceKind": "paper-audio",
+    "source": "cettong-url-pattern",
+    "pageUrl": "https://www.cettong.cn/library/cet4/2024_06_1",
+    "expectedAssets": [
+      "paper pdf",
+      "answer pdf",
+      "listening mp3"
+    ],
+    "importStatus": "candidate-needs-verification",
+    "licenseStatus": "third-party-link; verify before importing files"
+  },
+  {
+    "id": "cet4-2024-06-set2",
+    "examType": "CET-4",
+    "year": 2024,
+    "month": 6,
+    "setNo": 2,
+    "title": "CET-4 2024年6月第2套真题资源候选",
+    "resourceKind": "paper-audio",
+    "source": "cettong-url-pattern",
+    "pageUrl": "https://www.cettong.cn/library/cet4/2024_06_2",
+    "expectedAssets": [
+      "paper pdf",
+      "answer pdf",
+      "listening mp3"
+    ],
+    "importStatus": "candidate-needs-verification",
+    "licenseStatus": "third-party-link; verify before importing files"
+  },
+  {
+    "id": "cet4-2024-06-set3",
+    "examType": "CET-4",
+    "year": 2024,
+    "month": 6,
+    "setNo": 3,
+    "title": "CET-4 2024年6月第3套真题资源候选",
+    "resourceKind": "paper-audio",
+    "source": "cettong-url-pattern",
+    "pageUrl": "https://www.cettong.cn/library/cet4/2024_06_3",
+    "expectedAssets": [
+      "paper pdf",
+      "answer pdf",
+      "listening mp3"
+    ],
+    "importStatus": "candidate-needs-verification",
+    "licenseStatus": "third-party-link; verify before importing files"
+  },
+  {
+    "id": "cet4-2024-12-set1",
+    "examType": "CET-4",
+    "year": 2024,
+    "month": 12,
+    "setNo": 1,
+    "title": "CET-4 2024年12月第1套真题资源候选",
+    "resourceKind": "paper-audio",
+    "source": "cettong-url-pattern",
+    "pageUrl": "https://www.cettong.cn/library/cet4/2024_12_1",
+    "expectedAssets": [
+      "paper pdf",
+      "answer pdf",
+      "listening mp3"
+    ],
+    "importStatus": "candidate-needs-verification",
+    "licenseStatus": "third-party-link; verify before importing files"
+  },
+  {
+    "id": "cet4-2024-12-set2",
+    "examType": "CET-4",
+    "year": 2024,
+    "month": 12,
+    "setNo": 2,
+    "title": "CET-4 2024年12月第2套真题资源候选",
+    "resourceKind": "paper-audio",
+    "source": "cettong-url-pattern",
+    "pageUrl": "https://www.cettong.cn/library/cet4/2024_12_2",
+    "expectedAssets": [
+      "paper pdf",
+      "answer pdf",
+      "listening mp3"
+    ],
+    "importStatus": "candidate-needs-verification",
+    "licenseStatus": "third-party-link; verify before importing files"
+  },
+  {
+    "id": "cet4-2024-12-set3",
+    "examType": "CET-4",
+    "year": 2024,
+    "month": 12,
+    "setNo": 3,
+    "title": "CET-4 2024年12月第3套真题资源候选",
+    "resourceKind": "paper-audio",
+    "source": "cettong-url-pattern",
+    "pageUrl": "https://www.cettong.cn/library/cet4/2024_12_3",
+    "expectedAssets": [
+      "paper pdf",
+      "answer pdf",
+      "listening mp3"
+    ],
+    "importStatus": "candidate-needs-verification",
+    "licenseStatus": "third-party-link; verify before importing files"
+  },
+  {
+    "id": "cet4-2023-06-set1",
+    "examType": "CET-4",
+    "year": 2023,
+    "month": 6,
+    "setNo": 1,
+    "title": "CET-4 2023年6月第1套真题资源候选",
+    "resourceKind": "paper-audio",
+    "source": "cettong-url-pattern",
+    "pageUrl": "https://www.cettong.cn/library/cet4/2023_06_1",
+    "expectedAssets": [
+      "paper pdf",
+      "answer pdf",
+      "listening mp3"
+    ],
+    "importStatus": "candidate-needs-verification",
+    "licenseStatus": "third-party-link; verify before importing files"
+  },
+  {
+    "id": "cet4-2023-06-set2",
+    "examType": "CET-4",
+    "year": 2023,
+    "month": 6,
+    "setNo": 2,
+    "title": "CET-4 2023年6月第2套真题资源候选",
+    "resourceKind": "paper-audio",
+    "source": "cettong-url-pattern",
+    "pageUrl": "https://www.cettong.cn/library/cet4/2023_06_2",
+    "expectedAssets": [
+      "paper pdf",
+      "answer pdf",
+      "listening mp3"
+    ],
+    "importStatus": "candidate-needs-verification",
+    "licenseStatus": "third-party-link; verify before importing files"
+  },
+  {
+    "id": "cet4-2023-06-set3",
+    "examType": "CET-4",
+    "year": 2023,
+    "month": 6,
+    "setNo": 3,
+    "title": "CET-4 2023年6月第3套真题资源候选",
+    "resourceKind": "paper-audio",
+    "source": "cettong-url-pattern",
+    "pageUrl": "https://www.cettong.cn/library/cet4/2023_06_3",
+    "expectedAssets": [
+      "paper pdf",
+      "answer pdf",
+      "listening mp3"
+    ],
+    "importStatus": "candidate-needs-verification",
+    "licenseStatus": "third-party-link; verify before importing files"
+  },
+  {
+    "id": "cet4-2023-12-set1",
+    "examType": "CET-4",
+    "year": 2023,
+    "month": 12,
+    "setNo": 1,
+    "title": "CET-4 2023年12月第1套真题资源候选",
+    "resourceKind": "paper-audio",
+    "source": "cettong-url-pattern",
+    "pageUrl": "https://www.cettong.cn/library/cet4/2023_12_1",
+    "expectedAssets": [
+      "paper pdf",
+      "answer pdf",
+      "listening mp3"
+    ],
+    "importStatus": "candidate-needs-verification",
+    "licenseStatus": "third-party-link; verify before importing files"
+  },
+  {
+    "id": "cet4-2023-12-set2",
+    "examType": "CET-4",
+    "year": 2023,
+    "month": 12,
+    "setNo": 2,
+    "title": "CET-4 2023年12月第2套真题资源候选",
+    "resourceKind": "paper-audio",
+    "source": "cettong-url-pattern",
+    "pageUrl": "https://www.cettong.cn/library/cet4/2023_12_2",
+    "expectedAssets": [
+      "paper pdf",
+      "answer pdf",
+      "listening mp3"
+    ],
+    "importStatus": "candidate-needs-verification",
+    "licenseStatus": "third-party-link; verify before importing files"
+  },
+  {
+    "id": "cet4-2023-12-set3",
+    "examType": "CET-4",
+    "year": 2023,
+    "month": 12,
+    "setNo": 3,
+    "title": "CET-4 2023年12月第3套真题资源候选",
+    "resourceKind": "paper-audio",
+    "source": "cettong-url-pattern",
+    "pageUrl": "https://www.cettong.cn/library/cet4/2023_12_3",
+    "expectedAssets": [
+      "paper pdf",
+      "answer pdf",
+      "listening mp3"
+    ],
+    "importStatus": "candidate-needs-verification",
+    "licenseStatus": "third-party-link; verify before importing files"
+  },
+  {
+    "id": "cet4-2022-06-set1",
+    "examType": "CET-4",
+    "year": 2022,
+    "month": 6,
+    "setNo": 1,
+    "title": "CET-4 2022年6月第1套真题资源候选",
+    "resourceKind": "paper-audio",
+    "source": "cettong-url-pattern",
+    "pageUrl": "https://www.cettong.cn/library/cet4/2022_06_1",
+    "expectedAssets": [
+      "paper pdf",
+      "answer pdf",
+      "listening mp3"
+    ],
+    "importStatus": "candidate-needs-verification",
+    "licenseStatus": "third-party-link; verify before importing files"
+  },
+  {
+    "id": "cet4-2022-06-set2",
+    "examType": "CET-4",
+    "year": 2022,
+    "month": 6,
+    "setNo": 2,
+    "title": "CET-4 2022年6月第2套真题资源候选",
+    "resourceKind": "paper-audio",
+    "source": "cettong-url-pattern",
+    "pageUrl": "https://www.cettong.cn/library/cet4/2022_06_2",
+    "expectedAssets": [
+      "paper pdf",
+      "answer pdf",
+      "listening mp3"
+    ],
+    "importStatus": "candidate-needs-verification",
+    "licenseStatus": "third-party-link; verify before importing files"
+  },
+  {
+    "id": "cet4-2022-06-set3",
+    "examType": "CET-4",
+    "year": 2022,
+    "month": 6,
+    "setNo": 3,
+    "title": "CET-4 2022年6月第3套真题资源候选",
+    "resourceKind": "paper-audio",
+    "source": "cettong-url-pattern",
+    "pageUrl": "https://www.cettong.cn/library/cet4/2022_06_3",
+    "expectedAssets": [
+      "paper pdf",
+      "answer pdf",
+      "listening mp3"
+    ],
+    "importStatus": "candidate-needs-verification",
+    "licenseStatus": "third-party-link; verify before importing files"
+  },
+  {
+    "id": "cet4-2022-12-set1",
+    "examType": "CET-4",
+    "year": 2022,
+    "month": 12,
+    "setNo": 1,
+    "title": "CET-4 2022年12月第1套真题资源候选",
+    "resourceKind": "paper-audio",
+    "source": "cettong-url-pattern",
+    "pageUrl": "https://www.cettong.cn/library/cet4/2022_12_1",
+    "expectedAssets": [
+      "paper pdf",
+      "answer pdf",
+      "listening mp3"
+    ],
+    "importStatus": "candidate-needs-verification",
+    "licenseStatus": "third-party-link; verify before importing files"
+  },
+  {
+    "id": "cet4-2022-12-set2",
+    "examType": "CET-4",
+    "year": 2022,
+    "month": 12,
+    "setNo": 2,
+    "title": "CET-4 2022年12月第2套真题资源候选",
+    "resourceKind": "paper-audio",
+    "source": "cettong-url-pattern",
+    "pageUrl": "https://www.cettong.cn/library/cet4/2022_12_2",
+    "expectedAssets": [
+      "paper pdf",
+      "answer pdf",
+      "listening mp3"
+    ],
+    "importStatus": "candidate-needs-verification",
+    "licenseStatus": "third-party-link; verify before importing files"
+  },
+  {
+    "id": "cet4-2022-12-set3",
+    "examType": "CET-4",
+    "year": 2022,
+    "month": 12,
+    "setNo": 3,
+    "title": "CET-4 2022年12月第3套真题资源候选",
+    "resourceKind": "paper-audio",
+    "source": "cettong-url-pattern",
+    "pageUrl": "https://www.cettong.cn/library/cet4/2022_12_3",
+    "expectedAssets": [
+      "paper pdf",
+      "answer pdf",
+      "listening mp3"
+    ],
+    "importStatus": "candidate-needs-verification",
+    "licenseStatus": "third-party-link; verify before importing files"
+  },
+  {
+    "id": "cet4-2021-06-set1",
+    "examType": "CET-4",
+    "year": 2021,
+    "month": 6,
+    "setNo": 1,
+    "title": "CET-4 2021年6月第1套真题资源候选",
+    "resourceKind": "paper-audio",
+    "source": "cettong-url-pattern",
+    "pageUrl": "https://www.cettong.cn/library/cet4/2021_06_1",
+    "expectedAssets": [
+      "paper pdf",
+      "answer pdf",
+      "listening mp3"
+    ],
+    "importStatus": "candidate-needs-verification",
+    "licenseStatus": "third-party-link; verify before importing files"
+  },
+  {
+    "id": "cet4-2021-06-set2",
+    "examType": "CET-4",
+    "year": 2021,
+    "month": 6,
+    "setNo": 2,
+    "title": "CET-4 2021年6月第2套真题资源候选",
+    "resourceKind": "paper-audio",
+    "source": "cettong-url-pattern",
+    "pageUrl": "https://www.cettong.cn/library/cet4/2021_06_2",
+    "expectedAssets": [
+      "paper pdf",
+      "answer pdf",
+      "listening mp3"
+    ],
+    "importStatus": "candidate-needs-verification",
+    "licenseStatus": "third-party-link; verify before importing files"
+  },
+  {
+    "id": "cet4-2021-06-set3",
+    "examType": "CET-4",
+    "year": 2021,
+    "month": 6,
+    "setNo": 3,
+    "title": "CET-4 2021年6月第3套真题资源候选",
+    "resourceKind": "paper-audio",
+    "source": "cettong-url-pattern",
+    "pageUrl": "https://www.cettong.cn/library/cet4/2021_06_3",
+    "expectedAssets": [
+      "paper pdf",
+      "answer pdf",
+      "listening mp3"
+    ],
+    "importStatus": "candidate-needs-verification",
+    "licenseStatus": "third-party-link; verify before importing files"
+  },
+  {
+    "id": "cet4-2021-12-set1",
+    "examType": "CET-4",
+    "year": 2021,
+    "month": 12,
+    "setNo": 1,
+    "title": "CET-4 2021年12月第1套真题资源候选",
+    "resourceKind": "paper-audio",
+    "source": "cettong-url-pattern",
+    "pageUrl": "https://www.cettong.cn/library/cet4/2021_12_1",
+    "expectedAssets": [
+      "paper pdf",
+      "answer pdf",
+      "listening mp3"
+    ],
+    "importStatus": "candidate-needs-verification",
+    "licenseStatus": "third-party-link; verify before importing files"
+  },
+  {
+    "id": "cet4-2021-12-set2",
+    "examType": "CET-4",
+    "year": 2021,
+    "month": 12,
+    "setNo": 2,
+    "title": "CET-4 2021年12月第2套真题资源候选",
+    "resourceKind": "paper-audio",
+    "source": "cettong-url-pattern",
+    "pageUrl": "https://www.cettong.cn/library/cet4/2021_12_2",
+    "expectedAssets": [
+      "paper pdf",
+      "answer pdf",
+      "listening mp3"
+    ],
+    "importStatus": "candidate-needs-verification",
+    "licenseStatus": "third-party-link; verify before importing files"
+  },
+  {
+    "id": "cet4-2021-12-set3",
+    "examType": "CET-4",
+    "year": 2021,
+    "month": 12,
+    "setNo": 3,
+    "title": "CET-4 2021年12月第3套真题资源候选",
+    "resourceKind": "paper-audio",
+    "source": "cettong-url-pattern",
+    "pageUrl": "https://www.cettong.cn/library/cet4/2021_12_3",
+    "expectedAssets": [
+      "paper pdf",
+      "answer pdf",
+      "listening mp3"
+    ],
+    "importStatus": "candidate-needs-verification",
+    "licenseStatus": "third-party-link; verify before importing files"
+  },
+  {
+    "id": "cet4-2020-06-set1",
+    "examType": "CET-4",
+    "year": 2020,
+    "month": 6,
+    "setNo": 1,
+    "title": "CET-4 2020年6月第1套真题资源候选",
+    "resourceKind": "paper-audio",
+    "source": "cettong-url-pattern",
+    "pageUrl": "https://www.cettong.cn/library/cet4/2020_06_1",
+    "expectedAssets": [
+      "paper pdf",
+      "answer pdf",
+      "listening mp3"
+    ],
+    "importStatus": "candidate-needs-verification",
+    "licenseStatus": "third-party-link; verify before importing files"
+  },
+  {
+    "id": "cet4-2020-06-set2",
+    "examType": "CET-4",
+    "year": 2020,
+    "month": 6,
+    "setNo": 2,
+    "title": "CET-4 2020年6月第2套真题资源候选",
+    "resourceKind": "paper-audio",
+    "source": "cettong-url-pattern",
+    "pageUrl": "https://www.cettong.cn/library/cet4/2020_06_2",
+    "expectedAssets": [
+      "paper pdf",
+      "answer pdf",
+      "listening mp3"
+    ],
+    "importStatus": "candidate-needs-verification",
+    "licenseStatus": "third-party-link; verify before importing files"
+  },
+  {
+    "id": "cet4-2020-06-set3",
+    "examType": "CET-4",
+    "year": 2020,
+    "month": 6,
+    "setNo": 3,
+    "title": "CET-4 2020年6月第3套真题资源候选",
+    "resourceKind": "paper-audio",
+    "source": "cettong-url-pattern",
+    "pageUrl": "https://www.cettong.cn/library/cet4/2020_06_3",
+    "expectedAssets": [
+      "paper pdf",
+      "answer pdf",
+      "listening mp3"
+    ],
+    "importStatus": "candidate-needs-verification",
+    "licenseStatus": "third-party-link; verify before importing files"
+  },
+  {
+    "id": "cet4-2020-12-set1",
+    "examType": "CET-4",
+    "year": 2020,
+    "month": 12,
+    "setNo": 1,
+    "title": "CET-4 2020年12月第1套真题资源候选",
+    "resourceKind": "paper-audio",
+    "source": "cettong-url-pattern",
+    "pageUrl": "https://www.cettong.cn/library/cet4/2020_12_1",
+    "expectedAssets": [
+      "paper pdf",
+      "answer pdf",
+      "listening mp3"
+    ],
+    "importStatus": "candidate-needs-verification",
+    "licenseStatus": "third-party-link; verify before importing files"
+  },
+  {
+    "id": "cet4-2020-12-set2",
+    "examType": "CET-4",
+    "year": 2020,
+    "month": 12,
+    "setNo": 2,
+    "title": "CET-4 2020年12月第2套真题资源候选",
+    "resourceKind": "paper-audio",
+    "source": "cettong-url-pattern",
+    "pageUrl": "https://www.cettong.cn/library/cet4/2020_12_2",
+    "expectedAssets": [
+      "paper pdf",
+      "answer pdf",
+      "listening mp3"
+    ],
+    "importStatus": "candidate-needs-verification",
+    "licenseStatus": "third-party-link; verify before importing files"
+  },
+  {
+    "id": "cet4-2020-12-set3",
+    "examType": "CET-4",
+    "year": 2020,
+    "month": 12,
+    "setNo": 3,
+    "title": "CET-4 2020年12月第3套真题资源候选",
+    "resourceKind": "paper-audio",
+    "source": "cettong-url-pattern",
+    "pageUrl": "https://www.cettong.cn/library/cet4/2020_12_3",
+    "expectedAssets": [
+      "paper pdf",
+      "answer pdf",
+      "listening mp3"
+    ],
+    "importStatus": "candidate-needs-verification",
+    "licenseStatus": "third-party-link; verify before importing files"
+  },
+  {
+    "id": "cet4-2019-06-set1",
+    "examType": "CET-4",
+    "year": 2019,
+    "month": 6,
+    "setNo": 1,
+    "title": "CET-4 2019年6月第1套真题资源候选",
+    "resourceKind": "paper-audio",
+    "source": "cettong-url-pattern",
+    "pageUrl": "https://www.cettong.cn/library/cet4/2019_06_1",
+    "expectedAssets": [
+      "paper pdf",
+      "answer pdf",
+      "listening mp3"
+    ],
+    "importStatus": "candidate-needs-verification",
+    "licenseStatus": "third-party-link; verify before importing files"
+  },
+  {
+    "id": "cet4-2019-06-set2",
+    "examType": "CET-4",
+    "year": 2019,
+    "month": 6,
+    "setNo": 2,
+    "title": "CET-4 2019年6月第2套真题资源候选",
+    "resourceKind": "paper-audio",
+    "source": "cettong-url-pattern",
+    "pageUrl": "https://www.cettong.cn/library/cet4/2019_06_2",
+    "expectedAssets": [
+      "paper pdf",
+      "answer pdf",
+      "listening mp3"
+    ],
+    "importStatus": "candidate-needs-verification",
+    "licenseStatus": "third-party-link; verify before importing files"
+  },
+  {
+    "id": "cet4-2019-06-set3",
+    "examType": "CET-4",
+    "year": 2019,
+    "month": 6,
+    "setNo": 3,
+    "title": "CET-4 2019年6月第3套真题资源候选",
+    "resourceKind": "paper-audio",
+    "source": "cettong-url-pattern",
+    "pageUrl": "https://www.cettong.cn/library/cet4/2019_06_3",
+    "expectedAssets": [
+      "paper pdf",
+      "answer pdf",
+      "listening mp3"
+    ],
+    "importStatus": "candidate-needs-verification",
+    "licenseStatus": "third-party-link; verify before importing files"
+  },
+  {
+    "id": "cet4-2019-12-set1",
+    "examType": "CET-4",
+    "year": 2019,
+    "month": 12,
+    "setNo": 1,
+    "title": "CET-4 2019年12月第1套真题资源候选",
+    "resourceKind": "paper-audio",
+    "source": "cettong-url-pattern",
+    "pageUrl": "https://www.cettong.cn/library/cet4/2019_12_1",
+    "expectedAssets": [
+      "paper pdf",
+      "answer pdf",
+      "listening mp3"
+    ],
+    "importStatus": "candidate-needs-verification",
+    "licenseStatus": "third-party-link; verify before importing files"
+  },
+  {
+    "id": "cet4-2019-12-set2",
+    "examType": "CET-4",
+    "year": 2019,
+    "month": 12,
+    "setNo": 2,
+    "title": "CET-4 2019年12月第2套真题资源候选",
+    "resourceKind": "paper-audio",
+    "source": "cettong-url-pattern",
+    "pageUrl": "https://www.cettong.cn/library/cet4/2019_12_2",
+    "expectedAssets": [
+      "paper pdf",
+      "answer pdf",
+      "listening mp3"
+    ],
+    "importStatus": "candidate-needs-verification",
+    "licenseStatus": "third-party-link; verify before importing files"
+  },
+  {
+    "id": "cet4-2019-12-set3",
+    "examType": "CET-4",
+    "year": 2019,
+    "month": 12,
+    "setNo": 3,
+    "title": "CET-4 2019年12月第3套真题资源候选",
+    "resourceKind": "paper-audio",
+    "source": "cettong-url-pattern",
+    "pageUrl": "https://www.cettong.cn/library/cet4/2019_12_3",
+    "expectedAssets": [
+      "paper pdf",
+      "answer pdf",
+      "listening mp3"
+    ],
+    "importStatus": "candidate-needs-verification",
+    "licenseStatus": "third-party-link; verify before importing files"
+  },
+  {
+    "id": "cet4-2018-06-set1",
+    "examType": "CET-4",
+    "year": 2018,
+    "month": 6,
+    "setNo": 1,
+    "title": "CET-4 2018年6月第1套真题资源候选",
+    "resourceKind": "paper-audio",
+    "source": "cettong-url-pattern",
+    "pageUrl": "https://www.cettong.cn/library/cet4/2018_06_1",
+    "expectedAssets": [
+      "paper pdf",
+      "answer pdf",
+      "listening mp3"
+    ],
+    "importStatus": "candidate-needs-verification",
+    "licenseStatus": "third-party-link; verify before importing files"
+  },
+  {
+    "id": "cet4-2018-06-set2",
+    "examType": "CET-4",
+    "year": 2018,
+    "month": 6,
+    "setNo": 2,
+    "title": "CET-4 2018年6月第2套真题资源候选",
+    "resourceKind": "paper-audio",
+    "source": "cettong-url-pattern",
+    "pageUrl": "https://www.cettong.cn/library/cet4/2018_06_2",
+    "expectedAssets": [
+      "paper pdf",
+      "answer pdf",
+      "listening mp3"
+    ],
+    "importStatus": "candidate-needs-verification",
+    "licenseStatus": "third-party-link; verify before importing files"
+  },
+  {
+    "id": "cet4-2018-06-set3",
+    "examType": "CET-4",
+    "year": 2018,
+    "month": 6,
+    "setNo": 3,
+    "title": "CET-4 2018年6月第3套真题资源候选",
+    "resourceKind": "paper-audio",
+    "source": "cettong-url-pattern",
+    "pageUrl": "https://www.cettong.cn/library/cet4/2018_06_3",
+    "expectedAssets": [
+      "paper pdf",
+      "answer pdf",
+      "listening mp3"
+    ],
+    "importStatus": "candidate-needs-verification",
+    "licenseStatus": "third-party-link; verify before importing files"
+  },
+  {
+    "id": "cet4-2018-12-set1",
+    "examType": "CET-4",
+    "year": 2018,
+    "month": 12,
+    "setNo": 1,
+    "title": "CET-4 2018年12月第1套真题资源候选",
+    "resourceKind": "paper-audio",
+    "source": "cettong-url-pattern",
+    "pageUrl": "https://www.cettong.cn/library/cet4/2018_12_1",
+    "expectedAssets": [
+      "paper pdf",
+      "answer pdf",
+      "listening mp3"
+    ],
+    "importStatus": "candidate-needs-verification",
+    "licenseStatus": "third-party-link; verify before importing files"
+  },
+  {
+    "id": "cet4-2018-12-set2",
+    "examType": "CET-4",
+    "year": 2018,
+    "month": 12,
+    "setNo": 2,
+    "title": "CET-4 2018年12月第2套真题资源候选",
+    "resourceKind": "paper-audio",
+    "source": "cettong-url-pattern",
+    "pageUrl": "https://www.cettong.cn/library/cet4/2018_12_2",
+    "expectedAssets": [
+      "paper pdf",
+      "answer pdf",
+      "listening mp3"
+    ],
+    "importStatus": "candidate-needs-verification",
+    "licenseStatus": "third-party-link; verify before importing files"
+  },
+  {
+    "id": "cet4-2018-12-set3",
+    "examType": "CET-4",
+    "year": 2018,
+    "month": 12,
+    "setNo": 3,
+    "title": "CET-4 2018年12月第3套真题资源候选",
+    "resourceKind": "paper-audio",
+    "source": "cettong-url-pattern",
+    "pageUrl": "https://www.cettong.cn/library/cet4/2018_12_3",
+    "expectedAssets": [
+      "paper pdf",
+      "answer pdf",
+      "listening mp3"
+    ],
+    "importStatus": "candidate-needs-verification",
+    "licenseStatus": "third-party-link; verify before importing files"
+  },
+  {
+    "id": "cet4-2017-06-set1",
+    "examType": "CET-4",
+    "year": 2017,
+    "month": 6,
+    "setNo": 1,
+    "title": "CET-4 2017年6月第1套真题资源候选",
+    "resourceKind": "paper-audio",
+    "source": "cettong-url-pattern",
+    "pageUrl": "https://www.cettong.cn/library/cet4/2017_06_1",
+    "expectedAssets": [
+      "paper pdf",
+      "answer pdf",
+      "listening mp3"
+    ],
+    "importStatus": "candidate-needs-verification",
+    "licenseStatus": "third-party-link; verify before importing files"
+  },
+  {
+    "id": "cet4-2017-06-set2",
+    "examType": "CET-4",
+    "year": 2017,
+    "month": 6,
+    "setNo": 2,
+    "title": "CET-4 2017年6月第2套真题资源候选",
+    "resourceKind": "paper-audio",
+    "source": "cettong-url-pattern",
+    "pageUrl": "https://www.cettong.cn/library/cet4/2017_06_2",
+    "expectedAssets": [
+      "paper pdf",
+      "answer pdf",
+      "listening mp3"
+    ],
+    "importStatus": "candidate-needs-verification",
+    "licenseStatus": "third-party-link; verify before importing files"
+  },
+  {
+    "id": "cet4-2017-06-set3",
+    "examType": "CET-4",
+    "year": 2017,
+    "month": 6,
+    "setNo": 3,
+    "title": "CET-4 2017年6月第3套真题资源候选",
+    "resourceKind": "paper-audio",
+    "source": "cettong-url-pattern",
+    "pageUrl": "https://www.cettong.cn/library/cet4/2017_06_3",
+    "expectedAssets": [
+      "paper pdf",
+      "answer pdf",
+      "listening mp3"
+    ],
+    "importStatus": "candidate-needs-verification",
+    "licenseStatus": "third-party-link; verify before importing files"
+  },
+  {
+    "id": "cet4-2017-12-set1",
+    "examType": "CET-4",
+    "year": 2017,
+    "month": 12,
+    "setNo": 1,
+    "title": "CET-4 2017年12月第1套真题资源候选",
+    "resourceKind": "paper-audio",
+    "source": "cettong-url-pattern",
+    "pageUrl": "https://www.cettong.cn/library/cet4/2017_12_1",
+    "expectedAssets": [
+      "paper pdf",
+      "answer pdf",
+      "listening mp3"
+    ],
+    "importStatus": "candidate-needs-verification",
+    "licenseStatus": "third-party-link; verify before importing files"
+  },
+  {
+    "id": "cet4-2017-12-set2",
+    "examType": "CET-4",
+    "year": 2017,
+    "month": 12,
+    "setNo": 2,
+    "title": "CET-4 2017年12月第2套真题资源候选",
+    "resourceKind": "paper-audio",
+    "source": "cettong-url-pattern",
+    "pageUrl": "https://www.cettong.cn/library/cet4/2017_12_2",
+    "expectedAssets": [
+      "paper pdf",
+      "answer pdf",
+      "listening mp3"
+    ],
+    "importStatus": "candidate-needs-verification",
+    "licenseStatus": "third-party-link; verify before importing files"
+  },
+  {
+    "id": "cet4-2017-12-set3",
+    "examType": "CET-4",
+    "year": 2017,
+    "month": 12,
+    "setNo": 3,
+    "title": "CET-4 2017年12月第3套真题资源候选",
+    "resourceKind": "paper-audio",
+    "source": "cettong-url-pattern",
+    "pageUrl": "https://www.cettong.cn/library/cet4/2017_12_3",
+    "expectedAssets": [
+      "paper pdf",
+      "answer pdf",
+      "listening mp3"
+    ],
+    "importStatus": "candidate-needs-verification",
+    "licenseStatus": "third-party-link; verify before importing files"
+  },
+  {
+    "id": "cet4-2016-06-set1",
+    "examType": "CET-4",
+    "year": 2016,
+    "month": 6,
+    "setNo": 1,
+    "title": "CET-4 2016年6月第1套真题资源候选",
+    "resourceKind": "paper-audio",
+    "source": "cettong-url-pattern",
+    "pageUrl": "https://www.cettong.cn/library/cet4/2016_06_1",
+    "expectedAssets": [
+      "paper pdf",
+      "answer pdf",
+      "listening mp3"
+    ],
+    "importStatus": "candidate-needs-verification",
+    "licenseStatus": "third-party-link; verify before importing files"
+  },
+  {
+    "id": "cet4-2016-06-set2",
+    "examType": "CET-4",
+    "year": 2016,
+    "month": 6,
+    "setNo": 2,
+    "title": "CET-4 2016年6月第2套真题资源候选",
+    "resourceKind": "paper-audio",
+    "source": "cettong-url-pattern",
+    "pageUrl": "https://www.cettong.cn/library/cet4/2016_06_2",
+    "expectedAssets": [
+      "paper pdf",
+      "answer pdf",
+      "listening mp3"
+    ],
+    "importStatus": "candidate-needs-verification",
+    "licenseStatus": "third-party-link; verify before importing files"
+  },
+  {
+    "id": "cet4-2016-06-set3",
+    "examType": "CET-4",
+    "year": 2016,
+    "month": 6,
+    "setNo": 3,
+    "title": "CET-4 2016年6月第3套真题资源候选",
+    "resourceKind": "paper-audio",
+    "source": "cettong-url-pattern",
+    "pageUrl": "https://www.cettong.cn/library/cet4/2016_06_3",
+    "expectedAssets": [
+      "paper pdf",
+      "answer pdf",
+      "listening mp3"
+    ],
+    "importStatus": "candidate-needs-verification",
+    "licenseStatus": "third-party-link; verify before importing files"
+  },
+  {
+    "id": "cet4-2016-12-set1",
+    "examType": "CET-4",
+    "year": 2016,
+    "month": 12,
+    "setNo": 1,
+    "title": "CET-4 2016年12月第1套真题资源候选",
+    "resourceKind": "paper-audio",
+    "source": "cettong-url-pattern",
+    "pageUrl": "https://www.cettong.cn/library/cet4/2016_12_1",
+    "expectedAssets": [
+      "paper pdf",
+      "answer pdf",
+      "listening mp3"
+    ],
+    "importStatus": "candidate-needs-verification",
+    "licenseStatus": "third-party-link; verify before importing files"
+  },
+  {
+    "id": "cet4-2016-12-set2",
+    "examType": "CET-4",
+    "year": 2016,
+    "month": 12,
+    "setNo": 2,
+    "title": "CET-4 2016年12月第2套真题资源候选",
+    "resourceKind": "paper-audio",
+    "source": "cettong-url-pattern",
+    "pageUrl": "https://www.cettong.cn/library/cet4/2016_12_2",
+    "expectedAssets": [
+      "paper pdf",
+      "answer pdf",
+      "listening mp3"
+    ],
+    "importStatus": "candidate-needs-verification",
+    "licenseStatus": "third-party-link; verify before importing files"
+  },
+  {
+    "id": "cet4-2016-12-set3",
+    "examType": "CET-4",
+    "year": 2016,
+    "month": 12,
+    "setNo": 3,
+    "title": "CET-4 2016年12月第3套真题资源候选",
+    "resourceKind": "paper-audio",
+    "source": "cettong-url-pattern",
+    "pageUrl": "https://www.cettong.cn/library/cet4/2016_12_3",
+    "expectedAssets": [
+      "paper pdf",
+      "answer pdf",
+      "listening mp3"
+    ],
+    "importStatus": "candidate-needs-verification",
+    "licenseStatus": "third-party-link; verify before importing files"
+  },
+  {
+    "id": "cet6-2025-06-set1",
+    "examType": "CET-6",
+    "year": 2025,
+    "month": 6,
+    "setNo": 1,
+    "title": "CET-6 2025年6月第1套真题资源候选",
+    "resourceKind": "paper-audio",
+    "source": "cettong-url-pattern",
+    "pageUrl": "https://www.cettong.cn/library/cet6/2025_06_1",
+    "expectedAssets": [
+      "paper pdf",
+      "answer pdf",
+      "listening mp3"
+    ],
+    "importStatus": "candidate-needs-verification",
+    "licenseStatus": "third-party-link; verify before importing files"
+  },
+  {
+    "id": "cet6-2025-06-set2",
+    "examType": "CET-6",
+    "year": 2025,
+    "month": 6,
+    "setNo": 2,
+    "title": "CET-6 2025年6月第2套真题资源候选",
+    "resourceKind": "paper-audio",
+    "source": "cettong-url-pattern",
+    "pageUrl": "https://www.cettong.cn/library/cet6/2025_06_2",
+    "expectedAssets": [
+      "paper pdf",
+      "answer pdf",
+      "listening mp3"
+    ],
+    "importStatus": "candidate-needs-verification",
+    "licenseStatus": "third-party-link; verify before importing files"
+  },
+  {
+    "id": "cet6-2025-06-set3",
+    "examType": "CET-6",
+    "year": 2025,
+    "month": 6,
+    "setNo": 3,
+    "title": "CET-6 2025年6月第3套真题资源候选",
+    "resourceKind": "paper-audio",
+    "source": "cettong-url-pattern",
+    "pageUrl": "https://www.cettong.cn/library/cet6/2025_06_3",
+    "expectedAssets": [
+      "paper pdf",
+      "answer pdf",
+      "listening mp3"
+    ],
+    "importStatus": "candidate-needs-verification",
+    "licenseStatus": "third-party-link; verify before importing files"
+  },
+  {
+    "id": "cet6-2025-12-set1",
+    "examType": "CET-6",
+    "year": 2025,
+    "month": 12,
+    "setNo": 1,
+    "title": "CET-6 2025年12月第1套真题资源候选",
+    "resourceKind": "paper-audio",
+    "source": "cettong-url-pattern",
+    "pageUrl": "https://www.cettong.cn/library/cet6/2025_12_1",
+    "expectedAssets": [
+      "paper pdf",
+      "answer pdf",
+      "listening mp3"
+    ],
+    "importStatus": "candidate-needs-verification",
+    "licenseStatus": "third-party-link; verify before importing files"
+  },
+  {
+    "id": "cet6-2025-12-set2",
+    "examType": "CET-6",
+    "year": 2025,
+    "month": 12,
+    "setNo": 2,
+    "title": "CET-6 2025年12月第2套真题资源候选",
+    "resourceKind": "paper-audio",
+    "source": "cettong-url-pattern",
+    "pageUrl": "https://www.cettong.cn/library/cet6/2025_12_2",
+    "expectedAssets": [
+      "paper pdf",
+      "answer pdf",
+      "listening mp3"
+    ],
+    "importStatus": "candidate-needs-verification",
+    "licenseStatus": "third-party-link; verify before importing files"
+  },
+  {
+    "id": "cet6-2025-12-set3",
+    "examType": "CET-6",
+    "year": 2025,
+    "month": 12,
+    "setNo": 3,
+    "title": "CET-6 2025年12月第3套真题资源候选",
+    "resourceKind": "paper-audio",
+    "source": "cettong-url-pattern",
+    "pageUrl": "https://www.cettong.cn/library/cet6/2025_12_3",
+    "expectedAssets": [
+      "paper pdf",
+      "answer pdf",
+      "listening mp3"
+    ],
+    "importStatus": "candidate-needs-verification",
+    "licenseStatus": "third-party-link; verify before importing files"
+  },
+  {
+    "id": "cet6-2024-06-set1",
+    "examType": "CET-6",
+    "year": 2024,
+    "month": 6,
+    "setNo": 1,
+    "title": "CET-6 2024年6月第1套真题资源候选",
+    "resourceKind": "paper-audio",
+    "source": "cettong-url-pattern",
+    "pageUrl": "https://www.cettong.cn/library/cet6/2024_06_1",
+    "expectedAssets": [
+      "paper pdf",
+      "answer pdf",
+      "listening mp3"
+    ],
+    "importStatus": "candidate-needs-verification",
+    "licenseStatus": "third-party-link; verify before importing files"
+  },
+  {
+    "id": "cet6-2024-06-set2",
+    "examType": "CET-6",
+    "year": 2024,
+    "month": 6,
+    "setNo": 2,
+    "title": "CET-6 2024年6月第2套真题资源候选",
+    "resourceKind": "paper-audio",
+    "source": "cettong-url-pattern",
+    "pageUrl": "https://www.cettong.cn/library/cet6/2024_06_2",
+    "expectedAssets": [
+      "paper pdf",
+      "answer pdf",
+      "listening mp3"
+    ],
+    "importStatus": "candidate-needs-verification",
+    "licenseStatus": "third-party-link; verify before importing files"
+  },
+  {
+    "id": "cet6-2024-06-set3",
+    "examType": "CET-6",
+    "year": 2024,
+    "month": 6,
+    "setNo": 3,
+    "title": "CET-6 2024年6月第3套真题资源候选",
+    "resourceKind": "paper-audio",
+    "source": "cettong-url-pattern",
+    "pageUrl": "https://www.cettong.cn/library/cet6/2024_06_3",
+    "expectedAssets": [
+      "paper pdf",
+      "answer pdf",
+      "listening mp3"
+    ],
+    "importStatus": "candidate-needs-verification",
+    "licenseStatus": "third-party-link; verify before importing files"
+  },
+  {
+    "id": "cet6-2024-12-set1",
+    "examType": "CET-6",
+    "year": 2024,
+    "month": 12,
+    "setNo": 1,
+    "title": "CET-6 2024年12月第1套真题资源候选",
+    "resourceKind": "paper-audio",
+    "source": "cettong-url-pattern",
+    "pageUrl": "https://www.cettong.cn/library/cet6/2024_12_1",
+    "expectedAssets": [
+      "paper pdf",
+      "answer pdf",
+      "listening mp3"
+    ],
+    "importStatus": "candidate-needs-verification",
+    "licenseStatus": "third-party-link; verify before importing files"
+  },
+  {
+    "id": "cet6-2024-12-set2",
+    "examType": "CET-6",
+    "year": 2024,
+    "month": 12,
+    "setNo": 2,
+    "title": "CET-6 2024年12月第2套真题资源候选",
+    "resourceKind": "paper-audio",
+    "source": "cettong-url-pattern",
+    "pageUrl": "https://www.cettong.cn/library/cet6/2024_12_2",
+    "expectedAssets": [
+      "paper pdf",
+      "answer pdf",
+      "listening mp3"
+    ],
+    "importStatus": "candidate-needs-verification",
+    "licenseStatus": "third-party-link; verify before importing files"
+  },
+  {
+    "id": "cet6-2024-12-set3",
+    "examType": "CET-6",
+    "year": 2024,
+    "month": 12,
+    "setNo": 3,
+    "title": "CET-6 2024年12月第3套真题资源候选",
+    "resourceKind": "paper-audio",
+    "source": "cettong-url-pattern",
+    "pageUrl": "https://www.cettong.cn/library/cet6/2024_12_3",
+    "expectedAssets": [
+      "paper pdf",
+      "answer pdf",
+      "listening mp3"
+    ],
+    "importStatus": "candidate-needs-verification",
+    "licenseStatus": "third-party-link; verify before importing files"
+  },
+  {
+    "id": "cet6-2023-06-set1",
+    "examType": "CET-6",
+    "year": 2023,
+    "month": 6,
+    "setNo": 1,
+    "title": "CET-6 2023年6月第1套真题资源候选",
+    "resourceKind": "paper-audio",
+    "source": "cettong-url-pattern",
+    "pageUrl": "https://www.cettong.cn/library/cet6/2023_06_1",
+    "expectedAssets": [
+      "paper pdf",
+      "answer pdf",
+      "listening mp3"
+    ],
+    "importStatus": "candidate-needs-verification",
+    "licenseStatus": "third-party-link; verify before importing files"
+  },
+  {
+    "id": "cet6-2023-06-set2",
+    "examType": "CET-6",
+    "year": 2023,
+    "month": 6,
+    "setNo": 2,
+    "title": "CET-6 2023年6月第2套真题资源候选",
+    "resourceKind": "paper-audio",
+    "source": "cettong-url-pattern",
+    "pageUrl": "https://www.cettong.cn/library/cet6/2023_06_2",
+    "expectedAssets": [
+      "paper pdf",
+      "answer pdf",
+      "listening mp3"
+    ],
+    "importStatus": "candidate-needs-verification",
+    "licenseStatus": "third-party-link; verify before importing files"
+  },
+  {
+    "id": "cet6-2023-06-set3",
+    "examType": "CET-6",
+    "year": 2023,
+    "month": 6,
+    "setNo": 3,
+    "title": "CET-6 2023年6月第3套真题资源候选",
+    "resourceKind": "paper-audio",
+    "source": "cettong-url-pattern",
+    "pageUrl": "https://www.cettong.cn/library/cet6/2023_06_3",
+    "expectedAssets": [
+      "paper pdf",
+      "answer pdf",
+      "listening mp3"
+    ],
+    "importStatus": "candidate-needs-verification",
+    "licenseStatus": "third-party-link; verify before importing files"
+  },
+  {
+    "id": "cet6-2023-12-set1",
+    "examType": "CET-6",
+    "year": 2023,
+    "month": 12,
+    "setNo": 1,
+    "title": "CET-6 2023年12月第1套真题资源候选",
+    "resourceKind": "paper-audio",
+    "source": "cettong-url-pattern",
+    "pageUrl": "https://www.cettong.cn/library/cet6/2023_12_1",
+    "expectedAssets": [
+      "paper pdf",
+      "answer pdf",
+      "listening mp3"
+    ],
+    "importStatus": "candidate-needs-verification",
+    "licenseStatus": "third-party-link; verify before importing files"
+  },
+  {
+    "id": "cet6-2023-12-set2",
+    "examType": "CET-6",
+    "year": 2023,
+    "month": 12,
+    "setNo": 2,
+    "title": "CET-6 2023年12月第2套真题资源候选",
+    "resourceKind": "paper-audio",
+    "source": "cettong-url-pattern",
+    "pageUrl": "https://www.cettong.cn/library/cet6/2023_12_2",
+    "expectedAssets": [
+      "paper pdf",
+      "answer pdf",
+      "listening mp3"
+    ],
+    "importStatus": "candidate-needs-verification",
+    "licenseStatus": "third-party-link; verify before importing files"
+  },
+  {
+    "id": "cet6-2023-12-set3",
+    "examType": "CET-6",
+    "year": 2023,
+    "month": 12,
+    "setNo": 3,
+    "title": "CET-6 2023年12月第3套真题资源候选",
+    "resourceKind": "paper-audio",
+    "source": "cettong-url-pattern",
+    "pageUrl": "https://www.cettong.cn/library/cet6/2023_12_3",
+    "expectedAssets": [
+      "paper pdf",
+      "answer pdf",
+      "listening mp3"
+    ],
+    "importStatus": "candidate-needs-verification",
+    "licenseStatus": "third-party-link; verify before importing files"
+  },
+  {
+    "id": "cet6-2022-06-set1",
+    "examType": "CET-6",
+    "year": 2022,
+    "month": 6,
+    "setNo": 1,
+    "title": "CET-6 2022年6月第1套真题资源候选",
+    "resourceKind": "paper-audio",
+    "source": "cettong-url-pattern",
+    "pageUrl": "https://www.cettong.cn/library/cet6/2022_06_1",
+    "expectedAssets": [
+      "paper pdf",
+      "answer pdf",
+      "listening mp3"
+    ],
+    "importStatus": "candidate-needs-verification",
+    "licenseStatus": "third-party-link; verify before importing files"
+  },
+  {
+    "id": "cet6-2022-06-set2",
+    "examType": "CET-6",
+    "year": 2022,
+    "month": 6,
+    "setNo": 2,
+    "title": "CET-6 2022年6月第2套真题资源候选",
+    "resourceKind": "paper-audio",
+    "source": "cettong-url-pattern",
+    "pageUrl": "https://www.cettong.cn/library/cet6/2022_06_2",
+    "expectedAssets": [
+      "paper pdf",
+      "answer pdf",
+      "listening mp3"
+    ],
+    "importStatus": "candidate-needs-verification",
+    "licenseStatus": "third-party-link; verify before importing files"
+  },
+  {
+    "id": "cet6-2022-06-set3",
+    "examType": "CET-6",
+    "year": 2022,
+    "month": 6,
+    "setNo": 3,
+    "title": "CET-6 2022年6月第3套真题资源候选",
+    "resourceKind": "paper-audio",
+    "source": "cettong-url-pattern",
+    "pageUrl": "https://www.cettong.cn/library/cet6/2022_06_3",
+    "expectedAssets": [
+      "paper pdf",
+      "answer pdf",
+      "listening mp3"
+    ],
+    "importStatus": "candidate-needs-verification",
+    "licenseStatus": "third-party-link; verify before importing files"
+  },
+  {
+    "id": "cet6-2022-12-set1",
+    "examType": "CET-6",
+    "year": 2022,
+    "month": 12,
+    "setNo": 1,
+    "title": "CET-6 2022年12月第1套真题资源候选",
+    "resourceKind": "paper-audio",
+    "source": "cettong-url-pattern",
+    "pageUrl": "https://www.cettong.cn/library/cet6/2022_12_1",
+    "expectedAssets": [
+      "paper pdf",
+      "answer pdf",
+      "listening mp3"
+    ],
+    "importStatus": "candidate-needs-verification",
+    "licenseStatus": "third-party-link; verify before importing files"
+  },
+  {
+    "id": "cet6-2022-12-set2",
+    "examType": "CET-6",
+    "year": 2022,
+    "month": 12,
+    "setNo": 2,
+    "title": "CET-6 2022年12月第2套真题资源候选",
+    "resourceKind": "paper-audio",
+    "source": "cettong-url-pattern",
+    "pageUrl": "https://www.cettong.cn/library/cet6/2022_12_2",
+    "expectedAssets": [
+      "paper pdf",
+      "answer pdf",
+      "listening mp3"
+    ],
+    "importStatus": "candidate-needs-verification",
+    "licenseStatus": "third-party-link; verify before importing files"
+  },
+  {
+    "id": "cet6-2022-12-set3",
+    "examType": "CET-6",
+    "year": 2022,
+    "month": 12,
+    "setNo": 3,
+    "title": "CET-6 2022年12月第3套真题资源候选",
+    "resourceKind": "paper-audio",
+    "source": "cettong-url-pattern",
+    "pageUrl": "https://www.cettong.cn/library/cet6/2022_12_3",
+    "expectedAssets": [
+      "paper pdf",
+      "answer pdf",
+      "listening mp3"
+    ],
+    "importStatus": "candidate-needs-verification",
+    "licenseStatus": "third-party-link; verify before importing files"
+  },
+  {
+    "id": "cet6-2021-06-set1",
+    "examType": "CET-6",
+    "year": 2021,
+    "month": 6,
+    "setNo": 1,
+    "title": "CET-6 2021年6月第1套真题资源候选",
+    "resourceKind": "paper-audio",
+    "source": "cettong-url-pattern",
+    "pageUrl": "https://www.cettong.cn/library/cet6/2021_06_1",
+    "expectedAssets": [
+      "paper pdf",
+      "answer pdf",
+      "listening mp3"
+    ],
+    "importStatus": "candidate-needs-verification",
+    "licenseStatus": "third-party-link; verify before importing files"
+  },
+  {
+    "id": "cet6-2021-06-set2",
+    "examType": "CET-6",
+    "year": 2021,
+    "month": 6,
+    "setNo": 2,
+    "title": "CET-6 2021年6月第2套真题资源候选",
+    "resourceKind": "paper-audio",
+    "source": "cettong-url-pattern",
+    "pageUrl": "https://www.cettong.cn/library/cet6/2021_06_2",
+    "expectedAssets": [
+      "paper pdf",
+      "answer pdf",
+      "listening mp3"
+    ],
+    "importStatus": "candidate-needs-verification",
+    "licenseStatus": "third-party-link; verify before importing files"
+  },
+  {
+    "id": "cet6-2021-06-set3",
+    "examType": "CET-6",
+    "year": 2021,
+    "month": 6,
+    "setNo": 3,
+    "title": "CET-6 2021年6月第3套真题资源候选",
+    "resourceKind": "paper-audio",
+    "source": "cettong-url-pattern",
+    "pageUrl": "https://www.cettong.cn/library/cet6/2021_06_3",
+    "expectedAssets": [
+      "paper pdf",
+      "answer pdf",
+      "listening mp3"
+    ],
+    "importStatus": "candidate-needs-verification",
+    "licenseStatus": "third-party-link; verify before importing files"
+  },
+  {
+    "id": "cet6-2021-12-set1",
+    "examType": "CET-6",
+    "year": 2021,
+    "month": 12,
+    "setNo": 1,
+    "title": "CET-6 2021年12月第1套真题资源候选",
+    "resourceKind": "paper-audio",
+    "source": "cettong-url-pattern",
+    "pageUrl": "https://www.cettong.cn/library/cet6/2021_12_1",
+    "expectedAssets": [
+      "paper pdf",
+      "answer pdf",
+      "listening mp3"
+    ],
+    "importStatus": "candidate-needs-verification",
+    "licenseStatus": "third-party-link; verify before importing files"
+  },
+  {
+    "id": "cet6-2021-12-set2",
+    "examType": "CET-6",
+    "year": 2021,
+    "month": 12,
+    "setNo": 2,
+    "title": "CET-6 2021年12月第2套真题资源候选",
+    "resourceKind": "paper-audio",
+    "source": "cettong-url-pattern",
+    "pageUrl": "https://www.cettong.cn/library/cet6/2021_12_2",
+    "expectedAssets": [
+      "paper pdf",
+      "answer pdf",
+      "listening mp3"
+    ],
+    "importStatus": "candidate-needs-verification",
+    "licenseStatus": "third-party-link; verify before importing files"
+  },
+  {
+    "id": "cet6-2021-12-set3",
+    "examType": "CET-6",
+    "year": 2021,
+    "month": 12,
+    "setNo": 3,
+    "title": "CET-6 2021年12月第3套真题资源候选",
+    "resourceKind": "paper-audio",
+    "source": "cettong-url-pattern",
+    "pageUrl": "https://www.cettong.cn/library/cet6/2021_12_3",
+    "expectedAssets": [
+      "paper pdf",
+      "answer pdf",
+      "listening mp3"
+    ],
+    "importStatus": "candidate-needs-verification",
+    "licenseStatus": "third-party-link; verify before importing files"
+  },
+  {
+    "id": "cet6-2020-06-set1",
+    "examType": "CET-6",
+    "year": 2020,
+    "month": 6,
+    "setNo": 1,
+    "title": "CET-6 2020年6月第1套真题资源候选",
+    "resourceKind": "paper-audio",
+    "source": "cettong-url-pattern",
+    "pageUrl": "https://www.cettong.cn/library/cet6/2020_06_1",
+    "expectedAssets": [
+      "paper pdf",
+      "answer pdf",
+      "listening mp3"
+    ],
+    "importStatus": "candidate-needs-verification",
+    "licenseStatus": "third-party-link; verify before importing files"
+  },
+  {
+    "id": "cet6-2020-06-set2",
+    "examType": "CET-6",
+    "year": 2020,
+    "month": 6,
+    "setNo": 2,
+    "title": "CET-6 2020年6月第2套真题资源候选",
+    "resourceKind": "paper-audio",
+    "source": "cettong-url-pattern",
+    "pageUrl": "https://www.cettong.cn/library/cet6/2020_06_2",
+    "expectedAssets": [
+      "paper pdf",
+      "answer pdf",
+      "listening mp3"
+    ],
+    "importStatus": "candidate-needs-verification",
+    "licenseStatus": "third-party-link; verify before importing files"
+  },
+  {
+    "id": "cet6-2020-06-set3",
+    "examType": "CET-6",
+    "year": 2020,
+    "month": 6,
+    "setNo": 3,
+    "title": "CET-6 2020年6月第3套真题资源候选",
+    "resourceKind": "paper-audio",
+    "source": "cettong-url-pattern",
+    "pageUrl": "https://www.cettong.cn/library/cet6/2020_06_3",
+    "expectedAssets": [
+      "paper pdf",
+      "answer pdf",
+      "listening mp3"
+    ],
+    "importStatus": "candidate-needs-verification",
+    "licenseStatus": "third-party-link; verify before importing files"
+  },
+  {
+    "id": "cet6-2020-12-set1",
+    "examType": "CET-6",
+    "year": 2020,
+    "month": 12,
+    "setNo": 1,
+    "title": "CET-6 2020年12月第1套真题资源候选",
+    "resourceKind": "paper-audio",
+    "source": "cettong-url-pattern",
+    "pageUrl": "https://www.cettong.cn/library/cet6/2020_12_1",
+    "expectedAssets": [
+      "paper pdf",
+      "answer pdf",
+      "listening mp3"
+    ],
+    "importStatus": "candidate-needs-verification",
+    "licenseStatus": "third-party-link; verify before importing files"
+  },
+  {
+    "id": "cet6-2020-12-set2",
+    "examType": "CET-6",
+    "year": 2020,
+    "month": 12,
+    "setNo": 2,
+    "title": "CET-6 2020年12月第2套真题资源候选",
+    "resourceKind": "paper-audio",
+    "source": "cettong-url-pattern",
+    "pageUrl": "https://www.cettong.cn/library/cet6/2020_12_2",
+    "expectedAssets": [
+      "paper pdf",
+      "answer pdf",
+      "listening mp3"
+    ],
+    "importStatus": "candidate-needs-verification",
+    "licenseStatus": "third-party-link; verify before importing files"
+  },
+  {
+    "id": "cet6-2020-12-set3",
+    "examType": "CET-6",
+    "year": 2020,
+    "month": 12,
+    "setNo": 3,
+    "title": "CET-6 2020年12月第3套真题资源候选",
+    "resourceKind": "paper-audio",
+    "source": "cettong-url-pattern",
+    "pageUrl": "https://www.cettong.cn/library/cet6/2020_12_3",
+    "expectedAssets": [
+      "paper pdf",
+      "answer pdf",
+      "listening mp3"
+    ],
+    "importStatus": "candidate-needs-verification",
+    "licenseStatus": "third-party-link; verify before importing files"
+  },
+  {
+    "id": "cet6-2019-06-set1",
+    "examType": "CET-6",
+    "year": 2019,
+    "month": 6,
+    "setNo": 1,
+    "title": "CET-6 2019年6月第1套真题资源候选",
+    "resourceKind": "paper-audio",
+    "source": "cettong-url-pattern",
+    "pageUrl": "https://www.cettong.cn/library/cet6/2019_06_1",
+    "expectedAssets": [
+      "paper pdf",
+      "answer pdf",
+      "listening mp3"
+    ],
+    "importStatus": "candidate-needs-verification",
+    "licenseStatus": "third-party-link; verify before importing files"
+  },
+  {
+    "id": "cet6-2019-06-set2",
+    "examType": "CET-6",
+    "year": 2019,
+    "month": 6,
+    "setNo": 2,
+    "title": "CET-6 2019年6月第2套真题资源候选",
+    "resourceKind": "paper-audio",
+    "source": "cettong-url-pattern",
+    "pageUrl": "https://www.cettong.cn/library/cet6/2019_06_2",
+    "expectedAssets": [
+      "paper pdf",
+      "answer pdf",
+      "listening mp3"
+    ],
+    "importStatus": "candidate-needs-verification",
+    "licenseStatus": "third-party-link; verify before importing files"
+  },
+  {
+    "id": "cet6-2019-06-set3",
+    "examType": "CET-6",
+    "year": 2019,
+    "month": 6,
+    "setNo": 3,
+    "title": "CET-6 2019年6月第3套真题资源候选",
+    "resourceKind": "paper-audio",
+    "source": "cettong-url-pattern",
+    "pageUrl": "https://www.cettong.cn/library/cet6/2019_06_3",
+    "expectedAssets": [
+      "paper pdf",
+      "answer pdf",
+      "listening mp3"
+    ],
+    "importStatus": "candidate-needs-verification",
+    "licenseStatus": "third-party-link; verify before importing files"
+  },
+  {
+    "id": "cet6-2019-12-set1",
+    "examType": "CET-6",
+    "year": 2019,
+    "month": 12,
+    "setNo": 1,
+    "title": "CET-6 2019年12月第1套真题资源候选",
+    "resourceKind": "paper-audio",
+    "source": "cettong-url-pattern",
+    "pageUrl": "https://www.cettong.cn/library/cet6/2019_12_1",
+    "expectedAssets": [
+      "paper pdf",
+      "answer pdf",
+      "listening mp3"
+    ],
+    "importStatus": "candidate-needs-verification",
+    "licenseStatus": "third-party-link; verify before importing files"
+  },
+  {
+    "id": "cet6-2019-12-set2",
+    "examType": "CET-6",
+    "year": 2019,
+    "month": 12,
+    "setNo": 2,
+    "title": "CET-6 2019年12月第2套真题资源候选",
+    "resourceKind": "paper-audio",
+    "source": "cettong-url-pattern",
+    "pageUrl": "https://www.cettong.cn/library/cet6/2019_12_2",
+    "expectedAssets": [
+      "paper pdf",
+      "answer pdf",
+      "listening mp3"
+    ],
+    "importStatus": "candidate-needs-verification",
+    "licenseStatus": "third-party-link; verify before importing files"
+  },
+  {
+    "id": "cet6-2019-12-set3",
+    "examType": "CET-6",
+    "year": 2019,
+    "month": 12,
+    "setNo": 3,
+    "title": "CET-6 2019年12月第3套真题资源候选",
+    "resourceKind": "paper-audio",
+    "source": "cettong-url-pattern",
+    "pageUrl": "https://www.cettong.cn/library/cet6/2019_12_3",
+    "expectedAssets": [
+      "paper pdf",
+      "answer pdf",
+      "listening mp3"
+    ],
+    "importStatus": "candidate-needs-verification",
+    "licenseStatus": "third-party-link; verify before importing files"
+  },
+  {
+    "id": "cet6-2018-06-set1",
+    "examType": "CET-6",
+    "year": 2018,
+    "month": 6,
+    "setNo": 1,
+    "title": "CET-6 2018年6月第1套真题资源候选",
+    "resourceKind": "paper-audio",
+    "source": "cettong-url-pattern",
+    "pageUrl": "https://www.cettong.cn/library/cet6/2018_06_1",
+    "expectedAssets": [
+      "paper pdf",
+      "answer pdf",
+      "listening mp3"
+    ],
+    "importStatus": "candidate-needs-verification",
+    "licenseStatus": "third-party-link; verify before importing files"
+  },
+  {
+    "id": "cet6-2018-06-set2",
+    "examType": "CET-6",
+    "year": 2018,
+    "month": 6,
+    "setNo": 2,
+    "title": "CET-6 2018年6月第2套真题资源候选",
+    "resourceKind": "paper-audio",
+    "source": "cettong-url-pattern",
+    "pageUrl": "https://www.cettong.cn/library/cet6/2018_06_2",
+    "expectedAssets": [
+      "paper pdf",
+      "answer pdf",
+      "listening mp3"
+    ],
+    "importStatus": "candidate-needs-verification",
+    "licenseStatus": "third-party-link; verify before importing files"
+  },
+  {
+    "id": "cet6-2018-06-set3",
+    "examType": "CET-6",
+    "year": 2018,
+    "month": 6,
+    "setNo": 3,
+    "title": "CET-6 2018年6月第3套真题资源候选",
+    "resourceKind": "paper-audio",
+    "source": "cettong-url-pattern",
+    "pageUrl": "https://www.cettong.cn/library/cet6/2018_06_3",
+    "expectedAssets": [
+      "paper pdf",
+      "answer pdf",
+      "listening mp3"
+    ],
+    "importStatus": "candidate-needs-verification",
+    "licenseStatus": "third-party-link; verify before importing files"
+  },
+  {
+    "id": "cet6-2018-12-set1",
+    "examType": "CET-6",
+    "year": 2018,
+    "month": 12,
+    "setNo": 1,
+    "title": "CET-6 2018年12月第1套真题资源候选",
+    "resourceKind": "paper-audio",
+    "source": "cettong-url-pattern",
+    "pageUrl": "https://www.cettong.cn/library/cet6/2018_12_1",
+    "expectedAssets": [
+      "paper pdf",
+      "answer pdf",
+      "listening mp3"
+    ],
+    "importStatus": "candidate-needs-verification",
+    "licenseStatus": "third-party-link; verify before importing files"
+  },
+  {
+    "id": "cet6-2018-12-set2",
+    "examType": "CET-6",
+    "year": 2018,
+    "month": 12,
+    "setNo": 2,
+    "title": "CET-6 2018年12月第2套真题资源候选",
+    "resourceKind": "paper-audio",
+    "source": "cettong-url-pattern",
+    "pageUrl": "https://www.cettong.cn/library/cet6/2018_12_2",
+    "expectedAssets": [
+      "paper pdf",
+      "answer pdf",
+      "listening mp3"
+    ],
+    "importStatus": "candidate-needs-verification",
+    "licenseStatus": "third-party-link; verify before importing files"
+  },
+  {
+    "id": "cet6-2018-12-set3",
+    "examType": "CET-6",
+    "year": 2018,
+    "month": 12,
+    "setNo": 3,
+    "title": "CET-6 2018年12月第3套真题资源候选",
+    "resourceKind": "paper-audio",
+    "source": "cettong-url-pattern",
+    "pageUrl": "https://www.cettong.cn/library/cet6/2018_12_3",
+    "expectedAssets": [
+      "paper pdf",
+      "answer pdf",
+      "listening mp3"
+    ],
+    "importStatus": "candidate-needs-verification",
+    "licenseStatus": "third-party-link; verify before importing files"
+  },
+  {
+    "id": "cet6-2017-06-set1",
+    "examType": "CET-6",
+    "year": 2017,
+    "month": 6,
+    "setNo": 1,
+    "title": "CET-6 2017年6月第1套真题资源候选",
+    "resourceKind": "paper-audio",
+    "source": "cettong-url-pattern",
+    "pageUrl": "https://www.cettong.cn/library/cet6/2017_06_1",
+    "expectedAssets": [
+      "paper pdf",
+      "answer pdf",
+      "listening mp3"
+    ],
+    "importStatus": "candidate-needs-verification",
+    "licenseStatus": "third-party-link; verify before importing files"
+  },
+  {
+    "id": "cet6-2017-06-set2",
+    "examType": "CET-6",
+    "year": 2017,
+    "month": 6,
+    "setNo": 2,
+    "title": "CET-6 2017年6月第2套真题资源候选",
+    "resourceKind": "paper-audio",
+    "source": "cettong-url-pattern",
+    "pageUrl": "https://www.cettong.cn/library/cet6/2017_06_2",
+    "expectedAssets": [
+      "paper pdf",
+      "answer pdf",
+      "listening mp3"
+    ],
+    "importStatus": "candidate-needs-verification",
+    "licenseStatus": "third-party-link; verify before importing files"
+  },
+  {
+    "id": "cet6-2017-06-set3",
+    "examType": "CET-6",
+    "year": 2017,
+    "month": 6,
+    "setNo": 3,
+    "title": "CET-6 2017年6月第3套真题资源候选",
+    "resourceKind": "paper-audio",
+    "source": "cettong-url-pattern",
+    "pageUrl": "https://www.cettong.cn/library/cet6/2017_06_3",
+    "expectedAssets": [
+      "paper pdf",
+      "answer pdf",
+      "listening mp3"
+    ],
+    "importStatus": "candidate-needs-verification",
+    "licenseStatus": "third-party-link; verify before importing files"
+  },
+  {
+    "id": "cet6-2017-12-set1",
+    "examType": "CET-6",
+    "year": 2017,
+    "month": 12,
+    "setNo": 1,
+    "title": "CET-6 2017年12月第1套真题资源候选",
+    "resourceKind": "paper-audio",
+    "source": "cettong-url-pattern",
+    "pageUrl": "https://www.cettong.cn/library/cet6/2017_12_1",
+    "expectedAssets": [
+      "paper pdf",
+      "answer pdf",
+      "listening mp3"
+    ],
+    "importStatus": "candidate-needs-verification",
+    "licenseStatus": "third-party-link; verify before importing files"
+  },
+  {
+    "id": "cet6-2017-12-set2",
+    "examType": "CET-6",
+    "year": 2017,
+    "month": 12,
+    "setNo": 2,
+    "title": "CET-6 2017年12月第2套真题资源候选",
+    "resourceKind": "paper-audio",
+    "source": "cettong-url-pattern",
+    "pageUrl": "https://www.cettong.cn/library/cet6/2017_12_2",
+    "expectedAssets": [
+      "paper pdf",
+      "answer pdf",
+      "listening mp3"
+    ],
+    "importStatus": "candidate-needs-verification",
+    "licenseStatus": "third-party-link; verify before importing files"
+  },
+  {
+    "id": "cet6-2017-12-set3",
+    "examType": "CET-6",
+    "year": 2017,
+    "month": 12,
+    "setNo": 3,
+    "title": "CET-6 2017年12月第3套真题资源候选",
+    "resourceKind": "paper-audio",
+    "source": "cettong-url-pattern",
+    "pageUrl": "https://www.cettong.cn/library/cet6/2017_12_3",
+    "expectedAssets": [
+      "paper pdf",
+      "answer pdf",
+      "listening mp3"
+    ],
+    "importStatus": "candidate-needs-verification",
+    "licenseStatus": "third-party-link; verify before importing files"
+  },
+  {
+    "id": "cet6-2016-06-set1",
+    "examType": "CET-6",
+    "year": 2016,
+    "month": 6,
+    "setNo": 1,
+    "title": "CET-6 2016年6月第1套真题资源候选",
+    "resourceKind": "paper-audio",
+    "source": "cettong-url-pattern",
+    "pageUrl": "https://www.cettong.cn/library/cet6/2016_06_1",
+    "expectedAssets": [
+      "paper pdf",
+      "answer pdf",
+      "listening mp3"
+    ],
+    "importStatus": "candidate-needs-verification",
+    "licenseStatus": "third-party-link; verify before importing files"
+  },
+  {
+    "id": "cet6-2016-06-set2",
+    "examType": "CET-6",
+    "year": 2016,
+    "month": 6,
+    "setNo": 2,
+    "title": "CET-6 2016年6月第2套真题资源候选",
+    "resourceKind": "paper-audio",
+    "source": "cettong-url-pattern",
+    "pageUrl": "https://www.cettong.cn/library/cet6/2016_06_2",
+    "expectedAssets": [
+      "paper pdf",
+      "answer pdf",
+      "listening mp3"
+    ],
+    "importStatus": "candidate-needs-verification",
+    "licenseStatus": "third-party-link; verify before importing files"
+  },
+  {
+    "id": "cet6-2016-06-set3",
+    "examType": "CET-6",
+    "year": 2016,
+    "month": 6,
+    "setNo": 3,
+    "title": "CET-6 2016年6月第3套真题资源候选",
+    "resourceKind": "paper-audio",
+    "source": "cettong-url-pattern",
+    "pageUrl": "https://www.cettong.cn/library/cet6/2016_06_3",
+    "expectedAssets": [
+      "paper pdf",
+      "answer pdf",
+      "listening mp3"
+    ],
+    "importStatus": "candidate-needs-verification",
+    "licenseStatus": "third-party-link; verify before importing files"
+  },
+  {
+    "id": "cet6-2016-12-set1",
+    "examType": "CET-6",
+    "year": 2016,
+    "month": 12,
+    "setNo": 1,
+    "title": "CET-6 2016年12月第1套真题资源候选",
+    "resourceKind": "paper-audio",
+    "source": "cettong-url-pattern",
+    "pageUrl": "https://www.cettong.cn/library/cet6/2016_12_1",
+    "expectedAssets": [
+      "paper pdf",
+      "answer pdf",
+      "listening mp3"
+    ],
+    "importStatus": "candidate-needs-verification",
+    "licenseStatus": "third-party-link; verify before importing files"
+  },
+  {
+    "id": "cet6-2016-12-set2",
+    "examType": "CET-6",
+    "year": 2016,
+    "month": 12,
+    "setNo": 2,
+    "title": "CET-6 2016年12月第2套真题资源候选",
+    "resourceKind": "paper-audio",
+    "source": "cettong-url-pattern",
+    "pageUrl": "https://www.cettong.cn/library/cet6/2016_12_2",
+    "expectedAssets": [
+      "paper pdf",
+      "answer pdf",
+      "listening mp3"
+    ],
+    "importStatus": "candidate-needs-verification",
+    "licenseStatus": "third-party-link; verify before importing files"
+  },
+  {
+    "id": "cet6-2016-12-set3",
+    "examType": "CET-6",
+    "year": 2016,
+    "month": 12,
+    "setNo": 3,
+    "title": "CET-6 2016年12月第3套真题资源候选",
+    "resourceKind": "paper-audio",
+    "source": "cettong-url-pattern",
+    "pageUrl": "https://www.cettong.cn/library/cet6/2016_12_3",
+    "expectedAssets": [
+      "paper pdf",
+      "answer pdf",
+      "listening mp3"
+    ],
+    "importStatus": "candidate-needs-verification",
+    "licenseStatus": "third-party-link; verify before importing files"
+  },
+  {
+    "id": "kaoyan-2025-english-i",
+    "examType": "KAOYAN",
+    "year": 2025,
+    "month": 12,
+    "subject": "英语一",
+    "title": "2025考研英语一真题资源候选",
+    "resourceKind": "paper-analysis",
+    "source": "search-index",
+    "pageUrl": "https://www.eduego.com/search.html?tit=2025%20%E8%80%83%E7%A0%94%E8%8B%B1%E8%AF%AD%E4%B8%80%20%E7%9C%9F%E9%A2%98%20%E8%A7%A3%E6%9E%90",
+    "fallbackSearchUrl": "https://download.chinakaoyan.com/list.html?act=search&keywords=2025%20%E8%80%83%E7%A0%94%E8%8B%B1%E8%AF%AD%E4%B8%80%20%E7%9C%9F%E9%A2%98%20%E8%A7%A3%E6%9E%90&page=1",
+    "expectedAssets": [
+      "paper",
+      "answer",
+      "analysis"
+    ],
+    "importStatus": "candidate-needs-verification",
+    "licenseStatus": "third-party-link; verify before importing files"
+  },
+  {
+    "id": "kaoyan-2025-english-ii",
+    "examType": "KAOYAN",
+    "year": 2025,
+    "month": 12,
+    "subject": "英语二",
+    "title": "2025考研英语二真题资源候选",
+    "resourceKind": "paper-analysis",
+    "source": "search-index",
+    "pageUrl": "https://www.eduego.com/search.html?tit=2025%20%E8%80%83%E7%A0%94%E8%8B%B1%E8%AF%AD%E4%BA%8C%20%E7%9C%9F%E9%A2%98%20%E8%A7%A3%E6%9E%90",
+    "fallbackSearchUrl": "https://download.chinakaoyan.com/list.html?act=search&keywords=2025%20%E8%80%83%E7%A0%94%E8%8B%B1%E8%AF%AD%E4%BA%8C%20%E7%9C%9F%E9%A2%98%20%E8%A7%A3%E6%9E%90&page=1",
+    "expectedAssets": [
+      "paper",
+      "answer",
+      "analysis"
+    ],
+    "importStatus": "candidate-needs-verification",
+    "licenseStatus": "third-party-link; verify before importing files"
+  },
+  {
+    "id": "kaoyan-2024-english-i",
+    "examType": "KAOYAN",
+    "year": 2024,
+    "month": 12,
+    "subject": "英语一",
+    "title": "2024考研英语一真题资源候选",
+    "resourceKind": "paper-analysis",
+    "source": "search-index",
+    "pageUrl": "https://www.eduego.com/search.html?tit=2024%20%E8%80%83%E7%A0%94%E8%8B%B1%E8%AF%AD%E4%B8%80%20%E7%9C%9F%E9%A2%98%20%E8%A7%A3%E6%9E%90",
+    "fallbackSearchUrl": "https://download.chinakaoyan.com/list.html?act=search&keywords=2024%20%E8%80%83%E7%A0%94%E8%8B%B1%E8%AF%AD%E4%B8%80%20%E7%9C%9F%E9%A2%98%20%E8%A7%A3%E6%9E%90&page=1",
+    "expectedAssets": [
+      "paper",
+      "answer",
+      "analysis"
+    ],
+    "importStatus": "candidate-needs-verification",
+    "licenseStatus": "third-party-link; verify before importing files"
+  },
+  {
+    "id": "kaoyan-2024-english-ii",
+    "examType": "KAOYAN",
+    "year": 2024,
+    "month": 12,
+    "subject": "英语二",
+    "title": "2024考研英语二真题资源候选",
+    "resourceKind": "paper-analysis",
+    "source": "search-index",
+    "pageUrl": "https://www.eduego.com/search.html?tit=2024%20%E8%80%83%E7%A0%94%E8%8B%B1%E8%AF%AD%E4%BA%8C%20%E7%9C%9F%E9%A2%98%20%E8%A7%A3%E6%9E%90",
+    "fallbackSearchUrl": "https://download.chinakaoyan.com/list.html?act=search&keywords=2024%20%E8%80%83%E7%A0%94%E8%8B%B1%E8%AF%AD%E4%BA%8C%20%E7%9C%9F%E9%A2%98%20%E8%A7%A3%E6%9E%90&page=1",
+    "expectedAssets": [
+      "paper",
+      "answer",
+      "analysis"
+    ],
+    "importStatus": "candidate-needs-verification",
+    "licenseStatus": "third-party-link; verify before importing files"
+  },
+  {
+    "id": "kaoyan-2023-english-i",
+    "examType": "KAOYAN",
+    "year": 2023,
+    "month": 12,
+    "subject": "英语一",
+    "title": "2023考研英语一真题资源候选",
+    "resourceKind": "paper-analysis",
+    "source": "search-index",
+    "pageUrl": "https://www.eduego.com/search.html?tit=2023%20%E8%80%83%E7%A0%94%E8%8B%B1%E8%AF%AD%E4%B8%80%20%E7%9C%9F%E9%A2%98%20%E8%A7%A3%E6%9E%90",
+    "fallbackSearchUrl": "https://download.chinakaoyan.com/list.html?act=search&keywords=2023%20%E8%80%83%E7%A0%94%E8%8B%B1%E8%AF%AD%E4%B8%80%20%E7%9C%9F%E9%A2%98%20%E8%A7%A3%E6%9E%90&page=1",
+    "expectedAssets": [
+      "paper",
+      "answer",
+      "analysis"
+    ],
+    "importStatus": "candidate-needs-verification",
+    "licenseStatus": "third-party-link; verify before importing files"
+  },
+  {
+    "id": "kaoyan-2023-english-ii",
+    "examType": "KAOYAN",
+    "year": 2023,
+    "month": 12,
+    "subject": "英语二",
+    "title": "2023考研英语二真题资源候选",
+    "resourceKind": "paper-analysis",
+    "source": "search-index",
+    "pageUrl": "https://www.eduego.com/search.html?tit=2023%20%E8%80%83%E7%A0%94%E8%8B%B1%E8%AF%AD%E4%BA%8C%20%E7%9C%9F%E9%A2%98%20%E8%A7%A3%E6%9E%90",
+    "fallbackSearchUrl": "https://download.chinakaoyan.com/list.html?act=search&keywords=2023%20%E8%80%83%E7%A0%94%E8%8B%B1%E8%AF%AD%E4%BA%8C%20%E7%9C%9F%E9%A2%98%20%E8%A7%A3%E6%9E%90&page=1",
+    "expectedAssets": [
+      "paper",
+      "answer",
+      "analysis"
+    ],
+    "importStatus": "candidate-needs-verification",
+    "licenseStatus": "third-party-link; verify before importing files"
+  },
+  {
+    "id": "kaoyan-2022-english-i",
+    "examType": "KAOYAN",
+    "year": 2022,
+    "month": 12,
+    "subject": "英语一",
+    "title": "2022考研英语一真题资源候选",
+    "resourceKind": "paper-analysis",
+    "source": "search-index",
+    "pageUrl": "https://www.eduego.com/search.html?tit=2022%20%E8%80%83%E7%A0%94%E8%8B%B1%E8%AF%AD%E4%B8%80%20%E7%9C%9F%E9%A2%98%20%E8%A7%A3%E6%9E%90",
+    "fallbackSearchUrl": "https://download.chinakaoyan.com/list.html?act=search&keywords=2022%20%E8%80%83%E7%A0%94%E8%8B%B1%E8%AF%AD%E4%B8%80%20%E7%9C%9F%E9%A2%98%20%E8%A7%A3%E6%9E%90&page=1",
+    "expectedAssets": [
+      "paper",
+      "answer",
+      "analysis"
+    ],
+    "importStatus": "candidate-needs-verification",
+    "licenseStatus": "third-party-link; verify before importing files"
+  },
+  {
+    "id": "kaoyan-2022-english-ii",
+    "examType": "KAOYAN",
+    "year": 2022,
+    "month": 12,
+    "subject": "英语二",
+    "title": "2022考研英语二真题资源候选",
+    "resourceKind": "paper-analysis",
+    "source": "search-index",
+    "pageUrl": "https://www.eduego.com/search.html?tit=2022%20%E8%80%83%E7%A0%94%E8%8B%B1%E8%AF%AD%E4%BA%8C%20%E7%9C%9F%E9%A2%98%20%E8%A7%A3%E6%9E%90",
+    "fallbackSearchUrl": "https://download.chinakaoyan.com/list.html?act=search&keywords=2022%20%E8%80%83%E7%A0%94%E8%8B%B1%E8%AF%AD%E4%BA%8C%20%E7%9C%9F%E9%A2%98%20%E8%A7%A3%E6%9E%90&page=1",
+    "expectedAssets": [
+      "paper",
+      "answer",
+      "analysis"
+    ],
+    "importStatus": "candidate-needs-verification",
+    "licenseStatus": "third-party-link; verify before importing files"
+  },
+  {
+    "id": "kaoyan-2021-english-i",
+    "examType": "KAOYAN",
+    "year": 2021,
+    "month": 12,
+    "subject": "英语一",
+    "title": "2021考研英语一真题资源候选",
+    "resourceKind": "paper-analysis",
+    "source": "search-index",
+    "pageUrl": "https://www.eduego.com/search.html?tit=2021%20%E8%80%83%E7%A0%94%E8%8B%B1%E8%AF%AD%E4%B8%80%20%E7%9C%9F%E9%A2%98%20%E8%A7%A3%E6%9E%90",
+    "fallbackSearchUrl": "https://download.chinakaoyan.com/list.html?act=search&keywords=2021%20%E8%80%83%E7%A0%94%E8%8B%B1%E8%AF%AD%E4%B8%80%20%E7%9C%9F%E9%A2%98%20%E8%A7%A3%E6%9E%90&page=1",
+    "expectedAssets": [
+      "paper",
+      "answer",
+      "analysis"
+    ],
+    "importStatus": "candidate-needs-verification",
+    "licenseStatus": "third-party-link; verify before importing files"
+  },
+  {
+    "id": "kaoyan-2021-english-ii",
+    "examType": "KAOYAN",
+    "year": 2021,
+    "month": 12,
+    "subject": "英语二",
+    "title": "2021考研英语二真题资源候选",
+    "resourceKind": "paper-analysis",
+    "source": "search-index",
+    "pageUrl": "https://www.eduego.com/search.html?tit=2021%20%E8%80%83%E7%A0%94%E8%8B%B1%E8%AF%AD%E4%BA%8C%20%E7%9C%9F%E9%A2%98%20%E8%A7%A3%E6%9E%90",
+    "fallbackSearchUrl": "https://download.chinakaoyan.com/list.html?act=search&keywords=2021%20%E8%80%83%E7%A0%94%E8%8B%B1%E8%AF%AD%E4%BA%8C%20%E7%9C%9F%E9%A2%98%20%E8%A7%A3%E6%9E%90&page=1",
+    "expectedAssets": [
+      "paper",
+      "answer",
+      "analysis"
+    ],
+    "importStatus": "candidate-needs-verification",
+    "licenseStatus": "third-party-link; verify before importing files"
+  },
+  {
+    "id": "kaoyan-2020-english-i",
+    "examType": "KAOYAN",
+    "year": 2020,
+    "month": 12,
+    "subject": "英语一",
+    "title": "2020考研英语一真题资源候选",
+    "resourceKind": "paper-analysis",
+    "source": "search-index",
+    "pageUrl": "https://www.eduego.com/search.html?tit=2020%20%E8%80%83%E7%A0%94%E8%8B%B1%E8%AF%AD%E4%B8%80%20%E7%9C%9F%E9%A2%98%20%E8%A7%A3%E6%9E%90",
+    "fallbackSearchUrl": "https://download.chinakaoyan.com/list.html?act=search&keywords=2020%20%E8%80%83%E7%A0%94%E8%8B%B1%E8%AF%AD%E4%B8%80%20%E7%9C%9F%E9%A2%98%20%E8%A7%A3%E6%9E%90&page=1",
+    "expectedAssets": [
+      "paper",
+      "answer",
+      "analysis"
+    ],
+    "importStatus": "candidate-needs-verification",
+    "licenseStatus": "third-party-link; verify before importing files"
+  },
+  {
+    "id": "kaoyan-2020-english-ii",
+    "examType": "KAOYAN",
+    "year": 2020,
+    "month": 12,
+    "subject": "英语二",
+    "title": "2020考研英语二真题资源候选",
+    "resourceKind": "paper-analysis",
+    "source": "search-index",
+    "pageUrl": "https://www.eduego.com/search.html?tit=2020%20%E8%80%83%E7%A0%94%E8%8B%B1%E8%AF%AD%E4%BA%8C%20%E7%9C%9F%E9%A2%98%20%E8%A7%A3%E6%9E%90",
+    "fallbackSearchUrl": "https://download.chinakaoyan.com/list.html?act=search&keywords=2020%20%E8%80%83%E7%A0%94%E8%8B%B1%E8%AF%AD%E4%BA%8C%20%E7%9C%9F%E9%A2%98%20%E8%A7%A3%E6%9E%90&page=1",
+    "expectedAssets": [
+      "paper",
+      "answer",
+      "analysis"
+    ],
+    "importStatus": "candidate-needs-verification",
+    "licenseStatus": "third-party-link; verify before importing files"
+  },
+  {
+    "id": "kaoyan-2019-english-i",
+    "examType": "KAOYAN",
+    "year": 2019,
+    "month": 12,
+    "subject": "英语一",
+    "title": "2019考研英语一真题资源候选",
+    "resourceKind": "paper-analysis",
+    "source": "search-index",
+    "pageUrl": "https://www.eduego.com/search.html?tit=2019%20%E8%80%83%E7%A0%94%E8%8B%B1%E8%AF%AD%E4%B8%80%20%E7%9C%9F%E9%A2%98%20%E8%A7%A3%E6%9E%90",
+    "fallbackSearchUrl": "https://download.chinakaoyan.com/list.html?act=search&keywords=2019%20%E8%80%83%E7%A0%94%E8%8B%B1%E8%AF%AD%E4%B8%80%20%E7%9C%9F%E9%A2%98%20%E8%A7%A3%E6%9E%90&page=1",
+    "expectedAssets": [
+      "paper",
+      "answer",
+      "analysis"
+    ],
+    "importStatus": "candidate-needs-verification",
+    "licenseStatus": "third-party-link; verify before importing files"
+  },
+  {
+    "id": "kaoyan-2019-english-ii",
+    "examType": "KAOYAN",
+    "year": 2019,
+    "month": 12,
+    "subject": "英语二",
+    "title": "2019考研英语二真题资源候选",
+    "resourceKind": "paper-analysis",
+    "source": "search-index",
+    "pageUrl": "https://www.eduego.com/search.html?tit=2019%20%E8%80%83%E7%A0%94%E8%8B%B1%E8%AF%AD%E4%BA%8C%20%E7%9C%9F%E9%A2%98%20%E8%A7%A3%E6%9E%90",
+    "fallbackSearchUrl": "https://download.chinakaoyan.com/list.html?act=search&keywords=2019%20%E8%80%83%E7%A0%94%E8%8B%B1%E8%AF%AD%E4%BA%8C%20%E7%9C%9F%E9%A2%98%20%E8%A7%A3%E6%9E%90&page=1",
+    "expectedAssets": [
+      "paper",
+      "answer",
+      "analysis"
+    ],
+    "importStatus": "candidate-needs-verification",
+    "licenseStatus": "third-party-link; verify before importing files"
+  },
+  {
+    "id": "kaoyan-2018-english-i",
+    "examType": "KAOYAN",
+    "year": 2018,
+    "month": 12,
+    "subject": "英语一",
+    "title": "2018考研英语一真题资源候选",
+    "resourceKind": "paper-analysis",
+    "source": "search-index",
+    "pageUrl": "https://www.eduego.com/search.html?tit=2018%20%E8%80%83%E7%A0%94%E8%8B%B1%E8%AF%AD%E4%B8%80%20%E7%9C%9F%E9%A2%98%20%E8%A7%A3%E6%9E%90",
+    "fallbackSearchUrl": "https://download.chinakaoyan.com/list.html?act=search&keywords=2018%20%E8%80%83%E7%A0%94%E8%8B%B1%E8%AF%AD%E4%B8%80%20%E7%9C%9F%E9%A2%98%20%E8%A7%A3%E6%9E%90&page=1",
+    "expectedAssets": [
+      "paper",
+      "answer",
+      "analysis"
+    ],
+    "importStatus": "candidate-needs-verification",
+    "licenseStatus": "third-party-link; verify before importing files"
+  },
+  {
+    "id": "kaoyan-2018-english-ii",
+    "examType": "KAOYAN",
+    "year": 2018,
+    "month": 12,
+    "subject": "英语二",
+    "title": "2018考研英语二真题资源候选",
+    "resourceKind": "paper-analysis",
+    "source": "search-index",
+    "pageUrl": "https://www.eduego.com/search.html?tit=2018%20%E8%80%83%E7%A0%94%E8%8B%B1%E8%AF%AD%E4%BA%8C%20%E7%9C%9F%E9%A2%98%20%E8%A7%A3%E6%9E%90",
+    "fallbackSearchUrl": "https://download.chinakaoyan.com/list.html?act=search&keywords=2018%20%E8%80%83%E7%A0%94%E8%8B%B1%E8%AF%AD%E4%BA%8C%20%E7%9C%9F%E9%A2%98%20%E8%A7%A3%E6%9E%90&page=1",
+    "expectedAssets": [
+      "paper",
+      "answer",
+      "analysis"
+    ],
+    "importStatus": "candidate-needs-verification",
+    "licenseStatus": "third-party-link; verify before importing files"
+  },
+  {
+    "id": "kaoyan-2017-english-i",
+    "examType": "KAOYAN",
+    "year": 2017,
+    "month": 12,
+    "subject": "英语一",
+    "title": "2017考研英语一真题资源候选",
+    "resourceKind": "paper-analysis",
+    "source": "search-index",
+    "pageUrl": "https://www.eduego.com/search.html?tit=2017%20%E8%80%83%E7%A0%94%E8%8B%B1%E8%AF%AD%E4%B8%80%20%E7%9C%9F%E9%A2%98%20%E8%A7%A3%E6%9E%90",
+    "fallbackSearchUrl": "https://download.chinakaoyan.com/list.html?act=search&keywords=2017%20%E8%80%83%E7%A0%94%E8%8B%B1%E8%AF%AD%E4%B8%80%20%E7%9C%9F%E9%A2%98%20%E8%A7%A3%E6%9E%90&page=1",
+    "expectedAssets": [
+      "paper",
+      "answer",
+      "analysis"
+    ],
+    "importStatus": "candidate-needs-verification",
+    "licenseStatus": "third-party-link; verify before importing files"
+  },
+  {
+    "id": "kaoyan-2017-english-ii",
+    "examType": "KAOYAN",
+    "year": 2017,
+    "month": 12,
+    "subject": "英语二",
+    "title": "2017考研英语二真题资源候选",
+    "resourceKind": "paper-analysis",
+    "source": "search-index",
+    "pageUrl": "https://www.eduego.com/search.html?tit=2017%20%E8%80%83%E7%A0%94%E8%8B%B1%E8%AF%AD%E4%BA%8C%20%E7%9C%9F%E9%A2%98%20%E8%A7%A3%E6%9E%90",
+    "fallbackSearchUrl": "https://download.chinakaoyan.com/list.html?act=search&keywords=2017%20%E8%80%83%E7%A0%94%E8%8B%B1%E8%AF%AD%E4%BA%8C%20%E7%9C%9F%E9%A2%98%20%E8%A7%A3%E6%9E%90&page=1",
+    "expectedAssets": [
+      "paper",
+      "answer",
+      "analysis"
+    ],
+    "importStatus": "candidate-needs-verification",
+    "licenseStatus": "third-party-link; verify before importing files"
+  },
+  {
+    "id": "kaoyan-2016-english-i",
+    "examType": "KAOYAN",
+    "year": 2016,
+    "month": 12,
+    "subject": "英语一",
+    "title": "2016考研英语一真题资源候选",
+    "resourceKind": "paper-analysis",
+    "source": "search-index",
+    "pageUrl": "https://www.eduego.com/search.html?tit=2016%20%E8%80%83%E7%A0%94%E8%8B%B1%E8%AF%AD%E4%B8%80%20%E7%9C%9F%E9%A2%98%20%E8%A7%A3%E6%9E%90",
+    "fallbackSearchUrl": "https://download.chinakaoyan.com/list.html?act=search&keywords=2016%20%E8%80%83%E7%A0%94%E8%8B%B1%E8%AF%AD%E4%B8%80%20%E7%9C%9F%E9%A2%98%20%E8%A7%A3%E6%9E%90&page=1",
+    "expectedAssets": [
+      "paper",
+      "answer",
+      "analysis"
+    ],
+    "importStatus": "candidate-needs-verification",
+    "licenseStatus": "third-party-link; verify before importing files"
+  },
+  {
+    "id": "kaoyan-2016-english-ii",
+    "examType": "KAOYAN",
+    "year": 2016,
+    "month": 12,
+    "subject": "英语二",
+    "title": "2016考研英语二真题资源候选",
+    "resourceKind": "paper-analysis",
+    "source": "search-index",
+    "pageUrl": "https://www.eduego.com/search.html?tit=2016%20%E8%80%83%E7%A0%94%E8%8B%B1%E8%AF%AD%E4%BA%8C%20%E7%9C%9F%E9%A2%98%20%E8%A7%A3%E6%9E%90",
+    "fallbackSearchUrl": "https://download.chinakaoyan.com/list.html?act=search&keywords=2016%20%E8%80%83%E7%A0%94%E8%8B%B1%E8%AF%AD%E4%BA%8C%20%E7%9C%9F%E9%A2%98%20%E8%A7%A3%E6%9E%90&page=1",
+    "expectedAssets": [
+      "paper",
+      "answer",
+      "analysis"
+    ],
+    "importStatus": "candidate-needs-verification",
+    "licenseStatus": "third-party-link; verify before importing files"
+  }
+]

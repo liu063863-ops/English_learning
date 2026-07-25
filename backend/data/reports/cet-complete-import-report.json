@@ -1,0 +1,94 @@
+{
+  "generated_at": "2026-07-24T02:11:50.118Z",
+  "mode": "dry-run",
+  "inputs": {
+    "papersPath": "backend/data/imported/cet_repo_papers.robust.json",
+    "extractedDir": "backend/data/extracted/robust-import",
+    "mongoUri": "",
+    "download": false
+  },
+  "summary": {
+    "completePapers": 2,
+    "incompletePapers": 3,
+    "parsed": 0,
+    "insertedExams": 0,
+    "updatedExams": 0,
+    "skippedExisting": 0,
+    "failed": 0
+  },
+  "incompletePapers": [
+    {
+      "paperId": "cet6-2016-12-1",
+      "key": "CET6:2016:12:1:past_exam",
+      "level": "CET6",
+      "year": 2016,
+      "month": 12,
+      "set_num": 1,
+      "warnings": [
+        "missing_audio_file"
+      ]
+    },
+    {
+      "paperId": "cet6-2016-6-1",
+      "key": "CET6:2016:6:1:past_exam",
+      "level": "CET6",
+      "year": 2016,
+      "month": 6,
+      "set_num": 1,
+      "warnings": [
+        "missing_audio_file"
+      ]
+    },
+    {
+      "paperId": "cet6-2015-12-1",
+      "key": "CET6:2015:12:1:past_exam",
+      "level": "CET6",
+      "year": 2015,
+      "month": 12,
+      "set_num": 1,
+      "warnings": [
+        "missing_audio_file"
+      ]
+    }
+  ],
+  "papers": [
+    {
+      "paper": {
+        "paperId": "cet4-2023-3-1",
+        "key": "CET4:2023:3:1:past_exam",
+        "level": "CET4",
+        "year": 2023,
+        "month": 3,
+        "set_num": 1,
+        "warnings": []
+      },
+      "started_at": "2026-07-24T02:11:50.120Z",
+      "parsed": false,
+      "outputJson": "C:\\Users\\liujinhao\\Documents\\New project\\kaoyan-english-lab\\backend\\data\\extracted\\robust-import\\cet4-2023-3-1.mongo-import.json",
+      "action": "needs_parse",
+      "status": "dry_run",
+      "errors": [
+        "缺少解析输出。加 --download 后脚本会下载 PDF/MP3 并调用 PDF 解析器。"
+      ]
+    },
+    {
+      "paper": {
+        "paperId": "cet4-2023-3-2",
+        "key": "CET4:2023:3:2:past_exam",
+        "level": "CET4",
+        "year": 2023,
+        "month": 3,
+        "set_num": 2,
+        "warnings": []
+      },
+      "started_at": "2026-07-24T02:11:50.120Z",
+      "parsed": false,
+      "outputJson": "C:\\Users\\liujinhao\\Documents\\New project\\kaoyan-english-lab\\backend\\data\\extracted\\robust-import\\cet4-2023-3-2.mongo-import.json",
+      "action": "needs_parse",
+      "status": "dry_run",
+      "errors": [
+        "缺少解析输出。加 --download 后脚本会下载 PDF/MP3 并调用 PDF 解析器。"
+      ]
+    }
+  ]
+}

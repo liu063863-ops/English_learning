@@ -1,0 +1,48 @@
+{
+  "generated_at": "2026-07-24T06:05:28.841Z",
+  "mode": "apply",
+  "database": {
+    "requested": "sqlite",
+    "selected": "sqlite"
+  },
+  "inputs": {
+    "papersPath": "C:\\Users\\liujinhao\\Documents\\New project\\kaoyan-english-lab\\backend\\data\\imported\\_timeout_batches\\012-cet4-2020-12-2.json",
+    "extractedDir": "backend/data/extracted/robust-import",
+    "sqlitePath": "backend\\data\\english_exam.db",
+    "mongoUri": "mongodb://127.0.0.1:27017/english_exam",
+    "download": true
+  },
+  "summary": {
+    "completePapers": 1,
+    "incompletePapers": 0,
+    "parsed": 1,
+    "insertedOrUpdated": 0,
+    "skippedExisting": 0,
+    "failed": 1
+  },
+  "incompletePapers": [],
+  "papers": [
+    {
+      "paper": {
+        "paperId": "cet4-2020-12-2",
+        "key": "CET4:2020:12:2:past_exam",
+        "level": "CET4",
+        "year": 2020,
+        "month": 12,
+        "set_num": 2,
+        "warnings": []
+      },
+      "parsed": true,
+      "outputJson": "C:\\Users\\liujinhao\\Documents\\New project\\kaoyan-english-lab\\backend\\data\\extracted\\robust-import\\cet4-2020-12-2.mongo-import.json",
+      "action": "planned",
+      "status": "failed",
+      "errors": [
+        "SQLite bridge failed with exit code 1: Traceback (most recent call last):\r\n  File \"C:\\Users\\liujinhao\\Documents\\New project\\kaoyan-english-lab\\scripts\\sqliteQuestionBankBridge.py\", line 405, in <module>\r\n    main()\r\n  File \"C:\\Users\\liujinhao\\Documents\\New project\\kaoyan-english-lab\\scripts\\sqliteQuestionBankBridge.py\", line 29, in main\r\n    result = import_payload(conn, request.get(\"payload\") or {})\r\n             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\r\n  File \"C:\\Users\\liujinhao\\Documents\\New project\\kaoyan-english-lab\\scripts\\sqliteQuestionBankBridge.py\", line 87, in import_payload\r\n    upsert_exam(conn, exam)\r\n  File \"C:\\Users\\liujinhao\\Documents\\New project\\kaoyan-english-lab\\scripts\\sqliteQuestionBankBridge.py\", line 103, in upsert_exam\r\n    conn.execute(\r\nUnicodeEncodeError: 'utf-8' codec can't encode character '\\udcbb' in position 118: surrogates not allowed\r\n"
+      ],
+      "validation": {
+        "passed": true,
+        "errors": []
+      }
+    }
+  ]
+}

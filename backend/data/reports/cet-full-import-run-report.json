@@ -1,0 +1,44 @@
+{
+  "startedAt": "2026-07-24T03:28:35.260Z",
+  "projectRoot": "C:\\Users\\liujinhao\\Documents\\New project\\kaoyan-english-lab",
+  "selectedDb": "sqlite",
+  "steps": [
+    {
+      "name": "Environment check",
+      "startedAt": "2026-07-24T03:28:35.262Z",
+      "status": "success",
+      "finishedAt": "2026-07-24T03:28:35.366Z",
+      "durationMs": 104
+    },
+    {
+      "name": "Check current database state",
+      "startedAt": "2026-07-24T03:28:35.366Z",
+      "status": "success",
+      "finishedAt": "2026-07-24T03:28:35.608Z",
+      "durationMs": 242
+    },
+    {
+      "name": "Dry-run import",
+      "startedAt": "2026-07-24T03:28:35.608Z",
+      "status": "success",
+      "finishedAt": "2026-07-24T03:28:35.686Z",
+      "durationMs": 78
+    },
+    {
+      "name": "Apply idempotent import",
+      "startedAt": "2026-07-24T03:28:35.686Z",
+      "status": "success",
+      "finishedAt": "2026-07-24T03:28:35.841Z",
+      "durationMs": 155
+    },
+    {
+      "name": "Final verification",
+      "startedAt": "2026-07-24T03:28:35.841Z",
+      "status": "success",
+      "finishedAt": "2026-07-24T03:28:36.050Z",
+      "durationMs": 209
+    }
+  ],
+  "ok": true,
+  "finishedAt": "2026-07-24T03:28:36.051Z"
+}

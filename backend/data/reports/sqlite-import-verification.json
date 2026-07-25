@@ -1,0 +1,274 @@
+{
+  "generated_at": "2026-07-24T08:54:39.592Z",
+  "database": {
+    "type": "sqlite",
+    "path": "C:\\Users\\liujinhao\\Documents\\New project\\kaoyan-english-lab\\backend\\data\\english_exam.db"
+  },
+  "expected": {
+    "completePaperCount": 67
+  },
+  "totals": {
+    "exams": 67,
+    "sections": 268,
+    "questions": 268,
+    "audioFiles": 67,
+    "passages": 67
+  },
+  "byYear": [
+    {
+      "year": 2023,
+      "month": 3,
+      "level": "CET4",
+      "count": 3
+    },
+    {
+      "year": 2023,
+      "month": 3,
+      "level": "CET6",
+      "count": 3
+    },
+    {
+      "year": 2022,
+      "month": 6,
+      "level": "CET4",
+      "count": 3
+    },
+    {
+      "year": 2022,
+      "month": 6,
+      "level": "CET6",
+      "count": 1
+    },
+    {
+      "year": 2021,
+      "month": 12,
+      "level": "CET4",
+      "count": 1
+    },
+    {
+      "year": 2021,
+      "month": 12,
+      "level": "CET6",
+      "count": 2
+    },
+    {
+      "year": 2021,
+      "month": 6,
+      "level": "CET4",
+      "count": 3
+    },
+    {
+      "year": 2021,
+      "month": 6,
+      "level": "CET6",
+      "count": 3
+    },
+    {
+      "year": 2020,
+      "month": 12,
+      "level": "CET4",
+      "count": 3
+    },
+    {
+      "year": 2020,
+      "month": 12,
+      "level": "CET6",
+      "count": 3
+    },
+    {
+      "year": 2020,
+      "month": 9,
+      "level": "CET4",
+      "count": 2
+    },
+    {
+      "year": 2020,
+      "month": 9,
+      "level": "CET6",
+      "count": 2
+    },
+    {
+      "year": 2020,
+      "month": 7,
+      "level": "CET4",
+      "count": 1
+    },
+    {
+      "year": 2020,
+      "month": 7,
+      "level": "CET6",
+      "count": 1
+    },
+    {
+      "year": 2019,
+      "month": 12,
+      "level": "CET4",
+      "count": 3
+    },
+    {
+      "year": 2019,
+      "month": 12,
+      "level": "CET6",
+      "count": 3
+    },
+    {
+      "year": 2019,
+      "month": 6,
+      "level": "CET4",
+      "count": 3
+    },
+    {
+      "year": 2019,
+      "month": 6,
+      "level": "CET6",
+      "count": 3
+    },
+    {
+      "year": 2018,
+      "month": 12,
+      "level": "CET4",
+      "count": 3
+    },
+    {
+      "year": 2018,
+      "month": 12,
+      "level": "CET6",
+      "count": 3
+    },
+    {
+      "year": 2018,
+      "month": 6,
+      "level": "CET4",
+      "count": 3
+    },
+    {
+      "year": 2018,
+      "month": 6,
+      "level": "CET6",
+      "count": 3
+    },
+    {
+      "year": 2017,
+      "month": 12,
+      "level": "CET4",
+      "count": 2
+    },
+    {
+      "year": 2017,
+      "month": 12,
+      "level": "CET6",
+      "count": 2
+    },
+    {
+      "year": 2017,
+      "month": 6,
+      "level": "CET4",
+      "count": 1
+    },
+    {
+      "year": 2017,
+      "month": 6,
+      "level": "CET6",
+      "count": 2
+    },
+    {
+      "year": 2016,
+      "month": 12,
+      "level": "CET4",
+      "count": 1
+    },
+    {
+      "year": 2016,
+      "month": 6,
+      "level": "CET4",
+      "count": 3
+    },
+    {
+      "year": 2015,
+      "month": 12,
+      "level": "CET4",
+      "count": 1
+    }
+  ],
+  "bySectionType": [
+    {
+      "section_type": "listening",
+      "question_count": 67
+    },
+    {
+      "section_type": "reading",
+      "question_count": 67
+    },
+    {
+      "section_type": "translation",
+      "question_count": 67
+    },
+    {
+      "section_type": "writing",
+      "question_count": 67
+    }
+  ],
+  "missingExpectedCount": 0,
+  "missingExpectedKeys": [],
+  "failedImportReport": {
+    "path": "",
+    "failedPapers": []
+  },
+  "sampleChecks": [
+    {
+      "examId": "7df2436ab6ad4ca557b4d470",
+      "title": "2023-3 CET4 Set 1",
+      "level": "CET4",
+      "year": 2023,
+      "month": 3,
+      "set_num": 1,
+      "missingSections": [],
+      "sectionQuestionCounts": {
+        "listening": 1,
+        "reading": 1,
+        "translation": 1,
+        "writing": 1
+      },
+      "audioFiles": 1,
+      "passages": 1,
+      "structureOk": true
+    },
+    {
+      "examId": "4e3eeeb280ff77665aee722a",
+      "title": "2023-3 CET4 Set 2",
+      "level": "CET4",
+      "year": 2023,
+      "month": 3,
+      "set_num": 2,
+      "missingSections": [],
+      "sectionQuestionCounts": {
+        "listening": 1,
+        "reading": 1,
+        "translation": 1,
+        "writing": 1
+      },
+      "audioFiles": 1,
+      "passages": 1,
+      "structureOk": true
+    },
+    {
+      "examId": "8ac5b0e92b2ad3c049462101",
+      "title": "2023-3 CET4 Set 3",
+      "level": "CET4",
+      "year": 2023,
+      "month": 3,
+      "set_num": 3,
+      "missingSections": [],
+      "sectionQuestionCounts": {
+        "listening": 1,
+        "reading": 1,
+        "translation": 1,
+        "writing": 1
+      },
+      "audioFiles": 1,
+      "passages": 1,
+      "structureOk": true
+    }
+  ],
+  "verdict": "pass"
+}

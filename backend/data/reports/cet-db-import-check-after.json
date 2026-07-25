@@ -1,0 +1,1110 @@
+{
+  "generated_at": "2026-07-24T03:28:35.902Z",
+  "inputs": {
+    "papersPath": "backend\\data\\imported\\cet_repo_papers.robust.json",
+    "db": "sqlite",
+    "sqlitePath": "backend\\data\\english_exam.db",
+    "mongoUri": "mongodb://127.0.0.1:27017/english_exam"
+  },
+  "expected": {
+    "paperCount": 70,
+    "completePaperCount": 67,
+    "incompletePaperCount": 3,
+    "expectedImportedCount": 67
+  },
+  "database": {
+    "selected": "sqlite",
+    "connected": true,
+    "examCount": 0,
+    "importedCompleteCount": 0,
+    "missingCompleteCount": 67
+  },
+  "missingPapers": [
+    {
+      "paperId": "cet4-2023-3-1",
+      "key": "CET4:2023:3:1:past_exam",
+      "level": "CET4",
+      "year": 2023,
+      "month": 3,
+      "set_num": 1,
+      "completeness": {
+        "hasQuestion": true,
+        "hasAnswer": true,
+        "hasAudio": true,
+        "score": 100
+      },
+      "warnings": []
+    },
+    {
+      "paperId": "cet4-2023-3-2",
+      "key": "CET4:2023:3:2:past_exam",
+      "level": "CET4",
+      "year": 2023,
+      "month": 3,
+      "set_num": 2,
+      "completeness": {
+        "hasQuestion": true,
+        "hasAnswer": true,
+        "hasAudio": true,
+        "score": 100
+      },
+      "warnings": []
+    },
+    {
+      "paperId": "cet4-2023-3-3",
+      "key": "CET4:2023:3:3:past_exam",
+      "level": "CET4",
+      "year": 2023,
+      "month": 3,
+      "set_num": 3,
+      "completeness": {
+        "hasQuestion": true,
+        "hasAnswer": true,
+        "hasAudio": true,
+        "score": 100
+      },
+      "warnings": []
+    },
+    {
+      "paperId": "cet4-2022-6-1",
+      "key": "CET4:2022:6:1:past_exam",
+      "level": "CET4",
+      "year": 2022,
+      "month": 6,
+      "set_num": 1,
+      "completeness": {
+        "hasQuestion": true,
+        "hasAnswer": true,
+        "hasAudio": true,
+        "score": 100
+      },
+      "warnings": []
+    },
+    {
+      "paperId": "cet4-2022-6-2",
+      "key": "CET4:2022:6:2:past_exam",
+      "level": "CET4",
+      "year": 2022,
+      "month": 6,
+      "set_num": 2,
+      "completeness": {
+        "hasQuestion": true,
+        "hasAnswer": true,
+        "hasAudio": true,
+        "score": 100
+      },
+      "warnings": []
+    },
+    {
+      "paperId": "cet4-2022-6-3",
+      "key": "CET4:2022:6:3:past_exam",
+      "level": "CET4",
+      "year": 2022,
+      "month": 6,
+      "set_num": 3,
+      "completeness": {
+        "hasQuestion": true,
+        "hasAnswer": true,
+        "hasAudio": true,
+        "score": 100
+      },
+      "warnings": []
+    },
+    {
+      "paperId": "cet4-2021-12-1",
+      "key": "CET4:2021:12:1:past_exam",
+      "level": "CET4",
+      "year": 2021,
+      "month": 12,
+      "set_num": 1,
+      "completeness": {
+        "hasQuestion": true,
+        "hasAnswer": true,
+        "hasAudio": true,
+        "score": 100
+      },
+      "warnings": []
+    },
+    {
+      "paperId": "cet4-2021-6-1",
+      "key": "CET4:2021:6:1:past_exam",
+      "level": "CET4",
+      "year": 2021,
+      "month": 6,
+      "set_num": 1,
+      "completeness": {
+        "hasQuestion": true,
+        "hasAnswer": true,
+        "hasAudio": true,
+        "score": 100
+      },
+      "warnings": []
+    },
+    {
+      "paperId": "cet4-2021-6-2",
+      "key": "CET4:2021:6:2:past_exam",
+      "level": "CET4",
+      "year": 2021,
+      "month": 6,
+      "set_num": 2,
+      "completeness": {
+        "hasQuestion": true,
+        "hasAnswer": true,
+        "hasAudio": true,
+        "score": 100
+      },
+      "warnings": []
+    },
+    {
+      "paperId": "cet4-2021-6-3",
+      "key": "CET4:2021:6:3:past_exam",
+      "level": "CET4",
+      "year": 2021,
+      "month": 6,
+      "set_num": 3,
+      "completeness": {
+        "hasQuestion": true,
+        "hasAnswer": true,
+        "hasAudio": true,
+        "score": 100
+      },
+      "warnings": []
+    },
+    {
+      "paperId": "cet4-2020-12-1",
+      "key": "CET4:2020:12:1:past_exam",
+      "level": "CET4",
+      "year": 2020,
+      "month": 12,
+      "set_num": 1,
+      "completeness": {
+        "hasQuestion": true,
+        "hasAnswer": true,
+        "hasAudio": true,
+        "score": 100
+      },
+      "warnings": []
+    },
+    {
+      "paperId": "cet4-2020-12-2",
+      "key": "CET4:2020:12:2:past_exam",
+      "level": "CET4",
+      "year": 2020,
+      "month": 12,
+      "set_num": 2,
+      "completeness": {
+        "hasQuestion": true,
+        "hasAnswer": true,
+        "hasAudio": true,
+        "score": 100
+      },
+      "warnings": []
+    },
+    {
+      "paperId": "cet4-2020-12-3",
+      "key": "CET4:2020:12:3:past_exam",
+      "level": "CET4",
+      "year": 2020,
+      "month": 12,
+      "set_num": 3,
+      "completeness": {
+        "hasQuestion": true,
+        "hasAnswer": true,
+        "hasAudio": true,
+        "score": 100
+      },
+      "warnings": []
+    },
+    {
+      "paperId": "cet4-2020-9-1",
+      "key": "CET4:2020:9:1:past_exam",
+      "level": "CET4",
+      "year": 2020,
+      "month": 9,
+      "set_num": 1,
+      "completeness": {
+        "hasQuestion": true,
+        "hasAnswer": true,
+        "hasAudio": true,
+        "score": 100
+      },
+      "warnings": []
+    },
+    {
+      "paperId": "cet4-2020-9-2",
+      "key": "CET4:2020:9:2:past_exam",
+      "level": "CET4",
+      "year": 2020,
+      "month": 9,
+      "set_num": 2,
+      "completeness": {
+        "hasQuestion": true,
+        "hasAnswer": true,
+        "hasAudio": true,
+        "score": 100
+      },
+      "warnings": []
+    },
+    {
+      "paperId": "cet4-2020-7-1",
+      "key": "CET4:2020:7:1:past_exam",
+      "level": "CET4",
+      "year": 2020,
+      "month": 7,
+      "set_num": 1,
+      "completeness": {
+        "hasQuestion": true,
+        "hasAnswer": true,
+        "hasAudio": true,
+        "score": 100
+      },
+      "warnings": [
+        "audio_fallback_needs_review"
+      ]
+    },
+    {
+      "paperId": "cet4-2019-12-1",
+      "key": "CET4:2019:12:1:past_exam",
+      "level": "CET4",
+      "year": 2019,
+      "month": 12,
+      "set_num": 1,
+      "completeness": {
+        "hasQuestion": true,
+        "hasAnswer": true,
+        "hasAudio": true,
+        "score": 100
+      },
+      "warnings": []
+    },
+    {
+      "paperId": "cet4-2019-12-2",
+      "key": "CET4:2019:12:2:past_exam",
+      "level": "CET4",
+      "year": 2019,
+      "month": 12,
+      "set_num": 2,
+      "completeness": {
+        "hasQuestion": true,
+        "hasAnswer": true,
+        "hasAudio": true,
+        "score": 100
+      },
+      "warnings": []
+    },
+    {
+      "paperId": "cet4-2019-12-3",
+      "key": "CET4:2019:12:3:past_exam",
+      "level": "CET4",
+      "year": 2019,
+      "month": 12,
+      "set_num": 3,
+      "completeness": {
+        "hasQuestion": true,
+        "hasAnswer": true,
+        "hasAudio": true,
+        "score": 100
+      },
+      "warnings": []
+    },
+    {
+      "paperId": "cet4-2019-6-1",
+      "key": "CET4:2019:6:1:past_exam",
+      "level": "CET4",
+      "year": 2019,
+      "month": 6,
+      "set_num": 1,
+      "completeness": {
+        "hasQuestion": true,
+        "hasAnswer": true,
+        "hasAudio": true,
+        "score": 100
+      },
+      "warnings": [
+        "audio_fallback_needs_review"
+      ]
+    },
+    {
+      "paperId": "cet4-2019-6-2",
+      "key": "CET4:2019:6:2:past_exam",
+      "level": "CET4",
+      "year": 2019,
+      "month": 6,
+      "set_num": 2,
+      "completeness": {
+        "hasQuestion": true,
+        "hasAnswer": true,
+        "hasAudio": true,
+        "score": 100
+      },
+      "warnings": [
+        "audio_fallback_needs_review"
+      ]
+    },
+    {
+      "paperId": "cet4-2019-6-3",
+      "key": "CET4:2019:6:3:past_exam",
+      "level": "CET4",
+      "year": 2019,
+      "month": 6,
+      "set_num": 3,
+      "completeness": {
+        "hasQuestion": true,
+        "hasAnswer": true,
+        "hasAudio": true,
+        "score": 100
+      },
+      "warnings": [
+        "audio_fallback_needs_review"
+      ]
+    },
+    {
+      "paperId": "cet4-2018-12-1",
+      "key": "CET4:2018:12:1:past_exam",
+      "level": "CET4",
+      "year": 2018,
+      "month": 12,
+      "set_num": 1,
+      "completeness": {
+        "hasQuestion": true,
+        "hasAnswer": true,
+        "hasAudio": true,
+        "score": 100
+      },
+      "warnings": []
+    },
+    {
+      "paperId": "cet4-2018-12-2",
+      "key": "CET4:2018:12:2:past_exam",
+      "level": "CET4",
+      "year": 2018,
+      "month": 12,
+      "set_num": 2,
+      "completeness": {
+        "hasQuestion": true,
+        "hasAnswer": true,
+        "hasAudio": true,
+        "score": 100
+      },
+      "warnings": []
+    },
+    {
+      "paperId": "cet4-2018-12-3",
+      "key": "CET4:2018:12:3:past_exam",
+      "level": "CET4",
+      "year": 2018,
+      "month": 12,
+      "set_num": 3,
+      "completeness": {
+        "hasQuestion": true,
+        "hasAnswer": true,
+        "hasAudio": true,
+        "score": 100
+      },
+      "warnings": []
+    },
+    {
+      "paperId": "cet4-2018-6-1",
+      "key": "CET4:2018:6:1:past_exam",
+      "level": "CET4",
+      "year": 2018,
+      "month": 6,
+      "set_num": 1,
+      "completeness": {
+        "hasQuestion": true,
+        "hasAnswer": true,
+        "hasAudio": true,
+        "score": 100
+      },
+      "warnings": []
+    },
+    {
+      "paperId": "cet4-2018-6-2",
+      "key": "CET4:2018:6:2:past_exam",
+      "level": "CET4",
+      "year": 2018,
+      "month": 6,
+      "set_num": 2,
+      "completeness": {
+        "hasQuestion": true,
+        "hasAnswer": true,
+        "hasAudio": true,
+        "score": 100
+      },
+      "warnings": []
+    },
+    {
+      "paperId": "cet4-2018-6-3",
+      "key": "CET4:2018:6:3:past_exam",
+      "level": "CET4",
+      "year": 2018,
+      "month": 6,
+      "set_num": 3,
+      "completeness": {
+        "hasQuestion": true,
+        "hasAnswer": true,
+        "hasAudio": true,
+        "score": 100
+      },
+      "warnings": []
+    },
+    {
+      "paperId": "cet4-2017-12-1",
+      "key": "CET4:2017:12:1:past_exam",
+      "level": "CET4",
+      "year": 2017,
+      "month": 12,
+      "set_num": 1,
+      "completeness": {
+        "hasQuestion": true,
+        "hasAnswer": true,
+        "hasAudio": true,
+        "score": 100
+      },
+      "warnings": []
+    },
+    {
+      "paperId": "cet4-2017-12-2",
+      "key": "CET4:2017:12:2:past_exam",
+      "level": "CET4",
+      "year": 2017,
+      "month": 12,
+      "set_num": 2,
+      "completeness": {
+        "hasQuestion": true,
+        "hasAnswer": true,
+        "hasAudio": true,
+        "score": 100
+      },
+      "warnings": []
+    },
+    {
+      "paperId": "cet4-2017-6-1",
+      "key": "CET4:2017:6:1:past_exam",
+      "level": "CET4",
+      "year": 2017,
+      "month": 6,
+      "set_num": 1,
+      "completeness": {
+        "hasQuestion": true,
+        "hasAnswer": true,
+        "hasAudio": true,
+        "score": 100
+      },
+      "warnings": []
+    },
+    {
+      "paperId": "cet4-2016-12-1",
+      "key": "CET4:2016:12:1:past_exam",
+      "level": "CET4",
+      "year": 2016,
+      "month": 12,
+      "set_num": 1,
+      "completeness": {
+        "hasQuestion": true,
+        "hasAnswer": true,
+        "hasAudio": true,
+        "score": 100
+      },
+      "warnings": []
+    },
+    {
+      "paperId": "cet4-2016-6-1",
+      "key": "CET4:2016:6:1:past_exam",
+      "level": "CET4",
+      "year": 2016,
+      "month": 6,
+      "set_num": 1,
+      "completeness": {
+        "hasQuestion": true,
+        "hasAnswer": true,
+        "hasAudio": true,
+        "score": 100
+      },
+      "warnings": []
+    },
+    {
+      "paperId": "cet4-2016-6-2",
+      "key": "CET4:2016:6:2:past_exam",
+      "level": "CET4",
+      "year": 2016,
+      "month": 6,
+      "set_num": 2,
+      "completeness": {
+        "hasQuestion": true,
+        "hasAnswer": true,
+        "hasAudio": true,
+        "score": 100
+      },
+      "warnings": []
+    },
+    {
+      "paperId": "cet4-2016-6-3",
+      "key": "CET4:2016:6:3:past_exam",
+      "level": "CET4",
+      "year": 2016,
+      "month": 6,
+      "set_num": 3,
+      "completeness": {
+        "hasQuestion": true,
+        "hasAnswer": true,
+        "hasAudio": true,
+        "score": 100
+      },
+      "warnings": []
+    },
+    {
+      "paperId": "cet4-2015-12-1",
+      "key": "CET4:2015:12:1:past_exam",
+      "level": "CET4",
+      "year": 2015,
+      "month": 12,
+      "set_num": 1,
+      "completeness": {
+        "hasQuestion": true,
+        "hasAnswer": true,
+        "hasAudio": true,
+        "score": 100
+      },
+      "warnings": []
+    },
+    {
+      "paperId": "cet6-2023-3-1",
+      "key": "CET6:2023:3:1:past_exam",
+      "level": "CET6",
+      "year": 2023,
+      "month": 3,
+      "set_num": 1,
+      "completeness": {
+        "hasQuestion": true,
+        "hasAnswer": true,
+        "hasAudio": true,
+        "score": 100
+      },
+      "warnings": []
+    },
+    {
+      "paperId": "cet6-2023-3-2",
+      "key": "CET6:2023:3:2:past_exam",
+      "level": "CET6",
+      "year": 2023,
+      "month": 3,
+      "set_num": 2,
+      "completeness": {
+        "hasQuestion": true,
+        "hasAnswer": true,
+        "hasAudio": true,
+        "score": 100
+      },
+      "warnings": []
+    },
+    {
+      "paperId": "cet6-2023-3-3",
+      "key": "CET6:2023:3:3:past_exam",
+      "level": "CET6",
+      "year": 2023,
+      "month": 3,
+      "set_num": 3,
+      "completeness": {
+        "hasQuestion": true,
+        "hasAnswer": true,
+        "hasAudio": true,
+        "score": 100
+      },
+      "warnings": []
+    },
+    {
+      "paperId": "cet6-2022-6-1",
+      "key": "CET6:2022:6:1:past_exam",
+      "level": "CET6",
+      "year": 2022,
+      "month": 6,
+      "set_num": 1,
+      "completeness": {
+        "hasQuestion": true,
+        "hasAnswer": true,
+        "hasAudio": true,
+        "score": 100
+      },
+      "warnings": []
+    },
+    {
+      "paperId": "cet6-2021-12-1",
+      "key": "CET6:2021:12:1:past_exam",
+      "level": "CET6",
+      "year": 2021,
+      "month": 12,
+      "set_num": 1,
+      "completeness": {
+        "hasQuestion": true,
+        "hasAnswer": true,
+        "hasAudio": true,
+        "score": 100
+      },
+      "warnings": []
+    },
+    {
+      "paperId": "cet6-2021-12-2",
+      "key": "CET6:2021:12:2:past_exam",
+      "level": "CET6",
+      "year": 2021,
+      "month": 12,
+      "set_num": 2,
+      "completeness": {
+        "hasQuestion": true,
+        "hasAnswer": true,
+        "hasAudio": true,
+        "score": 100
+      },
+      "warnings": []
+    },
+    {
+      "paperId": "cet6-2021-6-1",
+      "key": "CET6:2021:6:1:past_exam",
+      "level": "CET6",
+      "year": 2021,
+      "month": 6,
+      "set_num": 1,
+      "completeness": {
+        "hasQuestion": true,
+        "hasAnswer": true,
+        "hasAudio": true,
+        "score": 100
+      },
+      "warnings": []
+    },
+    {
+      "paperId": "cet6-2021-6-2",
+      "key": "CET6:2021:6:2:past_exam",
+      "level": "CET6",
+      "year": 2021,
+      "month": 6,
+      "set_num": 2,
+      "completeness": {
+        "hasQuestion": true,
+        "hasAnswer": true,
+        "hasAudio": true,
+        "score": 100
+      },
+      "warnings": []
+    },
+    {
+      "paperId": "cet6-2021-6-3",
+      "key": "CET6:2021:6:3:past_exam",
+      "level": "CET6",
+      "year": 2021,
+      "month": 6,
+      "set_num": 3,
+      "completeness": {
+        "hasQuestion": true,
+        "hasAnswer": true,
+        "hasAudio": true,
+        "score": 100
+      },
+      "warnings": []
+    },
+    {
+      "paperId": "cet6-2020-12-1",
+      "key": "CET6:2020:12:1:past_exam",
+      "level": "CET6",
+      "year": 2020,
+      "month": 12,
+      "set_num": 1,
+      "completeness": {
+        "hasQuestion": true,
+        "hasAnswer": true,
+        "hasAudio": true,
+        "score": 100
+      },
+      "warnings": []
+    },
+    {
+      "paperId": "cet6-2020-12-2",
+      "key": "CET6:2020:12:2:past_exam",
+      "level": "CET6",
+      "year": 2020,
+      "month": 12,
+      "set_num": 2,
+      "completeness": {
+        "hasQuestion": true,
+        "hasAnswer": true,
+        "hasAudio": true,
+        "score": 100
+      },
+      "warnings": []
+    },
+    {
+      "paperId": "cet6-2020-12-3",
+      "key": "CET6:2020:12:3:past_exam",
+      "level": "CET6",
+      "year": 2020,
+      "month": 12,
+      "set_num": 3,
+      "completeness": {
+        "hasQuestion": true,
+        "hasAnswer": true,
+        "hasAudio": true,
+        "score": 100
+      },
+      "warnings": []
+    },
+    {
+      "paperId": "cet6-2020-9-1",
+      "key": "CET6:2020:9:1:past_exam",
+      "level": "CET6",
+      "year": 2020,
+      "month": 9,
+      "set_num": 1,
+      "completeness": {
+        "hasQuestion": true,
+        "hasAnswer": true,
+        "hasAudio": true,
+        "score": 100
+      },
+      "warnings": [
+        "audio_fallback_needs_review"
+      ]
+    },
+    {
+      "paperId": "cet6-2020-9-2",
+      "key": "CET6:2020:9:2:past_exam",
+      "level": "CET6",
+      "year": 2020,
+      "month": 9,
+      "set_num": 2,
+      "completeness": {
+        "hasQuestion": true,
+        "hasAnswer": true,
+        "hasAudio": true,
+        "score": 100
+      },
+      "warnings": [
+        "audio_fallback_needs_review"
+      ]
+    },
+    {
+      "paperId": "cet6-2020-7-1",
+      "key": "CET6:2020:7:1:past_exam",
+      "level": "CET6",
+      "year": 2020,
+      "month": 7,
+      "set_num": 1,
+      "completeness": {
+        "hasQuestion": true,
+        "hasAnswer": true,
+        "hasAudio": true,
+        "score": 100
+      },
+      "warnings": [
+        "audio_fallback_needs_review"
+      ]
+    },
+    {
+      "paperId": "cet6-2019-12-1",
+      "key": "CET6:2019:12:1:past_exam",
+      "level": "CET6",
+      "year": 2019,
+      "month": 12,
+      "set_num": 1,
+      "completeness": {
+        "hasQuestion": true,
+        "hasAnswer": true,
+        "hasAudio": true,
+        "score": 100
+      },
+      "warnings": []
+    },
+    {
+      "paperId": "cet6-2019-12-2",
+      "key": "CET6:2019:12:2:past_exam",
+      "level": "CET6",
+      "year": 2019,
+      "month": 12,
+      "set_num": 2,
+      "completeness": {
+        "hasQuestion": true,
+        "hasAnswer": true,
+        "hasAudio": true,
+        "score": 100
+      },
+      "warnings": []
+    },
+    {
+      "paperId": "cet6-2019-12-3",
+      "key": "CET6:2019:12:3:past_exam",
+      "level": "CET6",
+      "year": 2019,
+      "month": 12,
+      "set_num": 3,
+      "completeness": {
+        "hasQuestion": true,
+        "hasAnswer": true,
+        "hasAudio": true,
+        "score": 100
+      },
+      "warnings": []
+    },
+    {
+      "paperId": "cet6-2019-6-1",
+      "key": "CET6:2019:6:1:past_exam",
+      "level": "CET6",
+      "year": 2019,
+      "month": 6,
+      "set_num": 1,
+      "completeness": {
+        "hasQuestion": true,
+        "hasAnswer": true,
+        "hasAudio": true,
+        "score": 100
+      },
+      "warnings": []
+    },
+    {
+      "paperId": "cet6-2019-6-2",
+      "key": "CET6:2019:6:2:past_exam",
+      "level": "CET6",
+      "year": 2019,
+      "month": 6,
+      "set_num": 2,
+      "completeness": {
+        "hasQuestion": true,
+        "hasAnswer": true,
+        "hasAudio": true,
+        "score": 100
+      },
+      "warnings": []
+    },
+    {
+      "paperId": "cet6-2019-6-3",
+      "key": "CET6:2019:6:3:past_exam",
+      "level": "CET6",
+      "year": 2019,
+      "month": 6,
+      "set_num": 3,
+      "completeness": {
+        "hasQuestion": true,
+        "hasAnswer": true,
+        "hasAudio": true,
+        "score": 100
+      },
+      "warnings": []
+    },
+    {
+      "paperId": "cet6-2018-12-1",
+      "key": "CET6:2018:12:1:past_exam",
+      "level": "CET6",
+      "year": 2018,
+      "month": 12,
+      "set_num": 1,
+      "completeness": {
+        "hasQuestion": true,
+        "hasAnswer": true,
+        "hasAudio": true,
+        "score": 100
+      },
+      "warnings": []
+    },
+    {
+      "paperId": "cet6-2018-12-2",
+      "key": "CET6:2018:12:2:past_exam",
+      "level": "CET6",
+      "year": 2018,
+      "month": 12,
+      "set_num": 2,
+      "completeness": {
+        "hasQuestion": true,
+        "hasAnswer": true,
+        "hasAudio": true,
+        "score": 100
+      },
+      "warnings": []
+    },
+    {
+      "paperId": "cet6-2018-12-3",
+      "key": "CET6:2018:12:3:past_exam",
+      "level": "CET6",
+      "year": 2018,
+      "month": 12,
+      "set_num": 3,
+      "completeness": {
+        "hasQuestion": true,
+        "hasAnswer": true,
+        "hasAudio": true,
+        "score": 100
+      },
+      "warnings": []
+    },
+    {
+      "paperId": "cet6-2018-6-1",
+      "key": "CET6:2018:6:1:past_exam",
+      "level": "CET6",
+      "year": 2018,
+      "month": 6,
+      "set_num": 1,
+      "completeness": {
+        "hasQuestion": true,
+        "hasAnswer": true,
+        "hasAudio": true,
+        "score": 100
+      },
+      "warnings": []
+    },
+    {
+      "paperId": "cet6-2018-6-2",
+      "key": "CET6:2018:6:2:past_exam",
+      "level": "CET6",
+      "year": 2018,
+      "month": 6,
+      "set_num": 2,
+      "completeness": {
+        "hasQuestion": true,
+        "hasAnswer": true,
+        "hasAudio": true,
+        "score": 100
+      },
+      "warnings": []
+    },
+    {
+      "paperId": "cet6-2018-6-3",
+      "key": "CET6:2018:6:3:past_exam",
+      "level": "CET6",
+      "year": 2018,
+      "month": 6,
+      "set_num": 3,
+      "completeness": {
+        "hasQuestion": true,
+        "hasAnswer": true,
+        "hasAudio": true,
+        "score": 100
+      },
+      "warnings": []
+    },
+    {
+      "paperId": "cet6-2017-12-1",
+      "key": "CET6:2017:12:1:past_exam",
+      "level": "CET6",
+      "year": 2017,
+      "month": 12,
+      "set_num": 1,
+      "completeness": {
+        "hasQuestion": true,
+        "hasAnswer": true,
+        "hasAudio": true,
+        "score": 100
+      },
+      "warnings": []
+    },
+    {
+      "paperId": "cet6-2017-12-2",
+      "key": "CET6:2017:12:2:past_exam",
+      "level": "CET6",
+      "year": 2017,
+      "month": 12,
+      "set_num": 2,
+      "completeness": {
+        "hasQuestion": true,
+        "hasAnswer": true,
+        "hasAudio": true,
+        "score": 100
+      },
+      "warnings": []
+    },
+    {
+      "paperId": "cet6-2017-6-1",
+      "key": "CET6:2017:6:1:past_exam",
+      "level": "CET6",
+      "year": 2017,
+      "month": 6,
+      "set_num": 1,
+      "completeness": {
+        "hasQuestion": true,
+        "hasAnswer": true,
+        "hasAudio": true,
+        "score": 100
+      },
+      "warnings": []
+    },
+    {
+      "paperId": "cet6-2017-6-2",
+      "key": "CET6:2017:6:2:past_exam",
+      "level": "CET6",
+      "year": 2017,
+      "month": 6,
+      "set_num": 2,
+      "completeness": {
+        "hasQuestion": true,
+        "hasAnswer": true,
+        "hasAudio": true,
+        "score": 100
+      },
+      "warnings": []
+    }
+  ],
+  "incompletePapers": [
+    {
+      "paperId": "cet6-2016-12-1",
+      "key": "CET6:2016:12:1:past_exam",
+      "level": "CET6",
+      "year": 2016,
+      "month": 12,
+      "set_num": 1,
+      "completeness": {
+        "hasQuestion": true,
+        "hasAnswer": true,
+        "hasAudio": false,
+        "score": 67
+      },
+      "warnings": [
+        "missing_audio_file"
+      ]
+    },
+    {
+      "paperId": "cet6-2016-6-1",
+      "key": "CET6:2016:6:1:past_exam",
+      "level": "CET6",
+      "year": 2016,
+      "month": 6,
+      "set_num": 1,
+      "completeness": {
+        "hasQuestion": true,
+        "hasAnswer": true,
+        "hasAudio": false,
+        "score": 67
+      },
+      "warnings": [
+        "missing_audio_file"
+      ]
+    },
+    {
+      "paperId": "cet6-2015-12-1",
+      "key": "CET6:2015:12:1:past_exam",
+      "level": "CET6",
+      "year": 2015,
+      "month": 12,
+      "set_num": 1,
+      "completeness": {
+        "hasQuestion": true,
+        "hasAnswer": true,
+        "hasAudio": false,
+        "score": 67
+      },
+      "warnings": [
+        "missing_audio_file"
+      ]
+    }
+  ],
+  "stats": {
+    "ok": true,
+    "database": "sqlite",
+    "counts": {
+      "exams": 0,
+      "sections": 0,
+      "audio_files": 0,
+      "passages": 0,
+      "questions": 0
+    },
+    "byYear": [],
+    "bySectionType": []
+  },
+  "verdict": "needs_import_or_repair"
+}

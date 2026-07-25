@@ -1,0 +1,78 @@
+{
+  "generated_at": "2026-07-24T03:28:35.671Z",
+  "mode": "dry-run",
+  "database": {
+    "requested": "sqlite",
+    "selected": null
+  },
+  "inputs": {
+    "papersPath": "backend\\data\\imported\\cet_repo_papers.robust.json",
+    "extractedDir": "backend/data/extracted/robust-import",
+    "sqlitePath": "backend\\data\\english_exam.db",
+    "mongoUri": "mongodb://127.0.0.1:27017/english_exam",
+    "download": false
+  },
+  "summary": {
+    "completePapers": 1,
+    "incompletePapers": 3,
+    "parsed": 0,
+    "insertedOrUpdated": 0,
+    "skippedExisting": 0,
+    "failed": 0
+  },
+  "incompletePapers": [
+    {
+      "paperId": "cet6-2016-12-1",
+      "key": "CET6:2016:12:1:past_exam",
+      "level": "CET6",
+      "year": 2016,
+      "month": 12,
+      "set_num": 1,
+      "warnings": [
+        "missing_audio_file"
+      ]
+    },
+    {
+      "paperId": "cet6-2016-6-1",
+      "key": "CET6:2016:6:1:past_exam",
+      "level": "CET6",
+      "year": 2016,
+      "month": 6,
+      "set_num": 1,
+      "warnings": [
+        "missing_audio_file"
+      ]
+    },
+    {
+      "paperId": "cet6-2015-12-1",
+      "key": "CET6:2015:12:1:past_exam",
+      "level": "CET6",
+      "year": 2015,
+      "month": 12,
+      "set_num": 1,
+      "warnings": [
+        "missing_audio_file"
+      ]
+    }
+  ],
+  "papers": [
+    {
+      "paper": {
+        "paperId": "cet4-2023-3-1",
+        "key": "CET4:2023:3:1:past_exam",
+        "level": "CET4",
+        "year": 2023,
+        "month": 3,
+        "set_num": 1,
+        "warnings": []
+      },
+      "parsed": false,
+      "outputJson": "C:\\Users\\liujinhao\\Documents\\New project\\kaoyan-english-lab\\backend\\data\\extracted\\robust-import\\cet4-2023-3-1.mongo-import.json",
+      "action": "needs_parse",
+      "status": "dry_run",
+      "errors": [
+        "Parsed JSON is missing. Re-run with --download to parse PDF/audio assets."
+      ]
+    }
+  ]
+}

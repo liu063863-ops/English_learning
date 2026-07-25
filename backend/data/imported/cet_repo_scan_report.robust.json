@@ -1,0 +1,184 @@
+{
+  "generatedAt": "2026-07-24T01:57:36.808Z",
+  "assetCount": 250,
+  "matchedAssetCount": 250,
+  "matchRate": 100,
+  "paperCount": 70,
+  "completePaperCount": 67,
+  "completePaperRate": 95.7,
+  "byAssetType": {
+    "answerAnalysisDoc": 33,
+    "answerAnalysisPdf": 138,
+    "audioMp3": 51,
+    "questionPdf": 19,
+    "note": 6,
+    "questionDoc": 3
+  },
+  "byLevel": {
+    "CET4": 36,
+    "CET6": 34
+  },
+  "weakAssets": [],
+  "incompletePapers": [
+    {
+      "paperId": "cet4-2020-7-1",
+      "year": 2020,
+      "month": 7,
+      "level": "CET4",
+      "set_num": 1,
+      "completeness": {
+        "hasQuestion": true,
+        "hasAnswer": true,
+        "hasAudio": true,
+        "score": 100
+      },
+      "warnings": [
+        "audio_fallback_needs_review"
+      ]
+    },
+    {
+      "paperId": "cet4-2019-6-1",
+      "year": 2019,
+      "month": 6,
+      "level": "CET4",
+      "set_num": 1,
+      "completeness": {
+        "hasQuestion": true,
+        "hasAnswer": true,
+        "hasAudio": true,
+        "score": 100
+      },
+      "warnings": [
+        "audio_fallback_needs_review"
+      ]
+    },
+    {
+      "paperId": "cet4-2019-6-2",
+      "year": 2019,
+      "month": 6,
+      "level": "CET4",
+      "set_num": 2,
+      "completeness": {
+        "hasQuestion": true,
+        "hasAnswer": true,
+        "hasAudio": true,
+        "score": 100
+      },
+      "warnings": [
+        "audio_fallback_needs_review"
+      ]
+    },
+    {
+      "paperId": "cet4-2019-6-3",
+      "year": 2019,
+      "month": 6,
+      "level": "CET4",
+      "set_num": 3,
+      "completeness": {
+        "hasQuestion": true,
+        "hasAnswer": true,
+        "hasAudio": true,
+        "score": 100
+      },
+      "warnings": [
+        "audio_fallback_needs_review"
+      ]
+    },
+    {
+      "paperId": "cet6-2020-9-1",
+      "year": 2020,
+      "month": 9,
+      "level": "CET6",
+      "set_num": 1,
+      "completeness": {
+        "hasQuestion": true,
+        "hasAnswer": true,
+        "hasAudio": true,
+        "score": 100
+      },
+      "warnings": [
+        "audio_fallback_needs_review"
+      ]
+    },
+    {
+      "paperId": "cet6-2020-9-2",
+      "year": 2020,
+      "month": 9,
+      "level": "CET6",
+      "set_num": 2,
+      "completeness": {
+        "hasQuestion": true,
+        "hasAnswer": true,
+        "hasAudio": true,
+        "score": 100
+      },
+      "warnings": [
+        "audio_fallback_needs_review"
+      ]
+    },
+    {
+      "paperId": "cet6-2020-7-1",
+      "year": 2020,
+      "month": 7,
+      "level": "CET6",
+      "set_num": 1,
+      "completeness": {
+        "hasQuestion": true,
+        "hasAnswer": true,
+        "hasAudio": true,
+        "score": 100
+      },
+      "warnings": [
+        "audio_fallback_needs_review"
+      ]
+    },
+    {
+      "paperId": "cet6-2016-12-1",
+      "year": 2016,
+      "month": 12,
+      "level": "CET6",
+      "set_num": 1,
+      "completeness": {
+        "hasQuestion": true,
+        "hasAnswer": true,
+        "hasAudio": false,
+        "score": 67
+      },
+      "warnings": [
+        "missing_audio_file"
+      ]
+    },
+    {
+      "paperId": "cet6-2016-6-1",
+      "year": 2016,
+      "month": 6,
+      "level": "CET6",
+      "set_num": 1,
+      "completeness": {
+        "hasQuestion": true,
+        "hasAnswer": true,
+        "hasAudio": false,
+        "score": 67
+      },
+      "warnings": [
+        "missing_audio_file"
+      ]
+    },
+    {
+      "paperId": "cet6-2015-12-1",
+      "year": 2015,
+      "month": 12,
+      "level": "CET6",
+      "set_num": 1,
+      "completeness": {
+        "hasQuestion": true,
+        "hasAnswer": true,
+        "hasAudio": false,
+        "score": 67
+      },
+      "warnings": [
+        "missing_audio_file"
+      ]
+    }
+  ]
+}

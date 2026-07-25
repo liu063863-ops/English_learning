@@ -1,0 +1,57 @@
+{
+  "repo": "DieDiDi/CET4-6-past-exam-paper",
+  "generatedAt": "2026-07-23T07:37:37.111Z",
+  "assetCount": 250,
+  "paperGroupCount": 85,
+  "yearRange": {
+    "min": 2015,
+    "max": 2023
+  },
+  "byYear": {
+    "2015": {
+      "CET4": 1,
+      "CET6": 1,
+      "UNKNOWN": 0
+    },
+    "2016": {
+      "CET4": 5,
+      "CET6": 2,
+      "UNKNOWN": 0
+    },
+    "2017": {
+      "CET4": 4,
+      "CET6": 6,
+      "UNKNOWN": 0
+    },
+    "2018": {
+      "CET4": 7,
+      "CET6": 7,
+      "UNKNOWN": 0
+    },
+    "2019": {
+      "CET4": 7,
+      "CET6": 7,
+      "UNKNOWN": 0
+    },
+    "2020": {
+      "CET4": 7,
+      "CET6": 7,
+      "UNKNOWN": 0
+    },
+    "2021": {
+      "CET4": 4,
+      "CET6": 6,
+      "UNKNOWN": 0
+    },
+    "2022": {
+      "CET4": 4,
+      "CET6": 2,
+      "UNKNOWN": 0
+    },
+    "2023": {
+      "CET4": 4,
+      "CET6": 4,
+      "UNKNOWN": 0
+    }
+  }
+}

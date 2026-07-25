@@ -1,0 +1,3168 @@
+{
+  "exams": [
+    {
+      "_id": {
+        "$oid": "1482992e4f40eee8de6a1fdf"
+      },
+      "title": "2020-12 CET4 Set 1",
+      "level": "CET4",
+      "year": 2020,
+      "month": 12,
+      "set_num": 1,
+      "source": "past_exam",
+      "source_meta": {
+        "provider": "local-folder",
+        "repo": "DieDiDi/CET4-6-past-exam-paper",
+        "folder_path": "C:\\Users\\liujinhao\\Documents\\New project\\kaoyan-english-lab\\backend\\data\\extracted\\robust-import\\_downloads\\cet4-2020-12-2",
+        "question_pdf_url": "C:\\Users\\liujinhao\\Documents\\New project\\kaoyan-english-lab\\backend\\data\\extracted\\robust-import\\_downloads\\cet4-2020-12-2\\question.pdf",
+        "answer_pdf_url": "C:\\Users\\liujinhao\\Documents\\New project\\kaoyan-english-lab\\backend\\data\\extracted\\robust-import\\_downloads\\cet4-2020-12-2\\answer.pdf"
+      },
+      "status": "draft",
+      "created_at": {
+        "$date": "2026-07-24T06:06:19.097189+00:00"
+      },
+      "updated_at": {
+        "$date": "2026-07-24T06:06:19.097189+00:00"
+      }
+    }
+  ],
+  "sections": [
+    {
+      "_id": {
+        "$oid": "4709a3caec26419e0fbd5a4b"
+      },
+      "exam_id": {
+        "$oid": "1482992e4f40eee8de6a1fdf"
+      },
+      "section_type": "listening",
+      "section_name": "Listening Comprehension",
+      "order_index": 1,
+      "total_score": 35,
+      "time_limit": 25,
+      "created_at": {
+        "$date": "2026-07-24T06:06:19.097189+00:00"
+      },
+      "updated_at": {
+        "$date": "2026-07-24T06:06:19.097189+00:00"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "042bdd625e4adf3fe244617e"
+      },
+      "exam_id": {
+        "$oid": "1482992e4f40eee8de6a1fdf"
+      },
+      "section_type": "reading",
+      "section_name": "Reading Comprehension",
+      "order_index": 2,
+      "total_score": 35,
+      "time_limit": 40,
+      "created_at": {
+        "$date": "2026-07-24T06:06:19.097189+00:00"
+      },
+      "updated_at": {
+        "$date": "2026-07-24T06:06:19.097189+00:00"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "3551195d0c08c9bc6937ed14"
+      },
+      "exam_id": {
+        "$oid": "1482992e4f40eee8de6a1fdf"
+      },
+      "section_type": "translation",
+      "section_name": "Translation",
+      "order_index": 3,
+      "total_score": 15,
+      "time_limit": 30,
+      "created_at": {
+        "$date": "2026-07-24T06:06:19.097189+00:00"
+      },
+      "updated_at": {
+        "$date": "2026-07-24T06:06:19.097189+00:00"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "3addb904c42140f703d202c9"
+      },
+      "exam_id": {
+        "$oid": "1482992e4f40eee8de6a1fdf"
+      },
+      "section_type": "writing",
+      "section_name": "Writing",
+      "order_index": 4,
+      "total_score": 15,
+      "time_limit": 30,
+      "created_at": {
+        "$date": "2026-07-24T06:06:19.097189+00:00"
+      },
+      "updated_at": {
+        "$date": "2026-07-24T06:06:19.097189+00:00"
+      }
+    }
+  ],
+  "audio_files": [
+    {
+      "_id": {
+        "$oid": "795678aa44105a532635732e"
+      },
+      "exam_id": {
+        "$oid": "1482992e4f40eee8de6a1fdf"
+      },
+      "section_id": {
+        "$oid": "4709a3caec26419e0fbd5a4b"
+      },
+      "file_url": "/uploads/audio/cet4-2020-12-1-80717ac9.mp3",
+      "duration": 0,
+      "transcript_full": "",
+      "source_meta": {
+        "file_name": "audio.mp3",
+        "raw_url": "/uploads/audio/cet4-2020-12-1-80717ac9.mp3"
+      },
+      "created_at": {
+        "$date": "2026-07-24T06:06:19.097189+00:00"
+      },
+      "updated_at": {
+        "$date": "2026-07-24T06:06:19.097189+00:00"
+      }
+    }
+  ],
+  "passages": [
+    {
+      "_id": {
+        "$oid": "9da0ad40e3f5250495a9df62"
+      },
+      "section_id": {
+        "$oid": "042bdd625e4adf3fe244617e"
+      },
+      "title": "Reading Passage 1",
+      "order_index": 1,
+      "passage_text": "Reading Comprehension (40 minutes)\nSection A\nDirections: In this section, there is a passage with ten blanks. You are required to select one word for each\nblank from a list of choices given in a word bank following the passage. Read the passage through carefully\nbefore making your choices. Each choice in the bank is identified by a letter. Please mark the corresponding\nletter for each item on Answer Sheet 2 with a single line through the centre. You may not use any of the\nwords in the bank more than once.\nWhen my son completes a task, I can’t help but praise him. It’s only natural to give praise where\npraise is due, right? But is there such a thing as too much praise?\nAccording to psychologist Katherine Phillip, children don’t benefit from 26 praise as much as\nwe’d like to think. “ Parents’often praise, believing they are building their child’s self-confidence.\nHowever, over-praising can have a 27 effect,” says Phillip. “When we use the same praise\n28___ , it may become empty and no longer valued by the child. It can also become an expectation that\nanything they do must be 29___ with praise. This may lead to the child avoiding taking risks due to\nfear of 30__ their parents. ”\nDoes this mean we should do away with all the praise? Phillip says no. “The key to healthy praise is to\nfocus on the process rather than the 31___ . It is the recognition of a child’s attempt, or the process in\nwhich they achieved something, that is essential,” she says. “Parents should encourage their child to take\nthe risks needed to learn and grow. ”\nSo how do we break the 32___ of praise we’re all so accustomed to? Phillip says it’s important to\n33 between “person praise” and “process praise”. “Person praise is 34___ saying how great\nsomeone is. It’s a form of personal approval. Process praise is acknowledgement of the efforts the person\n0® 2020^12^ 26\n\n--- Page 4 ---\nhas just 35 Children who receive person praise are more likely to feel shame after losing,” says\nPhillip.\nA) choose F) experienced K) repeatedly\nB) constant G) negative L) rewarded\nC) disappointing H) outcome M) separately\nD) distinguish I) pattern N) simply\nE) exhausting J) plural O) undertaken\nSection B\nDirections: In this section, you are going to read a passage with ten statements attached to it. Each\nstatement contains information given in one of the paragraphs. Identify the paragraph from which the\ninformation is derived. You may choose a paragraph more than once. Each paragraph is marked with a\nletter. Answer the questions by marking the corresponding letter on Answer Sheet2.\nPoverty is a story about us, not them\nA) Too often still, we think we know what poverty looks like. It’s the way we’ve been taught, the images\nwe’ve been force-fed for decades. The chronically homeless. The undocumented immigrant. The\nurban poor, usually personified as a woman of color, the “welfare queen” politicians still too often\nreference.\nB) But as income inequality rises to record levels in the United States, even in the midst of a record\neconomic expansion, those familiar images are outdated, hurtful, and counterproductive to focusing\nattention on solutions and building ladders of opportunity.\nC) Today’s faces of income inequality and lack of opportunity look like all of us. It’s Anna Landre, a\ndisabled Georgetown University student fighting to keep health benefits that allow her the freedom to\nlive her life. It’s Tiffanie Standard, a counselor for young women of color in Philadelphia who want to\nbe tech entrepreneurs—but who must work multiple jobs to stay afloat. It’s Ken Outlaw, a welder in\nrural North Carolina whose dream of going back to school at a local community college was dashed by\nHurricane Florence—just one of the extreme weather events that have tipped the balance for struggling\nAmericans across the nation.\nD) If these are the central characters of our story about poverty, what layers of perceptions, myths, and\nrealities must we unearth to find meaningful solutions and support? In pursuit of revealing this\ncomplicated reality, Mothering Justice, led by women of color, went last year to the state capital in\nLansing, Michigan, to lobby on issues that affect working mothers. One of the Mothering Justice\norganizers went to the office of a state representative to talk about the lack of affordable childcare—\nthe vestiges (.&0D of a system that expected mothers to stay home with their children while their\nhusbands worked. A legislative staffer dismissed the activist’s concerns, telling her “my husband took\ncare of that—I stayed home. ”\nE) That comment, says Mothering Justice director Danielle Atkinson, “was meant to shame” and relied\non the familiar notion that a woman of color concerned about income inequality and programs that\npromote mobility must by definition be a single mom, probably with multiple kids. In this case, the\nMothering Justice activist happened to be married. And in most cases in the America of 2019, the\nimages that come to mind when we hear the words poverty or income inequality fail miserably in\n2020 12 Jj 27\n\n--- Page 5 ---\nreflecting a complicated reality; poverty touches virtually all of us. The face of income inequality, for\nall but a very few of us, is the one we each see in the mirror.\nF) How many of us are poor in the U. S. ? It depends on who you ask. According to the Census Bureau,\n38 million people in the U. S. are living below the official poverty thresholds. Taking into account\neconomic need beyond that absolute measure, the Institute for Policy Studies found that 140 million\npeople are poor or low-income. That’s almost half the U. S. population.\nG) Whatever the measure, within that massive group, poverty is extremely diverse. We know that some\npeople are more affected than others, like children, the elderly, people with disabilities, and people\nof color.\nH) But the fact that 4 in 10 Americans can’t come up with $ 400 in an emergency is a commonly cited\nstatistic for good reason; economic instability stretches across race, gender, and geography. It even\nreaches into the middle classes, as real wages have stagnated for all but the very wealthy and\ntemporary spells of financial instability are not uncommon.\nI) Negative images remain of who is living in poverty as well as what is needed to move out of it. The big\nAmerican myth is that you can pull yourself up by your own efforts and change a bad situation into a\ngood one. The reality is that finding opportunity without help from families, friends, schools, and\ncommunity is virtually impossible. And the playing field is nothing close to level.\nJ) The FrameWorks Institute, a research group that focuses on public framing of issues, has studied what\nsustains stereotypes and narratives of poverty in the United Kingdom. “People view economic success\nand wellbeing in life as a product of choice, willpower, and drive,” says Nat Kendall-Taylor, CEO of\nFrameWorks. “When we see people who are struggling,” he says, those assumptions “lead us to the\nperception that people in poverty are lazy, they don’t care, and they haven’t made the right\ndecisions. ” ,\nK) Does this sound familiar? Similar ideas surround poverty in the U. S. And these assumptions give a false\npicture of reality. “When people enter into that pattern of thinking,” says Kendall-Taylor, “it’s\ncognitively comfortable to make sense of issues of poverty in that way. It creates a kind of cognitive\nblindness—all of the factors external to a person’s drive and choices that they’ve made become invisible\nand fade from view.”\nL) Those external factors include the difficulties accompanying low-wage work or structural\ndiscrimination based on race, gender, or ability. Assumptions get worse when people who are poor use\ngovernment benefits to help them survive. There is a great tension between “the poor” and those who\nare receiving what has become a dirty word; “welfare. ”\nM) According to the General Social Survey, 71 percent of respondents believe the country is spending too\nlittle on “assistance to the poor.” On the other hand, 22 percent think we are spending too little on\n“welfare”; 37 percent believe we are spending too much.\nN) “Poverty has been interchangeable with people of color—specifically black women and black\nmothers,” says Atkinson of Mothering Justice. It’s true that black mothers are more affected by\npoverty than many other groups, yet they are disproportionately the face of poverty. For example,\nAmericans routinely overestimate the share of black recipients of public assistance programs.\nO) In reality, most people will experience some form of financial hardship at some point in their lives.\nIndeed, people tend to dip in and out of poverty, perhaps due to unexpected obstacles like losing a job,\n2020 12 28\n\n--- Page 6 ---\nor when hours of a low-wage job fluctuate.\nP) Something each of us can do is to treat each other with the dignity and sympathy that is deserved and to\nunderstand deeply that the issue of poverty touches all of us.",
+      "paragraph_markers": [
+        {
+          "paragraph_id": "P1",
+          "order_index": 1,
+          "start_offset": 0,
+          "end_offset": 1859,
+          "text_preview": "Reading Comprehension (40 minutes)\nSection A\nDirections: In this section, there "
+        },
+        {
+          "paragraph_id": "P2",
+          "order_index": 2,
+          "start_offset": 1861,
+          "end_offset": 5054,
+          "text_preview": "--- Page 4 ---\nhas just 35 Children who receive person praise are more likely to"
+        },
+        {
+          "paragraph_id": "P3",
+          "order_index": 3,
+          "start_offset": 5056,
+          "end_offset": 8735,
+          "text_preview": "--- Page 5 ---\nreflecting a complicated reality; poverty touches virtually all o"
+        },
+        {
+          "paragraph_id": "P4",
+          "order_index": 4,
+          "start_offset": 8737,
+          "end_offset": 8965,
+          "text_preview": "--- Page 6 ---\nor when hours of a low-wage job fluctuate.\nP) Something each of u"
+        }
+      ],
+      "created_at": {
+        "$date": "2026-07-24T06:06:19.097189+00:00"
+      },
+      "updated_at": {
+        "$date": "2026-07-24T06:06:19.097189+00:00"
+      }
+    }
+  ],
+  "questions": [
+    {
+      "_id": {
+        "$oid": "27ad2927f8234980b3d8e36b"
+      },
+      "section_id": {
+        "$oid": "4709a3caec26419e0fbd5a4b"
+      },
+      "passage_id": null,
+      "audio_file_id": {
+        "$oid": "795678aa44105a532635732e"
+      },
+      "question_type": "single_choice",
+      "order_index": 1,
+      "question_text": {
+        "raw": "Question 1",
+        "html": ""
+      },
+      "options": [
+        {
+          "key": "A",
+          "text": "He wanted to buy a home.",
+          "is_correct": true
+        },
+        {
+          "key": "C",
+          "text": "He lost a huge sum of money.",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "He suffered from a shock.",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "He did an unusual good deed.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": {
+        "raw": "A) He wanted to buy a home. C) He lost a huge sum of money.\nB) He suffered from a shock. D) He did an unusual good deed.",
+        "html": ""
+      },
+      "audio_start_time": null,
+      "audio_end_time": null,
+      "transcript": "",
+      "passage_ref": {
+        "passage_id": null,
+        "paragraph_ids": [],
+        "evidence_text": ""
+      },
+      "tags": [],
+      "difficulty": 3,
+      "score": 2.5,
+      "import_meta": {
+        "source_question_no": "L1",
+        "confidence": 0.7,
+        "needs_review": true
+      },
+      "created_at": {
+        "$date": "2026-07-24T06:06:19.097189+00:00"
+      },
+      "updated_at": {
+        "$date": "2026-07-24T06:06:19.097189+00:00"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "7ac1f4c77f6526fb23076dbe"
+      },
+      "section_id": {
+        "$oid": "4709a3caec26419e0fbd5a4b"
+      },
+      "passage_id": null,
+      "audio_file_id": {
+        "$oid": "795678aa44105a532635732e"
+      },
+      "question_type": "single_choice",
+      "order_index": 2,
+      "question_text": {
+        "raw": "Question 2",
+        "html": ""
+      },
+      "options": [
+        {
+          "key": "A",
+          "text": "Invite the waiter to a fancy dinner.",
+          "is_correct": true
+        },
+        {
+          "key": "C",
+          "text": "Give some money to the waiter.",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Tell her story to the Daily News.",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Pay the waiter’s school tuition, Questions 3 and 4 are based on the news repor you have just heard.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": {
+        "raw": "A) Invite the waiter to a fancy dinner. C) Give some money to the waiter.\nB) Tell her story to the Daily News. D) Pay the waiter’s school tuition,\nQuestions 3 and 4 are based on the news repor you have just heard.",
+        "html": ""
+      },
+      "audio_start_time": null,
+      "audio_end_time": null,
+      "transcript": "",
+      "passage_ref": {
+        "passage_id": null,
+        "paragraph_ids": [],
+        "evidence_text": ""
+      },
+      "tags": [],
+      "difficulty": 3,
+      "score": 2.5,
+      "import_meta": {
+        "source_question_no": "L2",
+        "confidence": 0.7,
+        "needs_review": true
+      },
+      "created_at": {
+        "$date": "2026-07-24T06:06:19.097189+00:00"
+      },
+      "updated_at": {
+        "$date": "2026-07-24T06:06:19.097189+00:00"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "50763155c7c8b376903ab2cf"
+      },
+      "section_id": {
+        "$oid": "4709a3caec26419e0fbd5a4b"
+      },
+      "passage_id": null,
+      "audio_file_id": {
+        "$oid": "795678aa44105a532635732e"
+      },
+      "question_type": "single_choice",
+      "order_index": 3,
+      "question_text": {
+        "raw": "Question 3",
+        "html": ""
+      },
+      "options": [
+        {
+          "key": "A",
+          "text": "Whether or not to move to the state’! mainland.",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "How to keep the village from sinking into the sea.",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Where to get the funds for rebuilding their village.",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "What to do about the rising level of the seawater.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": {
+        "raw": "A) Whether or not to move to the state’! mainland.\nB) How to keep the village from sinking into the sea.\nC) Where to get the funds for rebuilding their village.\nD) What to do about the rising level of the seawater.",
+        "html": ""
+      },
+      "audio_start_time": null,
+      "audio_end_time": null,
+      "transcript": "",
+      "passage_ref": {
+        "passage_id": null,
+        "paragraph_ids": [],
+        "evidence_text": ""
+      },
+      "tags": [],
+      "difficulty": 3,
+      "score": 2.5,
+      "import_meta": {
+        "source_question_no": "L3",
+        "confidence": 0.7,
+        "needs_review": true
+      },
+      "created_at": {
+        "$date": "2026-07-24T06:06:19.097189+00:00"
+      },
+      "updated_at": {
+        "$date": "2026-07-24T06:06:19.097189+00:00"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "deebb115132fefe18ade6b24"
+      },
+      "section_id": {
+        "$oid": "4709a3caec26419e0fbd5a4b"
+      },
+      "passage_id": null,
+      "audio_file_id": {
+        "$oid": "795678aa44105a532635732e"
+      },
+      "question_type": "single_choice",
+      "order_index": 4,
+      "question_text": {
+        "raw": "Question 4",
+        "html": ""
+      },
+      "options": [
+        {
+          "key": "A",
+          "text": "It takes too long a time.",
+          "is_correct": true
+        },
+        {
+          "key": "C",
+          "text": "It has to wait for the state’s final approval.",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "It costs too much money.",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "It faces strong opposition from many villagers. Questions 5 to 7 are based on the news report you have just heard.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": {
+        "raw": "A) It takes too long a time. C) It has to wait for the state’s final approval.\nB) It costs too much money. D) It faces strong opposition from many villagers.\nQuestions 5 to 7 are based on the news report you have just heard.",
+        "html": ""
+      },
+      "audio_start_time": null,
+      "audio_end_time": null,
+      "transcript": "",
+      "passage_ref": {
+        "passage_id": null,
+        "paragraph_ids": [],
+        "evidence_text": ""
+      },
+      "tags": [],
+      "difficulty": 3,
+      "score": 2.5,
+      "import_meta": {
+        "source_question_no": "L4",
+        "confidence": 0.7,
+        "needs_review": true
+      },
+      "created_at": {
+        "$date": "2026-07-24T06:06:19.097189+00:00"
+      },
+      "updated_at": {
+        "$date": "2026-07-24T06:06:19.097189+00:00"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "bf7f0e2d5b4bd06050a0b55e"
+      },
+      "section_id": {
+        "$oid": "4709a3caec26419e0fbd5a4b"
+      },
+      "passage_id": null,
+      "audio_file_id": {
+        "$oid": "795678aa44105a532635732e"
+      },
+      "question_type": "single_choice",
+      "order_index": 5,
+      "question_text": {
+        "raw": "Question 5",
+        "html": ""
+      },
+      "options": [
+        {
+          "key": "A",
+          "text": "To investigate whether people are grateful for help.",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "To see whether people hold doors open for strangers.",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "To explore ways of inducing gratitude in people.",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "To find out how people express gratitude.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": {
+        "raw": "A) To investigate whether people are grateful for help.\nB) To see whether people hold doors open for strangers.\nC) To explore ways of inducing gratitude in people.\nD) To find out how people express gratitude.",
+        "html": ""
+      },
+      "audio_start_time": null,
+      "audio_end_time": null,
+      "transcript": "",
+      "passage_ref": {
+        "passage_id": null,
+        "paragraph_ids": [],
+        "evidence_text": ""
+      },
+      "tags": [],
+      "difficulty": 3,
+      "score": 2.5,
+      "import_meta": {
+        "source_question_no": "L5",
+        "confidence": 0.7,
+        "needs_review": true
+      },
+      "created_at": {
+        "$date": "2026-07-24T06:06:19.097189+00:00"
+      },
+      "updated_at": {
+        "$date": "2026-07-24T06:06:19.097189+00:00"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "710ad2ceb5323c36c76d39f8"
+      },
+      "section_id": {
+        "$oid": "4709a3caec26419e0fbd5a4b"
+      },
+      "passage_id": null,
+      "audio_file_id": {
+        "$oid": "795678aa44105a532635732e"
+      },
+      "question_type": "single_choice",
+      "order_index": 6,
+      "question_text": {
+        "raw": "Question 6",
+        "html": ""
+      },
+      "options": [
+        {
+          "key": "A",
+          "text": "They induced strangers to talk with them.",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "They helped 15 to 20 people in a bad mood.",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "They held doors open for people at various places.",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "They interviewed people who didn’t say thank you.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": {
+        "raw": "A) They induced strangers to talk with them.\nB) They helped 15 to 20 people in a bad mood.\nC) They held doors open for people at various places.\nD) They interviewed people who didn’t say thank you.",
+        "html": ""
+      },
+      "audio_start_time": null,
+      "audio_end_time": null,
+      "transcript": "",
+      "passage_ref": {
+        "passage_id": null,
+        "paragraph_ids": [],
+        "evidence_text": ""
+      },
+      "tags": [],
+      "difficulty": 3,
+      "score": 2.5,
+      "import_meta": {
+        "source_question_no": "L6",
+        "confidence": 0.7,
+        "needs_review": true
+      },
+      "created_at": {
+        "$date": "2026-07-24T06:06:19.097189+00:00"
+      },
+      "updated_at": {
+        "$date": "2026-07-24T06:06:19.097189+00:00"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "9bed0df89a36af665e883b8a"
+      },
+      "section_id": {
+        "$oid": "4709a3caec26419e0fbd5a4b"
+      },
+      "passage_id": null,
+      "audio_file_id": {
+        "$oid": "795678aa44105a532635732e"
+      },
+      "question_type": "single_choice",
+      "order_index": 7,
+      "question_text": {
+        "raw": "Question 7",
+        "html": ""
+      },
+      "options": [
+        {
+          "key": "A",
+          "text": "People can be educated to be grateful.",
+          "is_correct": true
+        },
+        {
+          "key": "C",
+          "text": "Most people have bad days now and then.",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Most people express gratitude for help.",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "People are ungrateful when in a bad mood. pg& 2020 *£ 12 R 24 --- Page 2 --- Section B Directions: In this section, you will hear two long conversations. At the end of each conversation, you will hear four questions. Both the conversation and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": {
+        "raw": "A) People can be educated to be grateful. C) Most people have bad days now and then.\nB) Most people express gratitude for help. D) People are ungrateful when in a bad mood.\npg& 2020 *£ 12 R 24\n--- Page 2 ---\nSection B\nDirections: In this section, you will hear two long conversations. At the end of each conversation, you will",
+        "html": ""
+      },
+      "audio_start_time": null,
+      "audio_end_time": null,
+      "transcript": "",
+      "passage_ref": {
+        "passage_id": null,
+        "paragraph_ids": [],
+        "evidence_text": ""
+      },
+      "tags": [],
+      "difficulty": 3,
+      "score": 2.5,
+      "import_meta": {
+        "source_question_no": "L7",
+        "confidence": 0.7,
+        "needs_review": true
+      },
+      "created_at": {
+        "$date": "2026-07-24T06:06:19.097189+00:00"
+      },
+      "updated_at": {
+        "$date": "2026-07-24T06:06:19.097189+00:00"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "40a27c908e859d811a9f33db"
+      },
+      "section_id": {
+        "$oid": "4709a3caec26419e0fbd5a4b"
+      },
+      "passage_id": null,
+      "audio_file_id": {
+        "$oid": "795678aa44105a532635732e"
+      },
+      "question_type": "single_choice",
+      "order_index": 8,
+      "question_text": {
+        "raw": "Question 8",
+        "html": ""
+      },
+      "options": [
+        {
+          "key": "A",
+          "text": "To order a solar panel installation.",
+          "is_correct": true
+        },
+        {
+          "key": "C",
+          "text": "To enquire about solar panel installations.",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "To report a serious leak in his roof.",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "To complain about the faulty solar panels.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": {
+        "raw": "A) To order a solar panel installation. C) To enquire about solar panel installations.\nB) To report a serious leak in his roof. D) To complain about the faulty solar panels.",
+        "html": ""
+      },
+      "audio_start_time": null,
+      "audio_end_time": null,
+      "transcript": "",
+      "passage_ref": {
+        "passage_id": null,
+        "paragraph_ids": [],
+        "evidence_text": ""
+      },
+      "tags": [],
+      "difficulty": 3,
+      "score": 2.5,
+      "import_meta": {
+        "source_question_no": "L8",
+        "confidence": 0.7,
+        "needs_review": true
+      },
+      "created_at": {
+        "$date": "2026-07-24T06:06:19.097189+00:00"
+      },
+      "updated_at": {
+        "$date": "2026-07-24T06:06:19.097189+00:00"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "c71a8deb65657d91a989edd6"
+      },
+      "section_id": {
+        "$oid": "4709a3caec26419e0fbd5a4b"
+      },
+      "passage_id": null,
+      "audio_file_id": {
+        "$oid": "795678aa44105a532635732e"
+      },
+      "question_type": "single_choice",
+      "order_index": 9,
+      "question_text": {
+        "raw": "Question 9",
+        "html": ""
+      },
+      "options": [
+        {
+          "key": "A",
+          "text": "He plans to install solar panels.",
+          "is_correct": true
+        },
+        {
+          "key": "C",
+          "text": "He saves $ 300 a year.",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "He owns a four-bedroom house.",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "He has a large family.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": {
+        "raw": "A) He plans to install solar panels. C) He saves $ 300 a year.\nB) He owns a four-bedroom house. D) He has a large family.",
+        "html": ""
+      },
+      "audio_start_time": null,
+      "audio_end_time": null,
+      "transcript": "",
+      "passage_ref": {
+        "passage_id": null,
+        "paragraph_ids": [],
+        "evidence_text": ""
+      },
+      "tags": [],
+      "difficulty": 3,
+      "score": 2.5,
+      "import_meta": {
+        "source_question_no": "L9",
+        "confidence": 0.7,
+        "needs_review": true
+      },
+      "created_at": {
+        "$date": "2026-07-24T06:06:19.097189+00:00"
+      },
+      "updated_at": {
+        "$date": "2026-07-24T06:06:19.097189+00:00"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "3c6c220a028c7af60e33372a"
+      },
+      "section_id": {
+        "$oid": "4709a3caec26419e0fbd5a4b"
+      },
+      "passage_id": null,
+      "audio_file_id": {
+        "$oid": "795678aa44105a532635732e"
+      },
+      "question_type": "single_choice",
+      "order_index": 10,
+      "question_text": {
+        "raw": "Question 10",
+        "html": ""
+      },
+      "options": [
+        {
+          "key": "A",
+          "text": "The service of the solar panel company.",
+          "is_correct": true
+        },
+        {
+          "key": "C",
+          "text": "The maintenance of the solar panels.",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "The cost of a solar panel installation.",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "The quality of the solar panels.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": {
+        "raw": "A) The service of the solar panel company. C) The maintenance of the solar panels.\nB) The cost of a solar panel installation. D) The quality of the solar panels.",
+        "html": ""
+      },
+      "audio_start_time": null,
+      "audio_end_time": null,
+      "transcript": "",
+      "passage_ref": {
+        "passage_id": null,
+        "paragraph_ids": [],
+        "evidence_text": ""
+      },
+      "tags": [],
+      "difficulty": 3,
+      "score": 2.5,
+      "import_meta": {
+        "source_question_no": "L10",
+        "confidence": 0.7,
+        "needs_review": true
+      },
+      "created_at": {
+        "$date": "2026-07-24T06:06:19.097189+00:00"
+      },
+      "updated_at": {
+        "$date": "2026-07-24T06:06:19.097189+00:00"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "30a116d91bec1ae3116c76ec"
+      },
+      "section_id": {
+        "$oid": "4709a3caec26419e0fbd5a4b"
+      },
+      "passage_id": null,
+      "audio_file_id": {
+        "$oid": "795678aa44105a532635732e"
+      },
+      "question_type": "single_choice",
+      "order_index": 11,
+      "question_text": {
+        "raw": "Question 11",
+        "html": ""
+      },
+      "options": [
+        {
+          "key": "A",
+          "text": "One year and a half.",
+          "is_correct": true
+        },
+        {
+          "key": "C",
+          "text": "Roughly six years.",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Less than four years.",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "About five years. Questions 12 to 15 are based on the conversation you have just heard.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": {
+        "raw": "A) One year and a half. C) Roughly six years.\nB) Less than four years. D) About five years.\nQuestions 12 to 15 are based on the conversation you have just heard.",
+        "html": ""
+      },
+      "audio_start_time": null,
+      "audio_end_time": null,
+      "transcript": "",
+      "passage_ref": {
+        "passage_id": null,
+        "paragraph_ids": [],
+        "evidence_text": ""
+      },
+      "tags": [],
+      "difficulty": 3,
+      "score": 2.5,
+      "import_meta": {
+        "source_question_no": "L11",
+        "confidence": 0.7,
+        "needs_review": true
+      },
+      "created_at": {
+        "$date": "2026-07-24T06:06:19.097189+00:00"
+      },
+      "updated_at": {
+        "$date": "2026-07-24T06:06:19.097189+00:00"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6238ee744c06b3eb97a5ead3"
+      },
+      "section_id": {
+        "$oid": "4709a3caec26419e0fbd5a4b"
+      },
+      "passage_id": null,
+      "audio_file_id": {
+        "$oid": "795678aa44105a532635732e"
+      },
+      "question_type": "single_choice",
+      "order_index": 12,
+      "question_text": {
+        "raw": "Question 12",
+        "html": ""
+      },
+      "options": [
+        {
+          "key": "A",
+          "text": "At a travel agency.",
+          "is_correct": true
+        },
+        {
+          "key": "C",
+          "text": "At an airline transfer service.",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "At an Australian airport.",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "At a local transportation authority.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": {
+        "raw": "A) At a travel agency. C) At an airline transfer service.\nB) At an Australian airport. D) At a local transportation authority.",
+        "html": ""
+      },
+      "audio_start_time": null,
+      "audio_end_time": null,
+      "transcript": "",
+      "passage_ref": {
+        "passage_id": null,
+        "paragraph_ids": [],
+        "evidence_text": ""
+      },
+      "tags": [],
+      "difficulty": 3,
+      "score": 2.5,
+      "import_meta": {
+        "source_question_no": "L12",
+        "confidence": 0.7,
+        "needs_review": true
+      },
+      "created_at": {
+        "$date": "2026-07-24T06:06:19.097189+00:00"
+      },
+      "updated_at": {
+        "$date": "2026-07-24T06:06:19.097189+00:00"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "e10f6ba9add6e87a049a9672"
+      },
+      "section_id": {
+        "$oid": "4709a3caec26419e0fbd5a4b"
+      },
+      "passage_id": null,
+      "audio_file_id": {
+        "$oid": "795678aa44105a532635732e"
+      },
+      "question_type": "single_choice",
+      "order_index": 13,
+      "question_text": {
+        "raw": "Question 13",
+        "html": ""
+      },
+      "options": [
+        {
+          "key": "A",
+          "text": "She would be able to visit more scenic spots.",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "She wanted to save as much money as possible.",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "She would like to have everything taken care of.",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "She wanted to spend more time with her family.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": {
+        "raw": "A) She would be able to visit more scenic spots.\nB) She wanted to save as much money as possible.\nC) She would like to have everything taken care of.\nD) She wanted to spend more time with her family.",
+        "html": ""
+      },
+      "audio_start_time": null,
+      "audio_end_time": null,
+      "transcript": "",
+      "passage_ref": {
+        "passage_id": null,
+        "paragraph_ids": [],
+        "evidence_text": ""
+      },
+      "tags": [],
+      "difficulty": 3,
+      "score": 2.5,
+      "import_meta": {
+        "source_question_no": "L13",
+        "confidence": 0.7,
+        "needs_review": true
+      },
+      "created_at": {
+        "$date": "2026-07-24T06:06:19.097189+00:00"
+      },
+      "updated_at": {
+        "$date": "2026-07-24T06:06:19.097189+00:00"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "415d18ced521e707721dfb29"
+      },
+      "section_id": {
+        "$oid": "4709a3caec26419e0fbd5a4b"
+      },
+      "passage_id": null,
+      "audio_file_id": {
+        "$oid": "795678aa44105a532635732e"
+      },
+      "question_type": "single_choice",
+      "order_index": 14,
+      "question_text": {
+        "raw": "Question 14",
+        "html": ""
+      },
+      "options": [
+        {
+          "key": "A",
+          "text": "Four days.",
+          "is_correct": true
+        },
+        {
+          "key": "C",
+          "text": "One week.",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Five days.",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Two weeks.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": {
+        "raw": "A) Four days. C) One week.\nB) Five days. D) Two weeks.",
+        "html": ""
+      },
+      "audio_start_time": null,
+      "audio_end_time": null,
+      "transcript": "",
+      "passage_ref": {
+        "passage_id": null,
+        "paragraph_ids": [],
+        "evidence_text": ""
+      },
+      "tags": [],
+      "difficulty": 3,
+      "score": 2.5,
+      "import_meta": {
+        "source_question_no": "L14",
+        "confidence": 0.7,
+        "needs_review": true
+      },
+      "created_at": {
+        "$date": "2026-07-24T06:06:19.097189+00:00"
+      },
+      "updated_at": {
+        "$date": "2026-07-24T06:06:19.097189+00:00"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "848d8a71c50e17fe1d939503"
+      },
+      "section_id": {
+        "$oid": "4709a3caec26419e0fbd5a4b"
+      },
+      "passage_id": null,
+      "audio_file_id": {
+        "$oid": "795678aa44105a532635732e"
+      },
+      "question_type": "single_choice",
+      "order_index": 15,
+      "question_text": {
+        "raw": "Question 15",
+        "html": ""
+      },
+      "options": [
+        {
+          "key": "A",
+          "text": "Choosing some activities herself.",
+          "is_correct": true
+        },
+        {
+          "key": "C",
+          "text": "Driving along the Great Ocean Road. •I",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Spending Christmas with Australians.",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Learning more about wine making. Section C Directions: In this section, you will hear three passages. At the end of each passage, you will hear three or four questions. Both the passage and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": {
+        "raw": "A) Choosing some activities herself. C) Driving along the Great Ocean Road.\n•I\nB) Spending Christmas with Australians. D) Learning more about wine making.\nSection C\nDirections: In this section, you will hear three passages. At the end of each passage, you will hear three or\nfour questions. Both the passage and the questions will be spoken only once. After you hear a question, you",
+        "html": ""
+      },
+      "audio_start_time": null,
+      "audio_end_time": null,
+      "transcript": "",
+      "passage_ref": {
+        "passage_id": null,
+        "paragraph_ids": [],
+        "evidence_text": ""
+      },
+      "tags": [],
+      "difficulty": 3,
+      "score": 2.5,
+      "import_meta": {
+        "source_question_no": "L15",
+        "confidence": 0.7,
+        "needs_review": true
+      },
+      "created_at": {
+        "$date": "2026-07-24T06:06:19.097189+00:00"
+      },
+      "updated_at": {
+        "$date": "2026-07-24T06:06:19.097189+00:00"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "aa8943586cf12ae9e8166a46"
+      },
+      "section_id": {
+        "$oid": "4709a3caec26419e0fbd5a4b"
+      },
+      "passage_id": null,
+      "audio_file_id": {
+        "$oid": "795678aa44105a532635732e"
+      },
+      "question_type": "single_choice",
+      "order_index": 16,
+      "question_text": {
+        "raw": "Question 16",
+        "html": ""
+      },
+      "options": [
+        {
+          "key": "A",
+          "text": "Bring their own bags when shopping.",
+          "is_correct": true
+        },
+        {
+          "key": "C",
+          "text": "Dispose of their trash properly.",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Use public transport when traveling.",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Pay a green tax upon arrival.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": {
+        "raw": "A) Bring their own bags when shopping. C) Dispose of their trash properly.\nB) Use public transport when traveling. D) Pay a green tax upon arrival.",
+        "html": ""
+      },
+      "audio_start_time": null,
+      "audio_end_time": null,
+      "transcript": "",
+      "passage_ref": {
+        "passage_id": null,
+        "paragraph_ids": [],
+        "evidence_text": ""
+      },
+      "tags": [],
+      "difficulty": 3,
+      "score": 2.5,
+      "import_meta": {
+        "source_question_no": "L16",
+        "confidence": 0.7,
+        "needs_review": true
+      },
+      "created_at": {
+        "$date": "2026-07-24T06:06:19.097189+00:00"
+      },
+      "updated_at": {
+        "$date": "2026-07-24T06:06:19.097189+00:00"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "8531f90b10199f9a4310f00d"
+      },
+      "section_id": {
+        "$oid": "4709a3caec26419e0fbd5a4b"
+      },
+      "passage_id": null,
+      "audio_file_id": {
+        "$oid": "795678aa44105a532635732e"
+      },
+      "question_type": "single_choice",
+      "order_index": 17,
+      "question_text": {
+        "raw": "Question 17",
+        "html": ""
+      },
+      "options": [
+        {
+          "key": "A",
+          "text": "It has not been doing a good job in recycling.",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "It has witnessed a rise in accidental drowning.",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "It has not attracted many tourists in recent years.",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "It has experienced an overall decline in air quality.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": {
+        "raw": "A) It has not been doing a good job in recycling.\nB) It has witnessed a rise in accidental drowning.\nC) It has not attracted many tourists in recent years.\nD) It has experienced an overall decline in air quality.",
+        "html": ""
+      },
+      "audio_start_time": null,
+      "audio_end_time": null,
+      "transcript": "",
+      "passage_ref": {
+        "passage_id": null,
+        "paragraph_ids": [],
+        "evidence_text": ""
+      },
+      "tags": [],
+      "difficulty": 3,
+      "score": 2.5,
+      "import_meta": {
+        "source_question_no": "L17",
+        "confidence": 0.7,
+        "needs_review": true
+      },
+      "created_at": {
+        "$date": "2026-07-24T06:06:19.097189+00:00"
+      },
+      "updated_at": {
+        "$date": "2026-07-24T06:06:19.097189+00:00"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "9abf62ddaa2720987fa4a49f"
+      },
+      "section_id": {
+        "$oid": "4709a3caec26419e0fbd5a4b"
+      },
+      "passage_id": null,
+      "audio_file_id": {
+        "$oid": "795678aa44105a532635732e"
+      },
+      "question_type": "single_choice",
+      "order_index": 18,
+      "question_text": {
+        "raw": "Question 18",
+        "html": ""
+      },
+      "options": [
+        {
+          "key": "A",
+          "text": "To charge a small fee on plastic products in supermarkets.",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "To ban single-use plastic bags and straws on Bali Island.",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "'To promote the use of paper bags for shopping.",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "To impose a penalty on anyone caught littering. 2020 12 25 --- Page 3 --- Questions 19 to 21 are based on the passage you have just heard.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": {
+        "raw": "A) To charge a small fee on plastic products in supermarkets.\nB) To ban single-use plastic bags and straws on Bali Island.\nC) 'To promote the use of paper bags for shopping.\nD) To impose a penalty on anyone caught littering.\n2020 12 25\n--- Page 3 ---",
+        "html": ""
+      },
+      "audio_start_time": null,
+      "audio_end_time": null,
+      "transcript": "",
+      "passage_ref": {
+        "passage_id": null,
+        "paragraph_ids": [],
+        "evidence_text": ""
+      },
+      "tags": [],
+      "difficulty": 3,
+      "score": 2.5,
+      "import_meta": {
+        "source_question_no": "L18",
+        "confidence": 0.7,
+        "needs_review": true
+      },
+      "created_at": {
+        "$date": "2026-07-24T06:06:19.097189+00:00"
+      },
+      "updated_at": {
+        "$date": "2026-07-24T06:06:19.097189+00:00"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "0f176a272b581089bb7449aa"
+      },
+      "section_id": {
+        "$oid": "4709a3caec26419e0fbd5a4b"
+      },
+      "passage_id": null,
+      "audio_file_id": {
+        "$oid": "795678aa44105a532635732e"
+      },
+      "question_type": "single_choice",
+      "order_index": 19,
+      "question_text": {
+        "raw": "Question 19",
+        "html": ""
+      },
+      "options": [
+        {
+          "key": "A",
+          "text": "It gives birth to several babies at a time.",
+          "is_correct": true
+        },
+        {
+          "key": "C",
+          "text": "Its breeding grounds are now better preserved.",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "It is the least protected mammal species.",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Its population is now showing signs of increase",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": {
+        "raw": "A) It gives birth to several babies at a time. C) Its breeding grounds are now better preserved.\nB) It is the least protected mammal species. D) Its population is now showing signs of increase",
+        "html": ""
+      },
+      "audio_start_time": null,
+      "audio_end_time": null,
+      "transcript": "",
+      "passage_ref": {
+        "passage_id": null,
+        "paragraph_ids": [],
+        "evidence_text": ""
+      },
+      "tags": [],
+      "difficulty": 3,
+      "score": 2.5,
+      "import_meta": {
+        "source_question_no": "L19",
+        "confidence": 0.7,
+        "needs_review": true
+      },
+      "created_at": {
+        "$date": "2026-07-24T06:06:19.097189+00:00"
+      },
+      "updated_at": {
+        "$date": "2026-07-24T06:06:19.097189+00:00"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "871ce57b75294810da4af861"
+      },
+      "section_id": {
+        "$oid": "4709a3caec26419e0fbd5a4b"
+      },
+      "passage_id": null,
+      "audio_file_id": {
+        "$oid": "795678aa44105a532635732e"
+      },
+      "question_type": "single_choice",
+      "order_index": 20,
+      "question_text": {
+        "raw": "Question 20",
+        "html": ""
+      },
+      "options": [
+        {
+          "key": "A",
+          "text": "Global warming.",
+          "is_correct": true
+        },
+        {
+          "key": "C",
+          "text": "Commercial hunting.",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Polluted seawaters.",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Decreasing birthrates.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": {
+        "raw": "A) Global warming. C) Commercial hunting.\nB) Polluted seawaters. D) Decreasing birthrates.",
+        "html": ""
+      },
+      "audio_start_time": null,
+      "audio_end_time": null,
+      "transcript": "",
+      "passage_ref": {
+        "passage_id": null,
+        "paragraph_ids": [],
+        "evidence_text": ""
+      },
+      "tags": [],
+      "difficulty": 3,
+      "score": 2.5,
+      "import_meta": {
+        "source_question_no": "L20",
+        "confidence": 0.7,
+        "needs_review": true
+      },
+      "created_at": {
+        "$date": "2026-07-24T06:06:19.097189+00:00"
+      },
+      "updated_at": {
+        "$date": "2026-07-24T06:06:19.097189+00:00"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "e8feb4548a23a89516764553"
+      },
+      "section_id": {
+        "$oid": "4709a3caec26419e0fbd5a4b"
+      },
+      "passage_id": null,
+      "audio_file_id": {
+        "$oid": "795678aa44105a532635732e"
+      },
+      "question_type": "single_choice",
+      "order_index": 21,
+      "question_text": {
+        "raw": "Question 21",
+        "html": ""
+      },
+      "options": [
+        {
+          "key": "A",
+          "text": "To mate.",
+          "is_correct": true
+        },
+        {
+          "key": "C",
+          "text": "To escape hunters.",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "To look for food.",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "To seek breeding grounds. Questions 22 to 25 are based on the passage you have just heard.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": {
+        "raw": "A) To mate. C) To escape hunters.\nB) To look for food. D) To seek breeding grounds.\nQuestions 22 to 25 are based on the passage you have just heard.",
+        "html": ""
+      },
+      "audio_start_time": null,
+      "audio_end_time": null,
+      "transcript": "",
+      "passage_ref": {
+        "passage_id": null,
+        "paragraph_ids": [],
+        "evidence_text": ""
+      },
+      "tags": [],
+      "difficulty": 3,
+      "score": 2.5,
+      "import_meta": {
+        "source_question_no": "L21",
+        "confidence": 0.7,
+        "needs_review": true
+      },
+      "created_at": {
+        "$date": "2026-07-24T06:06:19.097189+00:00"
+      },
+      "updated_at": {
+        "$date": "2026-07-24T06:06:19.097189+00:00"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "753a54eb6a1dc1819eff0e88"
+      },
+      "section_id": {
+        "$oid": "4709a3caec26419e0fbd5a4b"
+      },
+      "passage_id": null,
+      "audio_file_id": {
+        "$oid": "795678aa44105a532635732e"
+      },
+      "question_type": "single_choice",
+      "order_index": 22,
+      "question_text": {
+        "raw": "Question 22",
+        "html": ""
+      },
+      "options": [
+        {
+          "key": "A",
+          "text": "They prefer to drink low-fat milk.",
+          "is_correct": true
+        },
+        {
+          "key": "C",
+          "text": "They consume less milk these days.",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "They think milk is good for health.",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "They buy more milk than the British.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": {
+        "raw": "A) They prefer to drink low-fat milk. C) They consume less milk these days.\nB) They think milk is good for health. D) They buy more milk than the British.",
+        "html": ""
+      },
+      "audio_start_time": null,
+      "audio_end_time": null,
+      "transcript": "",
+      "passage_ref": {
+        "passage_id": null,
+        "paragraph_ids": [],
+        "evidence_text": ""
+      },
+      "tags": [],
+      "difficulty": 3,
+      "score": 2.5,
+      "import_meta": {
+        "source_question_no": "L22",
+        "confidence": 0.7,
+        "needs_review": true
+      },
+      "created_at": {
+        "$date": "2026-07-24T06:06:19.097189+00:00"
+      },
+      "updated_at": {
+        "$date": "2026-07-24T06:06:19.097189+00:00"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "887350092934cd4af229eec5"
+      },
+      "section_id": {
+        "$oid": "4709a3caec26419e0fbd5a4b"
+      },
+      "passage_id": null,
+      "audio_file_id": {
+        "$oid": "795678aa44105a532635732e"
+      },
+      "question_type": "single_choice",
+      "order_index": 23,
+      "question_text": {
+        "raw": "Question 23",
+        "html": ""
+      },
+      "options": [
+        {
+          "key": "A",
+          "text": "It is not as healthy as once thought.",
+          "is_correct": true
+        },
+        {
+          "key": "C",
+          "text": "It benefits the elderly more.",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "It is not easy to stay fresh for long.",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "It tends to make people fat.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": {
+        "raw": "A) It is not as healthy as once thought. C) It benefits the elderly more.\nB) It is not easy to stay fresh for long. D) It tends to make people fat.",
+        "html": ""
+      },
+      "audio_start_time": null,
+      "audio_end_time": null,
+      "transcript": "",
+      "passage_ref": {
+        "passage_id": null,
+        "paragraph_ids": [],
+        "evidence_text": ""
+      },
+      "tags": [],
+      "difficulty": 3,
+      "score": 2.5,
+      "import_meta": {
+        "source_question_no": "L23",
+        "confidence": 0.7,
+        "needs_review": true
+      },
+      "created_at": {
+        "$date": "2026-07-24T06:06:19.097189+00:00"
+      },
+      "updated_at": {
+        "$date": "2026-07-24T06:06:19.097189+00:00"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "eae1f5c0b4f0de0f87c63678"
+      },
+      "section_id": {
+        "$oid": "4709a3caec26419e0fbd5a4b"
+      },
+      "passage_id": null,
+      "audio_file_id": {
+        "$oid": "795678aa44105a532635732e"
+      },
+      "question_type": "single_choice",
+      "order_index": 24,
+      "question_text": {
+        "raw": "Question 24",
+        "html": ""
+      },
+      "options": [
+        {
+          "key": "A",
+          "text": "They drink too many pints every day.",
+          "is_correct": true
+        },
+        {
+          "key": "C",
+          "text": "They lack the necessary proteins to digest it.",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "They are sensitive to certain minerals.",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "They have eaten food incompatible with milk",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": {
+        "raw": "A) They drink too many pints every day. C) They lack the necessary proteins to digest it.\nB) They are sensitive to certain minerals. D) They have eaten food incompatible with milk",
+        "html": ""
+      },
+      "audio_start_time": null,
+      "audio_end_time": null,
+      "transcript": "",
+      "passage_ref": {
+        "passage_id": null,
+        "paragraph_ids": [],
+        "evidence_text": ""
+      },
+      "tags": [],
+      "difficulty": 3,
+      "score": 2.5,
+      "import_meta": {
+        "source_question_no": "L24",
+        "confidence": 0.7,
+        "needs_review": true
+      },
+      "created_at": {
+        "$date": "2026-07-24T06:06:19.097189+00:00"
+      },
+      "updated_at": {
+        "$date": "2026-07-24T06:06:19.097189+00:00"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "479802a17cb4d166b4c3d2ea"
+      },
+      "section_id": {
+        "$oid": "4709a3caec26419e0fbd5a4b"
+      },
+      "passage_id": null,
+      "audio_file_id": {
+        "$oid": "795678aa44105a532635732e"
+      },
+      "question_type": "single_choice",
+      "order_index": 25,
+      "question_text": {
+        "raw": "Question 25",
+        "html": ""
+      },
+      "options": [
+        {
+          "key": "A",
+          "text": "It is easier for sick people to digest.",
+          "is_correct": true
+        },
+        {
+          "key": "C",
+          "text": "It is healthier than other animal products.",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "It provides some necessary nutrients.",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "It supplies the body with enough calories. Part H[",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": {
+        "raw": "A) It is easier for sick people to digest. C) It is healthier than other animal products.\nB) It provides some necessary nutrients. D) It supplies the body with enough calories.\nPart H[ Reading Comprehension (40 minutes)\nSection A\nDirections: In this section, there is a passage with ten blanks. You are required to select one word for each\nblank from a list of choices given in a word bank following the passage. Read the passage through carefully",
+        "html": ""
+      },
+      "audio_start_time": null,
+      "audio_end_time": null,
+      "transcript": "",
+      "passage_ref": {
+        "passage_id": null,
+        "paragraph_ids": [],
+        "evidence_text": ""
+      },
+      "tags": [],
+      "difficulty": 3,
+      "score": 2.5,
+      "import_meta": {
+        "source_question_no": "L25",
+        "confidence": 0.7,
+        "needs_review": true
+      },
+      "created_at": {
+        "$date": "2026-07-24T06:06:19.097189+00:00"
+      },
+      "updated_at": {
+        "$date": "2026-07-24T06:06:19.097189+00:00"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "aef2efec94189e5e0a6ce8c8"
+      },
+      "section_id": {
+        "$oid": "042bdd625e4adf3fe244617e"
+      },
+      "passage_id": {
+        "$oid": "9da0ad40e3f5250495a9df62"
+      },
+      "audio_file_id": null,
+      "question_type": "single_choice",
+      "order_index": 1,
+      "question_text": {
+        "raw": "One legislative staffer assumed that a woman of color who advocated affordable childcare must be a single mother.",
+        "html": ""
+      },
+      "options": [],
+      "correct_answer": null,
+      "explanation": {
+        "raw": "One legislative staffer assumed that a woman of color who advocated affordable childcare must be a\nsingle mother.",
+        "html": ""
+      },
+      "audio_start_time": null,
+      "audio_end_time": null,
+      "transcript": "",
+      "passage_ref": {
+        "passage_id": {
+          "$oid": "9da0ad40e3f5250495a9df62"
+        },
+        "paragraph_ids": [],
+        "evidence_text": ""
+      },
+      "tags": [],
+      "difficulty": 3,
+      "score": 2.5,
+      "import_meta": {
+        "source_question_no": "R36",
+        "confidence": 0.35,
+        "needs_review": true
+      },
+      "created_at": {
+        "$date": "2026-07-24T06:06:19.097189+00:00"
+      },
+      "updated_at": {
+        "$date": "2026-07-24T06:06:19.097189+00:00"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "7a126e2c04f3c11345b381dc"
+      },
+      "section_id": {
+        "$oid": "042bdd625e4adf3fe244617e"
+      },
+      "passage_id": {
+        "$oid": "9da0ad40e3f5250495a9df62"
+      },
+      "audio_file_id": null,
+      "question_type": "single_choice",
+      "order_index": 2,
+      "question_text": {
+        "raw": "People from different races, genders, and regions all suffer from a lack of financial security.",
+        "html": ""
+      },
+      "options": [],
+      "correct_answer": null,
+      "explanation": {
+        "raw": "People from different races, genders, and regions all suffer from a lack of financial security.",
+        "html": ""
+      },
+      "audio_start_time": null,
+      "audio_end_time": null,
+      "transcript": "",
+      "passage_ref": {
+        "passage_id": {
+          "$oid": "9da0ad40e3f5250495a9df62"
+        },
+        "paragraph_ids": [],
+        "evidence_text": ""
+      },
+      "tags": [],
+      "difficulty": 3,
+      "score": 2.5,
+      "import_meta": {
+        "source_question_no": "R37",
+        "confidence": 0.35,
+        "needs_review": true
+      },
+      "created_at": {
+        "$date": "2026-07-24T06:06:19.097189+00:00"
+      },
+      "updated_at": {
+        "$date": "2026-07-24T06:06:19.097189+00:00"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "8d63d6250d911c3c471185a4"
+      },
+      "section_id": {
+        "$oid": "042bdd625e4adf3fe244617e"
+      },
+      "passage_id": {
+        "$oid": "9da0ad40e3f5250495a9df62"
+      },
+      "audio_file_id": null,
+      "question_type": "single_choice",
+      "order_index": 3,
+      "question_text": {
+        "raw": "According to a survey, while the majority believe too little assistance is given to the poor, more than a third believe too much is spent on welfare.",
+        "html": ""
+      },
+      "options": [],
+      "correct_answer": null,
+      "explanation": {
+        "raw": "According to a survey, while the majority believe too little assistance is given to the poor, more than\na third believe too much is spent on welfare.",
+        "html": ""
+      },
+      "audio_start_time": null,
+      "audio_end_time": null,
+      "transcript": "",
+      "passage_ref": {
+        "passage_id": {
+          "$oid": "9da0ad40e3f5250495a9df62"
+        },
+        "paragraph_ids": [],
+        "evidence_text": ""
+      },
+      "tags": [],
+      "difficulty": 3,
+      "score": 2.5,
+      "import_meta": {
+        "source_question_no": "R38",
+        "confidence": 0.35,
+        "needs_review": true
+      },
+      "created_at": {
+        "$date": "2026-07-24T06:06:19.097189+00:00"
+      },
+      "updated_at": {
+        "$date": "2026-07-24T06:06:19.097189+00:00"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "e78e8a242b7c3f53d971300d"
+      },
+      "section_id": {
+        "$oid": "042bdd625e4adf3fe244617e"
+      },
+      "passage_id": {
+        "$oid": "9da0ad40e3f5250495a9df62"
+      },
+      "audio_file_id": null,
+      "question_type": "single_choice",
+      "order_index": 4,
+      "question_text": {
+        "raw": "A research group has found that Americans who are struggling are thought to be lazy and to have made the wrong decisions.",
+        "html": ""
+      },
+      "options": [],
+      "correct_answer": "A",
+      "explanation": {
+        "raw": "A research group has found that Americans who are struggling are thought to be lazy and to have made\nthe wrong decisions.",
+        "html": ""
+      },
+      "audio_start_time": null,
+      "audio_end_time": null,
+      "transcript": "",
+      "passage_ref": {
+        "passage_id": {
+          "$oid": "9da0ad40e3f5250495a9df62"
+        },
+        "paragraph_ids": [],
+        "evidence_text": ""
+      },
+      "tags": [],
+      "difficulty": 3,
+      "score": 2.5,
+      "import_meta": {
+        "source_question_no": "R39",
+        "confidence": 0.7,
+        "needs_review": true
+      },
+      "created_at": {
+        "$date": "2026-07-24T06:06:19.097189+00:00"
+      },
+      "updated_at": {
+        "$date": "2026-07-24T06:06:19.097189+00:00"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "78b1e1ad744237aa35677692"
+      },
+      "section_id": {
+        "$oid": "042bdd625e4adf3fe244617e"
+      },
+      "passage_id": {
+        "$oid": "9da0ad40e3f5250495a9df62"
+      },
+      "audio_file_id": null,
+      "question_type": "single_choice",
+      "order_index": 5,
+      "question_text": {
+        "raw": "Under the old system in America, a mother was supposed to stay home and take care of her children.",
+        "html": ""
+      },
+      "options": [],
+      "correct_answer": null,
+      "explanation": {
+        "raw": "Under the old system in America, a mother was supposed to stay home and take care of her children.",
+        "html": ""
+      },
+      "audio_start_time": null,
+      "audio_end_time": null,
+      "transcript": "",
+      "passage_ref": {
+        "passage_id": {
+          "$oid": "9da0ad40e3f5250495a9df62"
+        },
+        "paragraph_ids": [],
+        "evidence_text": ""
+      },
+      "tags": [],
+      "difficulty": 3,
+      "score": 2.5,
+      "import_meta": {
+        "source_question_no": "R40",
+        "confidence": 0.35,
+        "needs_review": true
+      },
+      "created_at": {
+        "$date": "2026-07-24T06:06:19.097189+00:00"
+      },
+      "updated_at": {
+        "$date": "2026-07-24T06:06:19.097189+00:00"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6e6be878c905daba4e9ee8e1"
+      },
+      "section_id": {
+        "$oid": "042bdd625e4adf3fe244617e"
+      },
+      "passage_id": {
+        "$oid": "9da0ad40e3f5250495a9df62"
+      },
+      "audio_file_id": null,
+      "question_type": "single_choice",
+      "order_index": 6,
+      "question_text": {
+        "raw": "It was found that nearly 50% of Americans are poor or receive low pay.",
+        "html": ""
+      },
+      "options": [],
+      "correct_answer": null,
+      "explanation": {
+        "raw": "It was found that nearly 50% of Americans are poor or receive low pay.",
+        "html": ""
+      },
+      "audio_start_time": null,
+      "audio_end_time": null,
+      "transcript": "",
+      "passage_ref": {
+        "passage_id": {
+          "$oid": "9da0ad40e3f5250495a9df62"
+        },
+        "paragraph_ids": [],
+        "evidence_text": ""
+      },
+      "tags": [],
+      "difficulty": 3,
+      "score": 2.5,
+      "import_meta": {
+        "source_question_no": "R41",
+        "confidence": 0.35,
+        "needs_review": true
+      },
+      "created_at": {
+        "$date": "2026-07-24T06:06:19.097189+00:00"
+      },
+      "updated_at": {
+        "$date": "2026-07-24T06:06:19.097189+00:00"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "ae8d1a460c648e02308184fa"
+      },
+      "section_id": {
+        "$oid": "042bdd625e4adf3fe244617e"
+      },
+      "passage_id": {
+        "$oid": "9da0ad40e3f5250495a9df62"
+      },
+      "audio_file_id": null,
+      "question_type": "single_choice",
+      "order_index": 7,
+      "question_text": {
+        "raw": "Americans usually overestimate the number of blacks receiving welfare benefits.",
+        "html": ""
+      },
+      "options": [],
+      "correct_answer": null,
+      "explanation": {
+        "raw": "Americans usually overestimate the number of blacks receiving welfare benefits.",
+        "html": ""
+      },
+      "audio_start_time": null,
+      "audio_end_time": null,
+      "transcript": "",
+      "passage_ref": {
+        "passage_id": {
+          "$oid": "9da0ad40e3f5250495a9df62"
+        },
+        "paragraph_ids": [],
+        "evidence_text": ""
+      },
+      "tags": [],
+      "difficulty": 3,
+      "score": 2.5,
+      "import_meta": {
+        "source_question_no": "R42",
+        "confidence": 0.35,
+        "needs_review": true
+      },
+      "created_at": {
+        "$date": "2026-07-24T06:06:19.097189+00:00"
+      },
+      "updated_at": {
+        "$date": "2026-07-24T06:06:19.097189+00:00"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "edad8fe855960114df786347"
+      },
+      "section_id": {
+        "$oid": "042bdd625e4adf3fe244617e"
+      },
+      "passage_id": {
+        "$oid": "9da0ad40e3f5250495a9df62"
+      },
+      "audio_file_id": null,
+      "question_type": "single_choice",
+      "order_index": 8,
+      "question_text": {
+        "raw": "It is impossible for Americans to lift themselves out of poverty entirely on their own.",
+        "html": ""
+      },
+      "options": [],
+      "correct_answer": null,
+      "explanation": {
+        "raw": "It is impossible for Americans to lift themselves out of poverty entirely on their own.",
+        "html": ""
+      },
+      "audio_start_time": null,
+      "audio_end_time": null,
+      "transcript": "",
+      "passage_ref": {
+        "passage_id": {
+          "$oid": "9da0ad40e3f5250495a9df62"
+        },
+        "paragraph_ids": [],
+        "evidence_text": ""
+      },
+      "tags": [],
+      "difficulty": 3,
+      "score": 2.5,
+      "import_meta": {
+        "source_question_no": "R43",
+        "confidence": 0.35,
+        "needs_review": true
+      },
+      "created_at": {
+        "$date": "2026-07-24T06:06:19.097189+00:00"
+      },
+      "updated_at": {
+        "$date": "2026-07-24T06:06:19.097189+00:00"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "89bf36168462c8f7d765dd85"
+      },
+      "section_id": {
+        "$oid": "042bdd625e4adf3fe244617e"
+      },
+      "passage_id": {
+        "$oid": "9da0ad40e3f5250495a9df62"
+      },
+      "audio_file_id": null,
+      "question_type": "single_choice",
+      "order_index": 9,
+      "question_text": {
+        "raw": "Nowadays, it seems none of us can get away from income inequality.",
+        "html": ""
+      },
+      "options": [],
+      "correct_answer": null,
+      "explanation": {
+        "raw": "Nowadays, it seems none of us can get away from income inequality.",
+        "html": ""
+      },
+      "audio_start_time": null,
+      "audio_end_time": null,
+      "transcript": "",
+      "passage_ref": {
+        "passage_id": {
+          "$oid": "9da0ad40e3f5250495a9df62"
+        },
+        "paragraph_ids": [],
+        "evidence_text": ""
+      },
+      "tags": [],
+      "difficulty": 3,
+      "score": 2.5,
+      "import_meta": {
+        "source_question_no": "R44",
+        "confidence": 0.35,
+        "needs_review": true
+      },
+      "created_at": {
+        "$date": "2026-07-24T06:06:19.097189+00:00"
+      },
+      "updated_at": {
+        "$date": "2026-07-24T06:06:19.097189+00:00"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "c6d05470986d882b65cc7f93"
+      },
+      "section_id": {
+        "$oid": "042bdd625e4adf3fe244617e"
+      },
+      "passage_id": {
+        "$oid": "9da0ad40e3f5250495a9df62"
+      },
+      "audio_file_id": null,
+      "question_type": "single_choice",
+      "order_index": 10,
+      "question_text": {
+        "raw": "Assumptions about poor people become even more negative when they live on welfare. Section C Directions: There are 2 passages in this section. Each passage is followed by some questions or unfinished statements. For each of them there are four choices marked",
+        "html": ""
+      },
+      "options": [
+        {
+          "key": "A",
+          "text": ",",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": ",",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "andD). You should decide on the best choice and mark the corresponding letter on Answer Sheet 2 with a single line through the centre. Passage One Questions 46 to 50 are based on the following passage. Boredom has, paradoxically, become quite interesting to academics lately. In early May, London’s Boring Conference celebrated seven years of delighting in dullness. At this event, people flocked to talks about weather, traffic jams, and vending-machine sounds, among other sleep-inducing topics. What, exactly, is everybody studying? One widely accepted psychological definition of boredom is “the distasteful experience of wanting, but being unable, to engage in satisfying activity.” But how can you quantify a person’s boredom level and compare it with someone else’s? In 1986, psychologists introduced the Boredom Proneness Scale, designed to measure an individual’s overall tendency to feel bored. By contrast, the Multidimensional State Boredom Scale, developed in 2008, measures a person’s feelings of boredom in a given situation. Boredom has been linked to behavior issues including inattentive driving, mindless snacking, excessive drinking, and addictive gambling. In fact, many of us would choose pain over boredom. One team of psychologists discovered that two-thirds of men and a quarter of women would rather self-administer electric shocks than sit alone with their thoughts for 15 minutes. Researching this phenomenon, another team asked volunteers to watch boring, sad, or neutral films, during which they could self-administer electric shocks. The bored volunteers shocked themselves more and harder than the sad or neutral ones did. But boredom isn’t all bad. By encouraging self-reflection and daydreaming, it can spur creativity. An early study gave participants abundant time to complete problem-solving and word-association exercises. Once all the obvious answers were exhausted, participants gave more and more inventive answers to M 2020 12 ft 29 --- Page 7 --- combat boredom. A British study took these findings one step further* asking subjects to complete a creative challenge (coming up with a list of alternative uses for a household item). One group of subjects did a boring activity first, while the others went straight to the creative task. Those whose boredom pumps had been primed were more productive. In our always-connected world, boredom may be a hard-to-define state, but it is a fertile one. Watch paint dry or water boil, or at least put away your smartphone for a while, and you might unlock your next big idea.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": null,
+      "explanation": {
+        "raw": "Assumptions about poor people become even more negative when they live on welfare.\nSection C\nDirections: There are 2 passages in this section. Each passage is followed by some questions or unfinished\nstatements. For each of them there are four choices marked A) , B), C) andD). You should decide on the\nbest choice and mark the corresponding letter on Answer Sheet 2 with a single line through the centre.\nPassage One",
+        "html": ""
+      },
+      "audio_start_time": null,
+      "audio_end_time": null,
+      "transcript": "",
+      "passage_ref": {
+        "passage_id": {
+          "$oid": "9da0ad40e3f5250495a9df62"
+        },
+        "paragraph_ids": [],
+        "evidence_text": ""
+      },
+      "tags": [],
+      "difficulty": 3,
+      "score": 2.5,
+      "import_meta": {
+        "source_question_no": "R45",
+        "confidence": 0.35,
+        "needs_review": true
+      },
+      "created_at": {
+        "$date": "2026-07-24T06:06:19.097189+00:00"
+      },
+      "updated_at": {
+        "$date": "2026-07-24T06:06:19.097189+00:00"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "8a11bb12569a950a0f8bed5e"
+      },
+      "section_id": {
+        "$oid": "042bdd625e4adf3fe244617e"
+      },
+      "passage_id": {
+        "$oid": "9da0ad40e3f5250495a9df62"
+      },
+      "audio_file_id": null,
+      "question_type": "single_choice",
+      "order_index": 11,
+      "question_text": {
+        "raw": "When are people likely to experience boredom, according to an accepted psychological definition?",
+        "html": ""
+      },
+      "options": [
+        {
+          "key": "A",
+          "text": "When they don’t have the chance to do what they want.",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "When they don’t enjoy the materials they are studying.",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "When they experience something unpleasant..",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "When they engage in some routine activities.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": null,
+      "explanation": {
+        "raw": "When are people likely to experience boredom, according to an accepted psychological definition?\nA) When they don’t have the chance to do what they want.\nB) When they don’t enjoy the materials they are studying.\nC) When they experience something unpleasant..\nD) When they engage in some routine activities.",
+        "html": ""
+      },
+      "audio_start_time": null,
+      "audio_end_time": null,
+      "transcript": "",
+      "passage_ref": {
+        "passage_id": {
+          "$oid": "9da0ad40e3f5250495a9df62"
+        },
+        "paragraph_ids": [],
+        "evidence_text": ""
+      },
+      "tags": [],
+      "difficulty": 3,
+      "score": 2.5,
+      "import_meta": {
+        "source_question_no": "R46",
+        "confidence": 0.35,
+        "needs_review": true
+      },
+      "created_at": {
+        "$date": "2026-07-24T06:06:19.097189+00:00"
+      },
+      "updated_at": {
+        "$date": "2026-07-24T06:06:19.097189+00:00"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "f8d768f120ceb991c8b4af13"
+      },
+      "section_id": {
+        "$oid": "042bdd625e4adf3fe244617e"
+      },
+      "passage_id": {
+        "$oid": "9da0ad40e3f5250495a9df62"
+      },
+      "audio_file_id": null,
+      "question_type": "single_choice",
+      "order_index": 12,
+      "question_text": {
+        "raw": "What does the author say boredom can lead to?",
+        "html": ""
+      },
+      "options": [
+        {
+          "key": "A",
+          "text": "Determination.",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Mental deterioration.",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Concentration.",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Harmful conduct.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": null,
+      "explanation": {
+        "raw": "What does the author say boredom can lead to?\nA) Determination. C) Mental deterioration.\nB) Concentration. D) Harmful conduct.",
+        "html": ""
+      },
+      "audio_start_time": null,
+      "audio_end_time": null,
+      "transcript": "",
+      "passage_ref": {
+        "passage_id": {
+          "$oid": "9da0ad40e3f5250495a9df62"
+        },
+        "paragraph_ids": [],
+        "evidence_text": ""
+      },
+      "tags": [],
+      "difficulty": 3,
+      "score": 2.5,
+      "import_meta": {
+        "source_question_no": "R47",
+        "confidence": 0.35,
+        "needs_review": true
+      },
+      "created_at": {
+        "$date": "2026-07-24T06:06:19.097189+00:00"
+      },
+      "updated_at": {
+        "$date": "2026-07-24T06:06:19.097189+00:00"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "e155b4c443383a661a7e0f27"
+      },
+      "section_id": {
+        "$oid": "042bdd625e4adf3fe244617e"
+      },
+      "passage_id": {
+        "$oid": "9da0ad40e3f5250495a9df62"
+      },
+      "audio_file_id": null,
+      "question_type": "single_choice",
+      "order_index": 13,
+      "question_text": {
+        "raw": "What is the finding of one team of psychologists in their experiment?",
+        "html": ""
+      },
+      "options": [
+        {
+          "key": "A",
+          "text": "Volunteers prefer watching a boring movie to sitting alone deliberating.",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Many volunteers choose to hurt themselves rather than endure boredom.",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Male volunteers are more immune to the effects of boredom than females.",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Many volunteers are unable to resist boredom longer than fifteen minutes.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": null,
+      "explanation": {
+        "raw": "What is the finding of one team of psychologists in their experiment?\nA) Volunteers prefer watching a boring movie to sitting alone deliberating.\nB) Many volunteers choose to hurt themselves rather than endure boredom.\nC) Male volunteers are more immune to the effects of boredom than females.\nD) Many volunteers are unable to resist boredom longer than fifteen minutes.",
+        "html": ""
+      },
+      "audio_start_time": null,
+      "audio_end_time": null,
+      "transcript": "",
+      "passage_ref": {
+        "passage_id": {
+          "$oid": "9da0ad40e3f5250495a9df62"
+        },
+        "paragraph_ids": [],
+        "evidence_text": ""
+      },
+      "tags": [],
+      "difficulty": 3,
+      "score": 2.5,
+      "import_meta": {
+        "source_question_no": "R48",
+        "confidence": 0.35,
+        "needs_review": true
+      },
+      "created_at": {
+        "$date": "2026-07-24T06:06:19.097189+00:00"
+      },
+      "updated_at": {
+        "$date": "2026-07-24T06:06:19.097189+00:00"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "dad0bc8cab1c6557076840fe"
+      },
+      "section_id": {
+        "$oid": "042bdd625e4adf3fe244617e"
+      },
+      "passage_id": {
+        "$oid": "9da0ad40e3f5250495a9df62"
+      },
+      "audio_file_id": null,
+      "question_type": "single_choice",
+      "order_index": 14,
+      "question_text": {
+        "raw": "Why does the author say boredom isn’t all bad?",
+        "html": ""
+      },
+      "options": [
+        {
+          "key": "A",
+          "text": "It stimulates memorization.",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "It may promote creative thinking.",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "It allows time for relaxation.",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "It may facilitate independent learning.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": null,
+      "explanation": {
+        "raw": "Why does the author say boredom isn’t all bad?\nA) It stimulates memorization. C) It may promote creative thinking.\nB) It allows time for relaxation. D) It may facilitate independent learning.",
+        "html": ""
+      },
+      "audio_start_time": null,
+      "audio_end_time": null,
+      "transcript": "",
+      "passage_ref": {
+        "passage_id": {
+          "$oid": "9da0ad40e3f5250495a9df62"
+        },
+        "paragraph_ids": [],
+        "evidence_text": ""
+      },
+      "tags": [],
+      "difficulty": 3,
+      "score": 2.5,
+      "import_meta": {
+        "source_question_no": "R49",
+        "confidence": 0.35,
+        "needs_review": true
+      },
+      "created_at": {
+        "$date": "2026-07-24T06:06:19.097189+00:00"
+      },
+      "updated_at": {
+        "$date": "2026-07-24T06:06:19.097189+00:00"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "0093ae9573dd2091530ea05a"
+      },
+      "section_id": {
+        "$oid": "042bdd625e4adf3fe244617e"
+      },
+      "passage_id": {
+        "$oid": "9da0ad40e3f5250495a9df62"
+      },
+      "audio_file_id": null,
+      "question_type": "single_choice",
+      "order_index": 15,
+      "question_text": {
+        "raw": "What does the author suggest one do when faced with a challenging problem?",
+        "html": ""
+      },
+      "options": [
+        {
+          "key": "A",
+          "text": "Stop idling and think big.",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Look around oneself for stimulation.",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Unlock one’s smartphone.",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Allow oneself some time to be bored. Passage Two Questions 51 to 55 are based on the following passage. Forests in countries like Brazil and the Congo get a lot of attention from environmentalists, and it is easy to see why. South America and sub-Saharan Africa are experiencing deforestation on an enormous scale: every year almost 5 million hectares are lost. But forests are also changing in rich Western countries. They are growing larger, both in the sense that they occupy more land and that the trees in them are bigger. What is going on? Forests are spreading in almost all Western countries, with the fastest growth in places that historically had rather few trees. In 1990 28% of Spain was forested; now the proportion is 37%. In both Greece and Italy, the growth was from 26% to 32% over the same period. Forests are gradually taking more land in America and Australia. Perhaps most astonishing is the trend in Ireland. Roughly 1% of that country was forested when it became independent in 1922. Now forests cover 11% of the land, and the government wants to push the proportion to 18% by the 2040s. Two things are fertilising this growth. The first is the abandonment of farmland, especially in high, dry places where nothing grows terribly well. When farmers give up trying to earn a living from farming or herding, trees simply move in. The second is government policy and subsidy. Throughout history, IW 2020 12 30 --- Page 8 --- governments have protected and promoted forests for diverse reasons, ranging from the need for wooden warships to a desire to promote suburban house-building. Nowadays forests are increasingly welcome because they suck in carbon pollution from the air. The justifications change; the desire for more trees remains constant. The greening of the West does not delight everyone. Farmers complain that land is being taken out of use by generously subsidised tree plantations. Parts of Spain and Portugal suffer from terrible forest fires. Others simply dislike the appearance of forests planted in neat rows. They will have to get used to the trees, however. The growth of Western forests seems almost as unstoppable as deforestation elsewhere.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": null,
+      "explanation": {
+        "raw": "What does the author suggest one do when faced with a challenging problem?\nA) Stop idling and think big. C) Look around oneself for stimulation.\nB) Unlock one’s smartphone. D) Allow oneself some time to be bored.\nPassage Two\nQuestions 51 to 55 are based on the following passage.\nForests in countries like Brazil and the Congo get a lot of attention from environmentalists, and it is",
+        "html": ""
+      },
+      "audio_start_time": null,
+      "audio_end_time": null,
+      "transcript": "",
+      "passage_ref": {
+        "passage_id": {
+          "$oid": "9da0ad40e3f5250495a9df62"
+        },
+        "paragraph_ids": [],
+        "evidence_text": ""
+      },
+      "tags": [],
+      "difficulty": 3,
+      "score": 2.5,
+      "import_meta": {
+        "source_question_no": "R50",
+        "confidence": 0.35,
+        "needs_review": true
+      },
+      "created_at": {
+        "$date": "2026-07-24T06:06:19.097189+00:00"
+      },
+      "updated_at": {
+        "$date": "2026-07-24T06:06:19.097189+00:00"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "8454eb38be0fbda8aa5ae7a9"
+      },
+      "section_id": {
+        "$oid": "042bdd625e4adf3fe244617e"
+      },
+      "passage_id": {
+        "$oid": "9da0ad40e3f5250495a9df62"
+      },
+      "audio_file_id": null,
+      "question_type": "single_choice",
+      "order_index": 16,
+      "question_text": {
+        "raw": "What is catching environmentalists’ attention nowadays?",
+        "html": ""
+      },
+      "options": [
+        {
+          "key": "A",
+          "text": "Rich countries are stripping poor ones of their resources.",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Forests are fast shrinking in many developing countries.",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Forests are eating away the fertile farmland worldwide.",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Rich countries are doing little to address deforestation.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": null,
+      "explanation": {
+        "raw": "What is catching environmentalists’ attention nowadays?\nA) Rich countries are stripping poor ones of their resources.\nB) Forests are fast shrinking in many developing countries.\nC) Forests are eating away the fertile farmland worldwide.\nD) Rich countries are doing little to address deforestation.",
+        "html": ""
+      },
+      "audio_start_time": null,
+      "audio_end_time": null,
+      "transcript": "",
+      "passage_ref": {
+        "passage_id": {
+          "$oid": "9da0ad40e3f5250495a9df62"
+        },
+        "paragraph_ids": [],
+        "evidence_text": ""
+      },
+      "tags": [],
+      "difficulty": 3,
+      "score": 2.5,
+      "import_meta": {
+        "source_question_no": "R51",
+        "confidence": 0.35,
+        "needs_review": true
+      },
+      "created_at": {
+        "$date": "2026-07-24T06:06:19.097189+00:00"
+      },
+      "updated_at": {
+        "$date": "2026-07-24T06:06:19.097189+00:00"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "ae217da3d7c6b43107759651"
+      },
+      "section_id": {
+        "$oid": "042bdd625e4adf3fe244617e"
+      },
+      "passage_id": {
+        "$oid": "9da0ad40e3f5250495a9df62"
+      },
+      "audio_file_id": null,
+      "question_type": "single_choice",
+      "order_index": 17,
+      "question_text": {
+        "raw": "Which countries have the fastest forest growth?",
+        "html": ""
+      },
+      "options": [
+        {
+          "key": "A",
+          "text": "Those that have newly achieved independence.",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Those that have the greatest demand for timber.",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Those that used to have the lowest forest coverage.",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Those that provide enormous government subsidies.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": null,
+      "explanation": {
+        "raw": "Which countries have the fastest forest growth?\nA) Those that have newly achieved independence.\nB) Those that have the greatest demand for timber.\nC) Those that used to have the lowest forest coverage.\nD) Those that provide enormous government subsidies.",
+        "html": ""
+      },
+      "audio_start_time": null,
+      "audio_end_time": null,
+      "transcript": "",
+      "passage_ref": {
+        "passage_id": {
+          "$oid": "9da0ad40e3f5250495a9df62"
+        },
+        "paragraph_ids": [],
+        "evidence_text": ""
+      },
+      "tags": [],
+      "difficulty": 3,
+      "score": 2.5,
+      "import_meta": {
+        "source_question_no": "R52",
+        "confidence": 0.35,
+        "needs_review": true
+      },
+      "created_at": {
+        "$date": "2026-07-24T06:06:19.097189+00:00"
+      },
+      "updated_at": {
+        "$date": "2026-07-24T06:06:19.097189+00:00"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "070ea5cf7cc5ef3fed482c9d"
+      },
+      "section_id": {
+        "$oid": "042bdd625e4adf3fe244617e"
+      },
+      "passage_id": {
+        "$oid": "9da0ad40e3f5250495a9df62"
+      },
+      "audio_file_id": null,
+      "question_type": "single_choice",
+      "order_index": 18,
+      "question_text": {
+        "raw": "What has encouraged forest growth historically?",
+        "html": ""
+      },
+      "options": [
+        {
+          "key": "A",
+          "text": "The government’s advocacy.",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "The use of wood for fuel.",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "The favourable climate.",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "The green movement.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": null,
+      "explanation": {
+        "raw": "What has encouraged forest growth historically?\nA) The government’s advocacy.\nB) The use of wood for fuel.\nC) The favourable climate.\nD) The green movement.",
+        "html": ""
+      },
+      "audio_start_time": null,
+      "audio_end_time": null,
+      "transcript": "",
+      "passage_ref": {
+        "passage_id": {
+          "$oid": "9da0ad40e3f5250495a9df62"
+        },
+        "paragraph_ids": [],
+        "evidence_text": ""
+      },
+      "tags": [],
+      "difficulty": 3,
+      "score": 2.5,
+      "import_meta": {
+        "source_question_no": "R53",
+        "confidence": 0.35,
+        "needs_review": true
+      },
+      "created_at": {
+        "$date": "2026-07-24T06:06:19.097189+00:00"
+      },
+      "updated_at": {
+        "$date": "2026-07-24T06:06:19.097189+00:00"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "a72b4f5c2d21f2b88e43185d"
+      },
+      "section_id": {
+        "$oid": "042bdd625e4adf3fe244617e"
+      },
+      "passage_id": {
+        "$oid": "9da0ad40e3f5250495a9df62"
+      },
+      "audio_file_id": null,
+      "question_type": "single_choice",
+      "order_index": 19,
+      "question_text": {
+        "raw": "What accounts for our increasing desire for forests?",
+        "html": ""
+      },
+      "options": [
+        {
+          "key": "A",
+          "text": "Their unique scenic beauty.",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Their use as fruit plantations.",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Their capability of improving air quality.",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Their stable supply of building materials.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": null,
+      "explanation": {
+        "raw": "What accounts for our increasing desire for forests?\nA) Their unique scenic beauty.\nB) Their use as fruit plantations.\nC) Their capability of improving air quality.\nD) Their stable supply of building materials.",
+        "html": ""
+      },
+      "audio_start_time": null,
+      "audio_end_time": null,
+      "transcript": "",
+      "passage_ref": {
+        "passage_id": {
+          "$oid": "9da0ad40e3f5250495a9df62"
+        },
+        "paragraph_ids": [],
+        "evidence_text": ""
+      },
+      "tags": [],
+      "difficulty": 3,
+      "score": 2.5,
+      "import_meta": {
+        "source_question_no": "R54",
+        "confidence": 0.35,
+        "needs_review": true
+      },
+      "created_at": {
+        "$date": "2026-07-24T06:06:19.097189+00:00"
+      },
+      "updated_at": {
+        "$date": "2026-07-24T06:06:19.097189+00:00"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "29c815d36d94428542bad6e8"
+      },
+      "section_id": {
+        "$oid": "042bdd625e4adf3fe244617e"
+      },
+      "passage_id": {
+        "$oid": "9da0ad40e3f5250495a9df62"
+      },
+      "audio_file_id": null,
+      "question_type": "single_choice",
+      "order_index": 20,
+      "question_text": {
+        "raw": "What does the author conclude about the prospects of forestation?",
+        "html": ""
+      },
+      "options": [
+        {
+          "key": "A",
+          "text": "Deserts in sub-Saharan Africa will diminish gradually.",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "It will play a more and more important role in people’s lives.",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Forest destruction in the developing world will quickly slow down.",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Developed and developing countries are moving in opposite directions. Part K",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": null,
+      "explanation": {
+        "raw": "What does the author conclude about the prospects of forestation?\nA) Deserts in sub-Saharan Africa will diminish gradually.\nB) It will play a more and more important role in people’s lives.\nC) Forest destruction in the developing world will quickly slow down.\nD) Developed and developing countries are moving in opposite directions.\nPart K Translation (30 minutes)",
+        "html": ""
+      },
+      "audio_start_time": null,
+      "audio_end_time": null,
+      "transcript": "",
+      "passage_ref": {
+        "passage_id": {
+          "$oid": "9da0ad40e3f5250495a9df62"
+        },
+        "paragraph_ids": [],
+        "evidence_text": ""
+      },
+      "tags": [],
+      "difficulty": 3,
+      "score": 2.5,
+      "import_meta": {
+        "source_question_no": "R55",
+        "confidence": 0.35,
+        "needs_review": true
+      },
+      "created_at": {
+        "$date": "2026-07-24T06:06:19.097189+00:00"
+      },
+      "updated_at": {
+        "$date": "2026-07-24T06:06:19.097189+00:00"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6e81526537802bf946c4ce64"
+      },
+      "section_id": {
+        "$oid": "3551195d0c08c9bc6937ed14"
+      },
+      "passage_id": null,
+      "audio_file_id": null,
+      "question_type": "subjective",
+      "order_index": 1,
+      "question_text": {
+        "raw": "Translation (30 minutes) Directions: For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2. E& 2020 12 31",
+        "html": ""
+      },
+      "options": [],
+      "correct_answer": {
+        "reference": "",
+        "rubric": []
+      },
+      "explanation": {
+        "raw": "",
+        "html": ""
+      },
+      "audio_start_time": null,
+      "audio_end_time": null,
+      "transcript": "",
+      "passage_ref": {
+        "passage_id": null,
+        "paragraph_ids": [],
+        "evidence_text": ""
+      },
+      "tags": [],
+      "difficulty": 3,
+      "score": 15,
+      "import_meta": {
+        "source_question_no": "T1",
+        "confidence": 0.45,
+        "needs_review": true
+      },
+      "created_at": {
+        "$date": "2026-07-24T06:06:19.097189+00:00"
+      },
+      "updated_at": {
+        "$date": "2026-07-24T06:06:19.097189+00:00"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "4d2d279e857acee26d93a355"
+      },
+      "section_id": {
+        "$oid": "3addb904c42140f703d202c9"
+      },
+      "passage_id": null,
+      "audio_file_id": null,
+      "question_type": "subjective",
+      "order_index": 1,
+      "question_text": {
+        "raw": "Part I Writing (30 minutes) Directions; For this part, you are allowed 30 minutes to write on the topic Changes in the Way of Transportation. You should write at least 120 words but no more than 180 words. Part I",
+        "html": ""
+      },
+      "options": [],
+      "correct_answer": {
+        "reference": "",
+        "rubric": []
+      },
+      "explanation": {
+        "raw": "",
+        "html": ""
+      },
+      "audio_start_time": null,
+      "audio_end_time": null,
+      "transcript": "",
+      "passage_ref": {
+        "passage_id": null,
+        "paragraph_ids": [],
+        "evidence_text": ""
+      },
+      "tags": [],
+      "difficulty": 3,
+      "score": 15,
+      "import_meta": {
+        "source_question_no": "W1",
+        "confidence": 0.45,
+        "needs_review": true
+      },
+      "created_at": {
+        "$date": "2026-07-24T06:06:19.097189+00:00"
+      },
+      "updated_at": {
+        "$date": "2026-07-24T06:06:19.097189+00:00"
+      }
+    }
+  ],
+  "extract_meta": {
+    "paper_id": "cet4-2020-12-1-80717ac9",
+    "question_pdf": "C:\\Users\\liujinhao\\Documents\\New project\\kaoyan-english-lab\\backend\\data\\extracted\\robust-import\\_downloads\\cet4-2020-12-2\\question.pdf",
+    "answer_pdf": "C:\\Users\\liujinhao\\Documents\\New project\\kaoyan-english-lab\\backend\\data\\extracted\\robust-import\\_downloads\\cet4-2020-12-2\\answer.pdf",
+    "audio_file": "C:\\Users\\liujinhao\\Documents\\New project\\kaoyan-english-lab\\backend\\data\\extracted\\robust-import\\_downloads\\cet4-2020-12-2\\audio.mp3",
+    "section_text_lengths": {
+      "writing": 212,
+      "listening": 5864,
+      "reading": 17385,
+      "translation": 190
+    },
+    "warnings": [],
+    "generated_at": "2026-07-24T06:06:19.097189+00:00",
+    "question_extract": {
+      "method": "pdfplumber",
+      "page_count": 8,
+      "elapsed_seconds": 3.132,
+      "errors": []
+    },
+    "answer_extract": {
+      "method": "pdfplumber",
+      "page_count": 8,
+      "elapsed_seconds": 3.35,
+      "errors": []
+    },
+    "answer_count": 45,
+    "elapsed_seconds": 6.501,
+    "parser_version": "safe-python-v2"
+  }
+}

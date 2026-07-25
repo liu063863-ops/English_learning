@@ -1,0 +1,44 @@
+{
+  "generated_at": "2026-07-24T04:26:45.587Z",
+  "mode": "apply",
+  "database": {
+    "requested": "sqlite",
+    "selected": "sqlite"
+  },
+  "inputs": {
+    "papersPath": "C:\\Users\\liujinhao\\Documents\\New project\\kaoyan-english-lab\\backend\\data\\imported\\_timeout_batches\\008-cet4-2021-6-1.json",
+    "extractedDir": "backend/data/extracted/robust-import",
+    "sqlitePath": "backend\\data\\english_exam.db",
+    "mongoUri": "mongodb://127.0.0.1:27017/english_exam",
+    "download": true
+  },
+  "summary": {
+    "completePapers": 1,
+    "incompletePapers": 0,
+    "parsed": 0,
+    "insertedOrUpdated": 0,
+    "skippedExisting": 0,
+    "failed": 1
+  },
+  "incompletePapers": [],
+  "papers": [
+    {
+      "paper": {
+        "paperId": "cet4-2021-6-1",
+        "key": "CET4:2021:6:1:past_exam",
+        "level": "CET4",
+        "year": 2021,
+        "month": 6,
+        "set_num": 1,
+        "warnings": []
+      },
+      "parsed": false,
+      "outputJson": "C:\\Users\\liujinhao\\Documents\\New project\\kaoyan-english-lab\\backend\\data\\extracted\\robust-import\\cet4-2021-6-1.mongo-import.json",
+      "action": "planned",
+      "status": "failed",
+      "errors": [
+        "fetch failed"
+      ]
+    }
+  ]
+}

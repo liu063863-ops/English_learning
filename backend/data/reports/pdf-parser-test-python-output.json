@@ -1,0 +1,440 @@
+{
+  "exams": [
+    {
+      "_id": {
+        "$oid": "bce9aa7750525a311896b75a"
+      },
+      "title": "None-None CET4 Set 1",
+      "level": "CET4",
+      "year": null,
+      "month": null,
+      "set_num": 1,
+      "source": "past_exam",
+      "source_meta": {
+        "provider": "local-folder",
+        "repo": "DieDiDi/CET4-6-past-exam-paper",
+        "folder_path": "C:\\Users\\liujinhao\\Documents\\New project\\kaoyan-english-lab\\backend\\data\\reports\\pdf-parser-test-input",
+        "question_pdf_url": "C:\\Users\\liujinhao\\Documents\\New project\\kaoyan-english-lab\\backend\\data\\reports\\pdf-parser-test-input\\question.pdf",
+        "answer_pdf_url": "C:\\Users\\liujinhao\\Documents\\New project\\kaoyan-english-lab\\backend\\data\\reports\\pdf-parser-test-input\\question.pdf"
+      },
+      "status": "draft",
+      "created_at": {
+        "$date": "2026-07-24T04:52:24.701097+00:00"
+      },
+      "updated_at": {
+        "$date": "2026-07-24T04:52:24.701097+00:00"
+      }
+    }
+  ],
+  "sections": [
+    {
+      "_id": {
+        "$oid": "8bd75899b5b216a9627c4a3b"
+      },
+      "exam_id": {
+        "$oid": "bce9aa7750525a311896b75a"
+      },
+      "section_type": "listening",
+      "section_name": "Listening Comprehension",
+      "order_index": 1,
+      "total_score": 35,
+      "time_limit": 25,
+      "created_at": {
+        "$date": "2026-07-24T04:52:24.701097+00:00"
+      },
+      "updated_at": {
+        "$date": "2026-07-24T04:52:24.701097+00:00"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "95f467ac26c41114699a68d0"
+      },
+      "exam_id": {
+        "$oid": "bce9aa7750525a311896b75a"
+      },
+      "section_type": "reading",
+      "section_name": "Reading Comprehension",
+      "order_index": 2,
+      "total_score": 35,
+      "time_limit": 40,
+      "created_at": {
+        "$date": "2026-07-24T04:52:24.701097+00:00"
+      },
+      "updated_at": {
+        "$date": "2026-07-24T04:52:24.701097+00:00"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "f1d5a81c6c8af8999a36cfa5"
+      },
+      "exam_id": {
+        "$oid": "bce9aa7750525a311896b75a"
+      },
+      "section_type": "translation",
+      "section_name": "Translation",
+      "order_index": 3,
+      "total_score": 15,
+      "time_limit": 30,
+      "created_at": {
+        "$date": "2026-07-24T04:52:24.701097+00:00"
+      },
+      "updated_at": {
+        "$date": "2026-07-24T04:52:24.701097+00:00"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "541a6205d27b956ba300f353"
+      },
+      "exam_id": {
+        "$oid": "bce9aa7750525a311896b75a"
+      },
+      "section_type": "writing",
+      "section_name": "Writing",
+      "order_index": 4,
+      "total_score": 15,
+      "time_limit": 30,
+      "created_at": {
+        "$date": "2026-07-24T04:52:24.701097+00:00"
+      },
+      "updated_at": {
+        "$date": "2026-07-24T04:52:24.701097+00:00"
+      }
+    }
+  ],
+  "audio_files": [],
+  "passages": [
+    {
+      "_id": {
+        "$oid": "ce2cb6359c5bfbe95eac8dfe"
+      },
+      "section_id": {
+        "$oid": "95f467ac26c41114699a68d0"
+      },
+      "title": "Reading Passage 1",
+      "order_index": 1,
+      "passage_text": "--- Page 1 ---\n第 1 页，共 13 页\n\n--- Page 2 ---\n第 2 页，共 13 页\n\n--- Page 3 ---\n第 3 页，共 13 页\n\n--- Page 4 ---\n第 4 页，共 13 页\n\n--- Page 5 ---\n第 5 页，共 13 页\n\n--- Page 6 ---\n第 6 页，共 13 页\n\n--- Page 7 ---\n第 7 页，共 13 页\n\n--- Page 8 ---\n第 8 页，共 13 页\n\n--- Page 9 ---\n第 9 页，共 13 页\n\n--- Page 10 ---\n第 10 页，共 13 页\n\n--- Page 11 ---\n第 11 页，共 13 页\n\n--- Page 12 ---\n第 12 页，共 13 页\n\n--- Page 13 ---\n第 13 页，共 13 页",
+      "paragraph_markers": [
+        {
+          "paragraph_id": "P1",
+          "order_index": 1,
+          "start_offset": 0,
+          "end_offset": 27,
+          "text_preview": "--- Page 1 ---\n第 1 页，共 13 页"
+        },
+        {
+          "paragraph_id": "P2",
+          "order_index": 2,
+          "start_offset": 29,
+          "end_offset": 56,
+          "text_preview": "--- Page 2 ---\n第 2 页，共 13 页"
+        },
+        {
+          "paragraph_id": "P3",
+          "order_index": 3,
+          "start_offset": 58,
+          "end_offset": 85,
+          "text_preview": "--- Page 3 ---\n第 3 页，共 13 页"
+        },
+        {
+          "paragraph_id": "P4",
+          "order_index": 4,
+          "start_offset": 87,
+          "end_offset": 114,
+          "text_preview": "--- Page 4 ---\n第 4 页，共 13 页"
+        },
+        {
+          "paragraph_id": "P5",
+          "order_index": 5,
+          "start_offset": 116,
+          "end_offset": 143,
+          "text_preview": "--- Page 5 ---\n第 5 页，共 13 页"
+        },
+        {
+          "paragraph_id": "P6",
+          "order_index": 6,
+          "start_offset": 145,
+          "end_offset": 172,
+          "text_preview": "--- Page 6 ---\n第 6 页，共 13 页"
+        },
+        {
+          "paragraph_id": "P7",
+          "order_index": 7,
+          "start_offset": 174,
+          "end_offset": 201,
+          "text_preview": "--- Page 7 ---\n第 7 页，共 13 页"
+        },
+        {
+          "paragraph_id": "P8",
+          "order_index": 8,
+          "start_offset": 203,
+          "end_offset": 230,
+          "text_preview": "--- Page 8 ---\n第 8 页，共 13 页"
+        },
+        {
+          "paragraph_id": "P9",
+          "order_index": 9,
+          "start_offset": 232,
+          "end_offset": 259,
+          "text_preview": "--- Page 9 ---\n第 9 页，共 13 页"
+        },
+        {
+          "paragraph_id": "P10",
+          "order_index": 10,
+          "start_offset": 261,
+          "end_offset": 290,
+          "text_preview": "--- Page 10 ---\n第 10 页，共 13 页"
+        },
+        {
+          "paragraph_id": "P11",
+          "order_index": 11,
+          "start_offset": 292,
+          "end_offset": 321,
+          "text_preview": "--- Page 11 ---\n第 11 页，共 13 页"
+        },
+        {
+          "paragraph_id": "P12",
+          "order_index": 12,
+          "start_offset": 323,
+          "end_offset": 352,
+          "text_preview": "--- Page 12 ---\n第 12 页，共 13 页"
+        },
+        {
+          "paragraph_id": "P13",
+          "order_index": 13,
+          "start_offset": 354,
+          "end_offset": 383,
+          "text_preview": "--- Page 13 ---\n第 13 页，共 13 页"
+        }
+      ],
+      "created_at": {
+        "$date": "2026-07-24T04:52:24.701097+00:00"
+      },
+      "updated_at": {
+        "$date": "2026-07-24T04:52:24.701097+00:00"
+      }
+    }
+  ],
+  "questions": [
+    {
+      "_id": {
+        "$oid": "88b52eae73e5c516a3870c83"
+      },
+      "section_id": {
+        "$oid": "8bd75899b5b216a9627c4a3b"
+      },
+      "passage_id": null,
+      "audio_file_id": {
+        "$oid": "d777fee8bffa18cf13556c13"
+      },
+      "question_type": "single_choice",
+      "order_index": 1,
+      "question_text": {
+        "raw": "Listening extraction placeholder. Please review source PDF and fill this item manually.",
+        "html": ""
+      },
+      "options": [],
+      "correct_answer": null,
+      "explanation": {
+        "raw": "Generated as placeholder because automatic PDF parsing did not find this section.",
+        "html": ""
+      },
+      "audio_start_time": null,
+      "audio_end_time": null,
+      "transcript": "",
+      "passage_ref": {
+        "passage_id": null,
+        "paragraph_ids": [],
+        "evidence_text": ""
+      },
+      "tags": [],
+      "difficulty": 3,
+      "score": 0,
+      "import_meta": {
+        "source_question_no": "LP1",
+        "confidence": 0.1,
+        "needs_review": true
+      },
+      "created_at": {
+        "$date": "2026-07-24T04:52:24.701097+00:00"
+      },
+      "updated_at": {
+        "$date": "2026-07-24T04:52:24.701097+00:00"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "4cf25d6a0ce395033b3749d0"
+      },
+      "section_id": {
+        "$oid": "95f467ac26c41114699a68d0"
+      },
+      "passage_id": {
+        "$oid": "ce2cb6359c5bfbe95eac8dfe"
+      },
+      "audio_file_id": null,
+      "question_type": "single_choice",
+      "order_index": 1,
+      "question_text": {
+        "raw": "Reading extraction placeholder. Please review source PDF and fill this item manually.",
+        "html": ""
+      },
+      "options": [],
+      "correct_answer": null,
+      "explanation": {
+        "raw": "Generated as placeholder because automatic PDF parsing did not find this section.",
+        "html": ""
+      },
+      "audio_start_time": null,
+      "audio_end_time": null,
+      "transcript": "",
+      "passage_ref": {
+        "passage_id": {
+          "$oid": "ce2cb6359c5bfbe95eac8dfe"
+        },
+        "paragraph_ids": [],
+        "evidence_text": ""
+      },
+      "tags": [],
+      "difficulty": 3,
+      "score": 0,
+      "import_meta": {
+        "source_question_no": "RP1",
+        "confidence": 0.1,
+        "needs_review": true
+      },
+      "created_at": {
+        "$date": "2026-07-24T04:52:24.701097+00:00"
+      },
+      "updated_at": {
+        "$date": "2026-07-24T04:52:24.701097+00:00"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "292920df17071a52dd2b3612"
+      },
+      "section_id": {
+        "$oid": "f1d5a81c6c8af8999a36cfa5"
+      },
+      "passage_id": null,
+      "audio_file_id": null,
+      "question_type": "subjective",
+      "order_index": 1,
+      "question_text": {
+        "raw": "Translation extraction placeholder. Please review source PDF and fill this item manually.",
+        "html": ""
+      },
+      "options": [],
+      "correct_answer": {
+        "reference": "",
+        "rubric": []
+      },
+      "explanation": {
+        "raw": "Generated as placeholder because automatic PDF parsing did not find this section.",
+        "html": ""
+      },
+      "audio_start_time": null,
+      "audio_end_time": null,
+      "transcript": "",
+      "passage_ref": {
+        "passage_id": null,
+        "paragraph_ids": [],
+        "evidence_text": ""
+      },
+      "tags": [],
+      "difficulty": 3,
+      "score": 15,
+      "import_meta": {
+        "source_question_no": "TP1",
+        "confidence": 0.1,
+        "needs_review": true
+      },
+      "created_at": {
+        "$date": "2026-07-24T04:52:24.701097+00:00"
+      },
+      "updated_at": {
+        "$date": "2026-07-24T04:52:24.701097+00:00"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "f25f222b739508fba15c8a5a"
+      },
+      "section_id": {
+        "$oid": "541a6205d27b956ba300f353"
+      },
+      "passage_id": null,
+      "audio_file_id": null,
+      "question_type": "subjective",
+      "order_index": 1,
+      "question_text": {
+        "raw": "Writing extraction placeholder. Please review source PDF and fill this item manually.",
+        "html": ""
+      },
+      "options": [],
+      "correct_answer": {
+        "reference": "",
+        "rubric": []
+      },
+      "explanation": {
+        "raw": "Generated as placeholder because automatic PDF parsing did not find this section.",
+        "html": ""
+      },
+      "audio_start_time": null,
+      "audio_end_time": null,
+      "transcript": "",
+      "passage_ref": {
+        "passage_id": null,
+        "paragraph_ids": [],
+        "evidence_text": ""
+      },
+      "tags": [],
+      "difficulty": 3,
+      "score": 15,
+      "import_meta": {
+        "source_question_no": "WP1",
+        "confidence": 0.1,
+        "needs_review": true
+      },
+      "created_at": {
+        "$date": "2026-07-24T04:52:24.701097+00:00"
+      },
+      "updated_at": {
+        "$date": "2026-07-24T04:52:24.701097+00:00"
+      }
+    }
+  ],
+  "extract_meta": {
+    "paper_id": "cet4-none-none-1-96985b0f",
+    "question_pdf": "C:\\Users\\liujinhao\\Documents\\New project\\kaoyan-english-lab\\backend\\data\\reports\\pdf-parser-test-input\\question.pdf",
+    "answer_pdf": "C:\\Users\\liujinhao\\Documents\\New project\\kaoyan-english-lab\\backend\\data\\reports\\pdf-parser-test-input\\question.pdf",
+    "audio_file": "",
+    "section_text_lengths": {
+      "reading": 383
+    },
+    "warnings": [
+      "No listening questions parsed; placeholder question generated.",
+      "No reading questions parsed; placeholder question generated.",
+      "Subjective sections incomplete; placeholder writing/translation questions may be generated."
+    ],
+    "generated_at": "2026-07-24T04:52:24.701097+00:00",
+    "question_extract": {
+      "method": "pdfplumber",
+      "page_count": 13,
+      "elapsed_seconds": 0.346,
+      "errors": []
+    },
+    "answer_extract": {
+      "method": "pdfplumber",
+      "page_count": 13,
+      "elapsed_seconds": 0.315,
+      "errors": []
+    },
+    "answer_count": 0,
+    "elapsed_seconds": 0.671,
+    "parser_version": "safe-python-v2"
+  }
+}
