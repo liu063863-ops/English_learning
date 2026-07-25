@@ -16,7 +16,7 @@ English Exam Lab 是一个面向四六级与考研英语备考的本地学习软
 
 - Frontend：React 18、Vite、lucide-react
 - Backend：Node.js、Express
-- Database：SQLite，本地数据库文件位于 `backend/data/english_exam.db`
+- Database：SQLite，本地运行使用 `backend/data/english_exam.db`，仓库保留 `backend/data/english_exam.db.sample`
 - Desktop：Electron
 - Package manager：pnpm workspace
 
@@ -109,10 +109,22 @@ pnpm run electron:dev
 
 ## 数据导入与验证
 
-当前项目支持 SQLite 降级导入，数据库文件：
+当前项目支持 SQLite 降级导入。本地运行数据库文件：
 
 ```text
 backend/data/english_exam.db
+```
+
+如果是新克隆项目，可以先复制样例库：
+
+```bash
+cp backend/data/english_exam.db.sample backend/data/english_exam.db
+```
+
+Windows PowerShell：
+
+```powershell
+Copy-Item backend/data/english_exam.db.sample backend/data/english_exam.db
 ```
 
 常用脚本：

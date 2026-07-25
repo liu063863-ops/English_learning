@@ -1,25 +1,44 @@
+# Dependencies
 node_modules/
+backend/node_modules/
+frontend/node_modules/
+
+# Build
+frontend/dist/
+release/
+
+# Logs
+logs/
+*.log
+
+# Electron
+electron-builder.yml
+
+# Database (keep a sample, ignore user data)
+backend/data/english_exam.db
+!backend/data/english_exam.db.sample
+
+# Generated import artifacts
 backend/data/*.json
 backend/data/*.db
-!backend/data/english_exam.db
+!backend/data/english_exam.db.sample
 backend/data/extracted/
 backend/data/generated/
 backend/data/imported/
 backend/data/reports/
-.env
-.env.*
-.DS_Store
-dist/
-frontend/dist/
-coverage/
-npm-debug.log*
-yarn.lock
-*.log
+
+# Python cache
 __pycache__/
 *.pyc
-logs/
-backend-server.log
-backend-server.err.log
-electron/dist/
-electron/out/
-release/
+
+# Environment
+.env
+.env.*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
