@@ -41,23 +41,34 @@ function writeLog(level, args) {
 function initDatabase() {
   const userDataPath = app.getPath("userData");
   const dbPath = path.join(userDataPath, "english_exam.db");
-  const sourceDb = path.join(rootDir, "backend", "data", "english_exam.db");
+  const jsonStorePath = path.join(userDataPath, "kaoyan_english.json");
+  const sourceDb = findDefaultDatabase();
 
   if (!fs.existsSync(userDataPath)) fs.mkdirSync(userDataPath, { recursive: true });
   if (!fs.existsSync(dbPath) && fs.existsSync(sourceDb)) {
     fs.copyFileSync(sourceDb, dbPath);
     console.log(`Database initialized: ${dbPath}`);
+  } else if (!fs.existsSync(dbPath)) {
+    console.log("Default SQLite database not found; backend will create fallback data if possible.");
   }
 
-  return dbPath;
+  return { dbPath, jsonStorePath };
 }
 
-function startBackend(dbPath) {
+function findDefaultDatabase() {
+  const candidates = [
+    path.join(rootDir, "backend", "data", "english_exam.db"),
+    path.join(rootDir, "backend", "data", "english_exam.db.sample")
+  ];
+  return candidates.find((candidate) => fs.existsSync(candidate)) || candidates[0];
+}
+
+function startBackend(dataPaths) {
   const backendCommands = resolveBackendCommands();
-  spawnBackendWithFallback(backendCommands, dbPath, 0);
+  spawnBackendWithFallback(backendCommands, dataPaths, 0);
 }
 
-function spawnBackendWithFallback(commands, dbPath, index) {
+function spawnBackendWithFallback(commands, dataPaths, index) {
   const backendCommand = commands[index];
   if (!backendCommand) {
     console.error("No backend command could be started.");
@@ -73,8 +84,9 @@ function spawnBackendWithFallback(commands, dbPath, index) {
       ...process.env,
       ...backendCommand.env,
       PORT: String(backendPort),
-      DB_PATH: dbPath,
-      SQLITE_DB_PATH: dbPath
+      DB_PATH: dataPaths.dbPath,
+      SQLITE_DB_PATH: dataPaths.dbPath,
+      JSON_STORE_PATH: dataPaths.jsonStorePath
     }
   });
 
@@ -90,7 +102,7 @@ function spawnBackendWithFallback(commands, dbPath, index) {
     console.log(`Backend exited: code=${code}, signal=${signal}`);
     if (code !== 0 && index + 1 < commands.length) {
       console.log("Retrying backend with fallback command...");
-      spawnBackendWithFallback(commands, dbPath, index + 1);
+      spawnBackendWithFallback(commands, dataPaths, index + 1);
     }
   });
 
@@ -264,10 +276,11 @@ app.whenReady().then(async () => {
     if (!useExternalBackend) backendPort = await findAvailablePort(backendPort);
     appPort = await findAvailablePort(appPort);
     console.log(`Ports: app=${appPort}, backend=${backendPort}`);
-    const dbPath = initDatabase();
-    console.log(`SQLite DB: ${dbPath}`);
+    const dataPaths = initDatabase();
+    console.log(`SQLite DB: ${dataPaths.dbPath}`);
+    console.log(`JSON store: ${dataPaths.jsonStorePath}`);
     if (useExternalBackend) console.log(`Using external backend on port ${backendPort}`);
-    else startBackend(dbPath);
+    else startBackend(dataPaths);
     await waitForBackend();
     await startFrontendServer();
     console.log(`Frontend server: http://127.0.0.1:${appPort}`);

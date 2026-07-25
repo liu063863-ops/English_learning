@@ -23,6 +23,7 @@ import ReadingPractice from "./components/ReadingPractice.jsx";
 import VocabularyReview from "./components/VocabularyReview.jsx";
 import WritingPractice from "./components/WritingPractice.jsx";
 import ReadingExamPage from "./components/readingExam/ReadingExamPage.jsx";
+import { api } from "./api.js";
 
 const navGroups = [
   {
@@ -257,6 +258,38 @@ function MobileTabBar({ activeTab, onNavigate }) {
   );
 }
 function SettingsPage() {
+  const [message, setMessage] = useState("");
+
+  async function exportProgress() {
+    try {
+      const backup = await api.exportProgress();
+      const blob = new Blob([JSON.stringify(backup, null, 2)], { type: "application/json" });
+      const url = URL.createObjectURL(blob);
+      const link = document.createElement("a");
+      link.href = url;
+      link.download = `english-exam-lab-progress-${new Date().toISOString().slice(0, 10)}.json`;
+      link.click();
+      URL.revokeObjectURL(url);
+      setMessage("学习进度已导出。");
+    } catch (error) {
+      setMessage(error.message || "导出学习进度失败。");
+    }
+  }
+
+  async function importProgress(event) {
+    const file = event.target.files?.[0];
+    if (!file) return;
+    try {
+      const backup = JSON.parse(await file.text());
+      await api.importProgress(backup);
+      setMessage("学习进度已导入，刷新页面后生效。");
+    } catch (error) {
+      setMessage(error.message || "导入学习进度失败。");
+    } finally {
+      event.target.value = "";
+    }
+  }
+
   return (
     <section className="page-section">
       <header className="page-header">
@@ -300,6 +333,20 @@ function SettingsPage() {
           </div>
           <span className="exam-chip">english_exam.db</span>
         </div>
+        <div className="setting-row">
+          <div>
+            <strong>学习进度备份</strong>
+            <p>导出或导入单词复习、错题、考试记录和本地进度。</p>
+          </div>
+          <div className="settings-actions">
+            <button className="secondary-button" type="button" onClick={exportProgress}>导出进度</button>
+            <label className="secondary-button import-button">
+              导入进度
+              <input type="file" accept="application/json,.json" onChange={importProgress} />
+            </label>
+          </div>
+        </div>
+        {message && <div className="feedback correct settings-feedback">{message}</div>}
       </section>
 
       <section className="settings-section">

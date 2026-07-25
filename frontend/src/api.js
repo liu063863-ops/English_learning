@@ -37,7 +37,9 @@ export const api = {
     request(`/translations/${id}/attempt`, { method: "POST", body: JSON.stringify({ draft }) }),
   writings: (params = {}) => request(`/writings${toQuery(params)}`),
   submitWriting: (id, draft) => request(`/writings/${id}/drafts`, { method: "POST", body: JSON.stringify({ draft }) }),
-  recentDrafts: () => request("/writings/drafts/recent")
+  recentDrafts: () => request("/writings/drafts/recent"),
+  exportProgress: () => request("/progress/export"),
+  importProgress: (backup) => request("/progress/import", { method: "POST", body: JSON.stringify(backup) })
 };
 
 function toQuery(params) {

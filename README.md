@@ -67,6 +67,8 @@ run-electron.bat
 - 本地运行数据库：`backend/data/english_exam.db`
 - 仓库样例数据库：`backend/data/english_exam.db.sample`
 - 用户本地数据库已加入 `.gitignore`，避免把个人学习数据提交到仓库。
+- Electron 首次启动会自动把默认数据库复制到用户目录。
+- 设置页支持导出/导入学习进度，包含单词复习、错题、考试记录和本地进度表。
 
 ## 项目结构
 

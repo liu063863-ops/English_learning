@@ -6,7 +6,7 @@ import { examPapers, listeningMaterials, mockQuestions, questions, userProfile, 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 const dataDir = path.join(__dirname, "..", "data");
-const dbPath = path.join(dataDir, "kaoyan_english.json");
+const dbPath = process.env.JSON_STORE_PATH || path.join(dataDir, "kaoyan_english.json");
 
 const initialData = {
   userProfile,

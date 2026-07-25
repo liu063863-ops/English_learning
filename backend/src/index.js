@@ -26,6 +26,7 @@ import {
   saveWritingDraft,
   submitTranslationDraft
 } from "./writingPracticeRepository.js";
+import { exportSqliteProgress, importSqliteProgress } from "./progressBackupRepository.js";
 
 const app = express();
 const port = process.env.PORT || 4000;
@@ -89,6 +90,57 @@ app.get("/api/stats", async (_req, res, next) => {
   try {
     const store = await readStore();
     res.json(buildStats(store));
+  } catch (error) {
+    next(error);
+  }
+});
+
+app.get("/api/progress/export", async (_req, res, next) => {
+  try {
+    const store = await readStore();
+    const sqliteProgress = await exportSqliteProgress().catch((error) => ({
+      error: error.message,
+      tables: {}
+    }));
+    res.json({
+      version: 1,
+      app: "English Exam Lab",
+      exportedAt: now(),
+      jsonProgress: pickJsonProgress(store),
+      sqliteProgress
+    });
+  } catch (error) {
+    next(error);
+  }
+});
+
+app.post("/api/progress/import", async (req, res, next) => {
+  try {
+    const payload = req.body || {};
+    if (payload.app !== "English Exam Lab" || !payload.jsonProgress) {
+      return res.status(400).json({ error: "Invalid English Exam Lab progress backup" });
+    }
+
+    const store = await readStore();
+    applyJsonProgress(store, payload.jsonProgress);
+    await writeStore(store);
+
+    const sqliteResult = payload.sqliteProgress
+      ? await importSqliteProgress(payload.sqliteProgress).catch((error) => ({ error: error.message }))
+      : null;
+
+    res.json({
+      ok: true,
+      importedAt: now(),
+      jsonProgress: {
+        attempts: store.attempts.length,
+        examSessions: store.examSessions.length,
+        fullExamSessions: store.fullExamSessions.length,
+        wrongQuestions: store.wrongQuestions.length,
+        annotations: store.annotations.length
+      },
+      sqliteProgress: sqliteResult
+    });
   } catch (error) {
     next(error);
   }
@@ -934,6 +986,52 @@ function markStudyDay(store) {
   if (store.userProfile.lastStudyDate !== current) {
     store.userProfile.studyDays = (store.userProfile.studyDays || 0) + 1;
     store.userProfile.lastStudyDate = current;
+  }
+}
+
+function pickJsonProgress(store) {
+  return {
+    userProfile: store.userProfile,
+    words: store.words?.map((word) => ({
+      wordBookId: word.wordBookId,
+      word: word.word,
+      familiarity: word.familiarity,
+      masteryLevel: word.masteryLevel,
+      reviewCount: word.reviewCount,
+      rememberedCount: word.rememberedCount,
+      correctStreak: word.correctStreak,
+      wrongCount: word.wrongCount,
+      lapseCount: word.lapseCount,
+      lastResult: word.lastResult,
+      lastReviewedAt: word.lastReviewedAt,
+      reviewedAt: word.reviewedAt,
+      nextReviewAt: word.nextReviewAt,
+      intervalDays: word.intervalDays,
+      easeFactor: word.easeFactor,
+      isNew: word.isNew
+    })) || [],
+    attempts: store.attempts || [],
+    examSessions: store.examSessions || [],
+    fullExamSessions: store.fullExamSessions || [],
+    wrongQuestions: store.wrongQuestions || [],
+    annotations: store.annotations || []
+  };
+}
+
+function applyJsonProgress(store, progress) {
+  store.userProfile = { ...store.userProfile, ...(progress.userProfile || {}) };
+  store.attempts = Array.isArray(progress.attempts) ? progress.attempts : store.attempts;
+  store.examSessions = Array.isArray(progress.examSessions) ? progress.examSessions : store.examSessions;
+  store.fullExamSessions = Array.isArray(progress.fullExamSessions) ? progress.fullExamSessions : store.fullExamSessions;
+  store.wrongQuestions = Array.isArray(progress.wrongQuestions) ? progress.wrongQuestions : store.wrongQuestions;
+  store.annotations = Array.isArray(progress.annotations) ? progress.annotations : store.annotations;
+
+  if (Array.isArray(progress.words)) {
+    const progressByKey = new Map(progress.words.map((word) => [`${word.wordBookId}:${word.word}`, word]));
+    store.words = store.words.map((word) => {
+      const saved = progressByKey.get(`${word.wordBookId}:${word.word}`);
+      return saved ? { ...word, ...saved, id: word.id } : word;
+    });
   }
 }
 

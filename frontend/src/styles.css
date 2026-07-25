@@ -2504,6 +2504,27 @@ textarea:focus {
   line-height: 1.6;
 }
 
+.settings-actions {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  gap: 10px;
+}
+
+.import-button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.import-button input {
+  display: none;
+}
+
+.settings-feedback {
+  margin-top: 12px;
+}
+
 .toggle {
   width: 44px;
   height: 24px;
