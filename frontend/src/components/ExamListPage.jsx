@@ -127,7 +127,7 @@ export default function ExamListPage() {
             <button key={exam.id} className="exam-card" onClick={() => openExam(exam.id)}>
               <div className="exam-card-top">
                 <span className={`exam-badge ${exam.level?.toLowerCase()}`}>{exam.level}</span>
-                <span className="exam-set">第 {exam.setNum || exam.set_num} 套</span>
+                <span className="exam-badge set">第 {exam.setNum || exam.set_num} 套</span>
               </div>
               <h2 className="exam-title">{exam.title}</h2>
               <div className="exam-meta">

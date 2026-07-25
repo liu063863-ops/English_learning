@@ -1402,11 +1402,12 @@ textarea:focus {
 }
 
 .exam-badge {
-  display: inline-block;
+  display: inline-flex;
+  align-items: center;
   min-height: 0;
   border-radius: 20px;
-  padding: 4px 10px;
-  margin-bottom: 12px;
+  padding: 4px 12px;
+  margin-bottom: 0;
   font-size: 12px;
   font-weight: 600;
 }
@@ -1417,13 +1418,18 @@ textarea:focus {
 }
 
 .exam-badge.cet4 {
-  background: color-mix(in srgb, var(--color-primary) 16%, var(--color-surface));
-  color: var(--color-primary-hover);
+  background: #dbeafe;
+  color: #1d4ed8;
 }
 
 .exam-badge.cet6 {
-  background: color-mix(in srgb, var(--color-danger) 12%, var(--color-surface));
-  color: color-mix(in srgb, var(--color-danger) 62%, var(--color-text-primary));
+  background: #fce7f3;
+  color: #be185d;
+}
+
+.exam-badge.set {
+  background: #fef3c7;
+  color: #b45309;
 }
 
 .exam-level.cet6 {
