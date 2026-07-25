@@ -1,4 +1,4 @@
-import { CalendarDays, Clock, FileText, Search } from "lucide-react";
+import { CalendarDays, Clock, FileText, PlayCircle, Search } from "lucide-react";
 import { useEffect, useMemo, useState } from "react";
 import { api } from "../api.js";
 import SkeletonCard from "./SkeletonCard.jsx";
@@ -63,17 +63,19 @@ export default function ExamListPage() {
         <span className="counter">{pagination.total || exams.length} 套试卷</span>
       </header>
 
-      <div className="filter-bar" aria-label="试卷筛选">
-        {levels.map((item) => (
-          <button
-            key={item.label}
-            className={filters.level === item.value ? "filter-btn active" : "filter-btn"}
-            onClick={() => updateFilter("level", item.value)}
-            type="button"
-          >
-            {item.label}
-          </button>
-        ))}
+      <div className="filter-bar exam-filter-bar" aria-label="试卷筛选">
+        <div className="filter-segment" role="group" aria-label="级别筛选">
+          {levels.map((item) => (
+            <button
+              key={item.label}
+              className={filters.level === item.value ? "filter-btn active" : "filter-btn"}
+              onClick={() => updateFilter("level", item.value)}
+              type="button"
+            >
+              {item.label}
+            </button>
+          ))}
+        </div>
 
         <select className="filter-select" value={filters.year} onChange={(event) => updateFilter("year", event.target.value)}>
           <option value="">全部年份</option>
@@ -112,7 +114,7 @@ export default function ExamListPage() {
         <div className="empty-state exam-empty-state">
           <div className="empty-icon">📭</div>
           <h3>没有找到符合条件的试卷</h3>
-          <p>尝试调整筛选条件或搜索关键词</p>
+          <p>尝试调整筛选条件或搜索关键词。</p>
           <button className="btn-secondary" type="button" onClick={clearFilters}>
             清除筛选
           </button>
@@ -133,6 +135,10 @@ export default function ExamListPage() {
                 <span><FileText size={16} />{exam.totalQuestions ?? exam.questionCount ?? 0} 题</span>
                 <span><Clock size={16} />{exam.estimatedTime ?? exam.estimatedMinutes ?? 0} 分钟</span>
               </div>
+              <span className="exam-action">
+                <PlayCircle size={16} />
+                开始考试
+              </span>
             </button>
           ))}
         </div>

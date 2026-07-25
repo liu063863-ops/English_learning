@@ -63,6 +63,7 @@ textarea {
   padding: 18px 10px;
 }
 
+.sidebar-header,
 .sidebar-logo {
   display: flex;
   align-items: center;
@@ -101,6 +102,7 @@ textarea {
     transform var(--transition-base);
 }
 
+.logo-title,
 .logo-text strong {
   display: block;
   overflow: hidden;
@@ -110,15 +112,17 @@ textarea {
   white-space: nowrap;
 }
 
+.logo-subtitle,
 .logo-text span {
   display: block;
-  color: var(--color-text-muted);
+  color: rgba(255, 255, 255, 0.56);
   font-size: 13px;
   overflow: hidden;
   text-overflow: ellipsis;
   white-space: nowrap;
 }
 
+.sidebar.collapsed .sidebar-header,
 .sidebar.collapsed .sidebar-logo {
   justify-content: center;
   margin: -18px -10px 14px;
@@ -138,24 +142,28 @@ textarea {
   justify-content: center;
   gap: 8px;
   width: 100%;
-  min-height: 56px;
-  border: 0;
-  border-top: 1px solid color-mix(in srgb, var(--color-surface) 5%, transparent);
-  border-radius: 0;
-  margin: auto -16px -22px;
-  padding: 16px;
-  background: transparent;
-  color: color-mix(in srgb, var(--color-surface) 50%, transparent);
+  min-height: 46px;
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  border-radius: var(--radius-md);
+  margin: auto 0 0;
+  padding: 12px 14px;
+  background: rgba(255, 255, 255, 0.04);
+  color: rgba(255, 255, 255, 0.68);
   cursor: pointer;
-  font-weight: 800;
+  font-size: 14px;
+  font-weight: 700;
   transition:
     background var(--transition-fast),
-    color var(--transition-fast);
+    border-color var(--transition-fast),
+    color var(--transition-fast),
+    transform var(--transition-fast);
 }
 
 .sidebar-toggle:hover {
   background: var(--color-sidebar-hover);
+  border-color: rgba(255, 255, 255, 0.16);
   color: var(--color-surface);
+  transform: translateY(-1px);
 }
 
 .sidebar.collapsed .sidebar-toggle span {
@@ -163,7 +171,8 @@ textarea {
 }
 
 .sidebar.collapsed .sidebar-toggle {
-  margin: auto -10px -18px;
+  margin: auto 0 0;
+  padding: 12px;
 }
 
 .nav-groups {
@@ -1136,6 +1145,26 @@ textarea:focus {
   margin-bottom: 24px;
 }
 
+.filter-segment {
+  display: inline-flex;
+  overflow: hidden;
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-md);
+  background: var(--color-surface);
+  box-shadow: var(--shadow-sm);
+}
+
+.filter-segment .filter-btn {
+  border: 0;
+  border-radius: 0;
+  border-right: 1px solid var(--color-border);
+  box-shadow: none;
+}
+
+.filter-segment .filter-btn:last-child {
+  border-right: 0;
+}
+
 .filter-btn {
   border: 1px solid var(--color-border);
   border-radius: var(--radius-md);
@@ -1154,15 +1183,15 @@ textarea:focus {
 
 .filter-btn:hover {
   border-color: var(--color-primary);
+  background: color-mix(in srgb, var(--color-primary) 8%, var(--color-surface));
   color: var(--color-primary);
-  transform: translateY(-1px);
 }
 
 .filter-btn.active {
   border-color: var(--color-primary);
   background: var(--color-primary);
   color: var(--color-surface);
-  box-shadow: var(--shadow-sm);
+  box-shadow: inset 0 0 0 1px color-mix(in srgb, white 16%, transparent);
 }
 
 .filter-select {
@@ -1306,7 +1335,7 @@ textarea:focus {
   position: relative;
   display: grid;
   gap: 14px;
-  min-height: 188px;
+  min-height: 218px;
   border: 1px solid var(--color-border);
   border-radius: var(--radius-lg);
   padding: 24px;
@@ -1335,6 +1364,12 @@ textarea:focus {
   border-color: var(--color-primary);
   box-shadow: var(--shadow-lg);
   transform: translateY(-4px);
+}
+
+.exam-card:focus-visible {
+  outline: none;
+  border-color: var(--color-primary);
+  box-shadow: 0 0 0 4px color-mix(in srgb, var(--color-primary) 18%, transparent), var(--shadow-lg);
 }
 
 .exam-card:hover::before {
@@ -1425,6 +1460,31 @@ textarea:focus {
   display: inline-flex;
   align-items: center;
   gap: 4px;
+}
+
+.exam-action {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  width: fit-content;
+  min-height: 36px;
+  margin-top: auto;
+  border-radius: var(--radius-md);
+  padding: 8px 14px;
+  background: linear-gradient(135deg, var(--color-primary), var(--color-primary-hover));
+  color: white;
+  font-size: 13px;
+  font-weight: 700;
+  box-shadow: 0 8px 18px color-mix(in srgb, var(--color-primary) 22%, transparent);
+  transition:
+    transform var(--transition-fast),
+    box-shadow var(--transition-fast);
+}
+
+.exam-card:hover .exam-action {
+  transform: translateY(-1px);
+  box-shadow: 0 12px 24px color-mix(in srgb, var(--color-primary) 28%, transparent);
 }
 
 .pagination-row {

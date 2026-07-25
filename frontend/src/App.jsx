@@ -125,11 +125,11 @@ export default function App() {
   return (
     <div className={sidebarCollapsed ? "app-shell sidebar-collapsed" : "app-shell"}>
       <aside className={sidebarCollapsed ? "sidebar collapsed" : "sidebar"}>
-        <div className="sidebar-logo">
+        <div className="sidebar-header">
           <div className="logo-icon">E</div>
           <div className="logo-text">
-            <strong>English Exam Lab</strong>
-            <span>鑻辫鐪熼鍦ㄧ嚎鑰冭瘯绯荤粺</span>
+            <div className="logo-title">English Exam Lab</div>
+            <div className="logo-subtitle">英语真题在线考试系统</div>
           </div>
         </div>
         <GroupedNavigation
